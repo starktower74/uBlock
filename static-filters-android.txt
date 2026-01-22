@@ -1,1 +1,45 @@
 
+!================================== Search ===================================!
+
+! https://www.google.com
+
+! Sign in button
+www.google.com##.gb_A
+www.google.com##.gb_Va.gb_Wd.gb_Od.gb_Ed
+
+!===================================== AI ======================================!
+
+! www.perplexity.ai
+
+! App promo
+www.perplexity.ai##.bg-super.text-inverse.hover\:opacity-80.font-sans.focus\:outline-none.outline-none.outline-transparent.transition.duration-300.ease-out.select-none.items-center.relative.group\/button.font-semimedium.justify-center.text-center.rounded-full.cursor-pointer.active\:scale-\[0\.97\].active\:duration-150.active\:ease-outExpo.origin-center.whitespace-nowrap.inline-flex.text-sm.h-8.px-2\.5
+
+!=================================== Banking ===================================!
+
+! https://retail.sbi.bank.in
+
+retail.sbi.bank.in###sbiCard_GiftWrapper
+retail.sbi.bank.in##.notifications_btm.slide.carousel
+retail.sbi.bank.in###footer
+retail.sbi.bank.in##.pwdChangeLink
+
+retail.sbi.bank.in##.mroa_links.col-md-2
+retail.sbi.bank.in##.tod_links.col-md-2
+retail.sbi.bank.in##.imp_links.col-md-2
+retail.sbi.bank.in##.mbenefit_links.col-md-2
+retail.sbi.bank.in##.favourites_link.col-md-2
+retail.sbi.bank.in##.watsappBank_link.col-md-2
+
+!================================ News Feed ==================================!
+
+! https://news.google.com
+
+! Sign in button
+news.google.com##.gb_Ed.gb_Od.gb_Wd.gb_Va
+
+! Sign in banner
+news.google.com##.Au3bp.EElTpf.kbeFSb.lMgtcc.R7GTQ.j7vNaf.ALi4tc.YtXOzd
+
+! Add top padding to top stories
+news.google.com###i5 > .cp7Yvc:style(padding-top: 10px !important;)
+
