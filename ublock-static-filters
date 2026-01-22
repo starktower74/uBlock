@@ -1,1 +1,722 @@
+!================================== Search ===================================!
 
+! https://www.google.com
+
+! Sign in button
+www.google.com##.gb_A
+www.google.com##.gb_Ed.gb_Od.gb_Wd.gb_Va
+
+! https://search.brave.com
+search.brave.com##.svelte-1uha8ag.download-cta
+search.brave.com##.svelte-4jwo3w.t-tertiary.desktop-small-regular
+
+! https://duckduckgo.com
+duckduckgo.com##.TccjmKV6RraCaCw5L9gd
+duckduckgo.com##.footer
+
+! https://www.bing.com
+www.bing.com###id_a
+www.bing.com##.linkBtn.tooltip.id_button
+www.bing.com###id_mobile
+www.bing.com##.langdisp.langLabel.b_hide
+www.bing.com##.b_vfly_dh.b_vfly
+
+!================================== Email =====================================!
+
+! Sign in with Google prompt
+||accounts.google.com/gsi/iframe/select?client_id=*.apps.googleusercontent.com
+
+! https://mail.proton.me
+mail.proton.me##.topnav-list--four-elements.empty\:hidden.items-center.flex-nowrap.flex.gap-1.ml-2.my-0.unstyled.topnav-list > div
+
+! https://outlook.live.com
+outlook.live.com##.LBktY > .GssDD
+
+!==================================== Apps ====================================!
+
+! https://vault.bitwarden.com
+vault.bitwarden.com##.tw-pb-6.tw-flex-col.tw-flex.-tw-m-6
+
+! https://www.pushbullet.com
+www.pushbullet.com##div.pointer.minitab:nth-of-type(7)
+
+!=================================== Social ===================================!
+
+! https://x.com
+x.com##.r-yz1j6i.r-qo02w8.r-l5o3uw.css-175oi2r
+
+! https://www.reddit.com
+www.reddit.com##advertise-button
+
+! https://discord.com
+discord.com##.anchorUnderlineOnHover_edefb8.anchor_edefb8
+
+!================================== Media =====================================!
+
+! https://www.youtube.com
+www.youtube.com###voice-search-button
+www.youtube.com###buttons > ytd-button-renderer.ytd-masthead.style-scope
+www.youtube.com##.ryd-tooltip-bar-container
+www.youtube.com###flexible-item-buttons > .ytd-menu-renderer.style-scope
+
+! Set captions background opacity to 50%
+youtube.com##.ytp-caption-segment:style(background: rgba(8, 8, 8, 0.5) !important;)
+
+! Members only filter
+www.youtube.com##ytd-rich-item-renderer.ytd-rich-grid-renderer:has(.yt-badge-shape--membership)
+!www.youtube.com##ytd-rich-item-renderer.ytd-rich-grid-renderer:has(.badge-style-type-members-only)
+
+! https://open.spotify.com
+open.spotify.com##.e-91000-button.e-91000-button-primary.encore-text-body-small-bold
+open.spotify.com##.e-91000-button--leading.e-91000-button--small.e-91000-overflow-wrap-anywhere.encore-text-body-small-bold.dzIYeQ.Button-sc-1dqy6lx-0
+
+! https://trakt.tv
+trakt.tv###af1a979-be54078-wrapper
+
+! https://www.twitch.tv
+www.twitch.tv###twilight-sticky-footer-root
+
+! https://www.crunchyroll.com
+www.crunchyroll.com##.banner-wrapper
+www.crunchyroll.com##div.nav-horizontal-layout__action-item--KZBne:nth-of-type(1)
+
+!================================== Torrent ===================================!
+
+! https://www.torrentleech.org
+www.torrentleech.org##.text-center.highlight-address.message
+www.torrentleech.org##.text-center.info.message
+
+! https://torbox.app
+torbox.app##.p-2.rounded-md.bg-\[\#12141B\].w-full.flex-col.flex.gap-2.ease-in-out.duration-300.transition.mt-2
+torbox.app##.py-2.gap-2.flex-col.flex
+
+!===================================== AI ======================================!
+
+! https://chatgpt.com
+
+! Sign in button top
+chatgpt.com##.btn-primary.relative.btn
+chatgpt.com##.max-xs\:hidden.md\:screen-arch\:flex.screen-arch\:hidden.btn-secondary.relative.btn
+chatgpt.com##.rounded-full.justify-center.items-center.w-9.h-9.flex.group-keyboard-focused\:focus-ring.touch\:w-10.touch\:h-10.group-hover\:bg-token-interactive-bg-secondary-selected
+
+! Sign in bottom prompt
+chatgpt.com##.pt-2.gap-3\.5.flex-col.flex.mb-2
+
+! Remove disclaimer
+chatgpt.com##.md\:px-\[60px\].\[view-transition-name\:var\(--vt-disclaimer\)\].text-xs.text-center.p-2.justify-center.items-center.w-full.min-h-8.flex.relative.text-token-text-secondary.-mt-4 > .pointer-events-auto
+chatgpt.com##.md\:px-\[60px\].\[view-transition-name\:var\(--vt-disclaimer\)\].text-xs.text-center.p-2.justify-center.items-center.w-full.min-h-8.flex.mt-auto.relative.text-token-text-secondary > .pointer-events-auto
+
+! Free offer top promo
+chatgpt.com##.rtl\:translate-x-1\/2.ltr\:-translate-x-1\/2.lg\:start-1\/2.gap-2.items-center.flex-col.flex.start-0.absolute.pointer-events-none
+
+! Upgrade promo
+chatgpt.com##.pe-2\.5.ps-2.py-1\.5.cursor-default.-me-2\.5.-ms-2.-my-1\.5.__menu-item-trailing-btn > div
+
+! Image gen promo
+chatgpt.com##.pt-8
+
+! Disable login prompt
+chatgpt.com##+js(set-session-storage-item, oai/apps/noAuthHasDismissedSoftRateLimitModal, true)
+
+! Move textbox higher
+!chatgpt.com##div#thread-bottom-container:style(padding-bottom: 10px !important;)
+
+! Disable login prompt
+!chatgpt.com##+js(set-local-storage-item, oai/apps/hasSeenNoAuthImagegenNux, true)
+!chatgpt.com##+js(set-session-storage-item, oai/apps/noAuthGoUpsellModalDismissed, true)
+
+! https://www.perplexity.ai
+www.perplexity.ai##.duration-150.flex-col.flex.sticky.gap-md.top-lg
+www.perplexity.ai##.md\:block.w-\[300px\].hidden.fixed.right-md.bottom-md
+www.perplexity.ai##.md\:grid.ring-1.shadow-md.rounded-xl.grid-cols-1.max-w-\[320px\].hidden.right-0.bottom-0.fixed.gap-md.bg-base.dark\:ring-subtler.ring-subtlest.m-md.p-sm
+www.perplexity.ai##.rounded-lg.px-3.hover\:opacity-80.inline-flex.origin-center.cursor-pointer.text-sm.h-8.text-inverse.border-transparent.border.bg-super.whitespace-nowrap.leading-loose.justify-center.items-center.text-center.font-sans.font-semimedium.select-none.interactable.reset
+www.perplexity.ai##.bg-super.divide-subtlest.ring-subtlest.border-subtlest.justify-center.hover\:opacity-80.duration-200.transition.items-center.cursor-pointer.w-full.flex.relative.md\:gap-sm.px-md.gap-xs.rounded-sm.h-bannerHeight
+
+! https://grok.com
+grok.com##.block.rounded-full.py-2.px-4.h-10.disabled\:hover\:bg-transparent.hover\:bg-button-ghost-hover.text-fg-primary.border-border-l2.border.select-none.\[\&_svg\]\:shrink-0.duration-100.transition-colors.disabled\:cursor-not-allowed.disabled\:opacity-60.focus-visible\:ring-ring.focus-visible\:ring-1.focus-visible\:outline-none.cursor-pointer.leading-\[normal\].font-medium.text-sm.whitespace-nowrap.gap-2.justify-center.items-center.inline-flex
+grok.com##.block.rounded-full.py-2.px-4.h-10.disabled\:hover\:bg-button-filled.hover\:bg-button-filled-hover.text-fg-invert.bg-button-filled.select-none.\[\&_svg\]\:shrink-0.duration-100.transition-colors.disabled\:cursor-not-allowed.disabled\:opacity-60.focus-visible\:ring-ring.focus-visible\:ring-1.focus-visible\:outline-none.cursor-pointer.leading-\[normal\].font-medium.text-sm.whitespace-nowrap.gap-2.justify-center.items-center.inline-flex
+grok.com##.text-nowrap.text-secondary.\@sm\:text-xs.text-\[11px\]
+
+! Upgrade button
+grok.com##.end-14.bottom-4.absolute.hover\:brightness-95.text-fg-primary.transition-all.items-center.font-bold.text-sm.px-3.gap-1\.5.rounded-xl.h-8.disabled\:hover\:bg-transparent.hover\:bg-button-ghost-hover.border-border-l2.border.select-none.\[\&_svg\]\:shrink-0.duration-100.disabled\:cursor-not-allowed.disabled\:opacity-60.focus-visible\:ring-ring.focus-visible\:ring-1.focus-visible\:outline-none.cursor-pointer.whitespace-nowrap.justify-center.inline-flex
+
+! https://gemini.google.com
+gemini.google.com##div.buttons-container:nth-of-type(2)
+gemini.google.com##.boqOnegoogleliteOgbOneGoogleBar
+gemini.google.com##.capabilities-disclaimer
+gemini.google.com##.ng-star-inserted.adv-upsell.buttons-container
+
+! Fix textbox position when removing disclaimer
+gemini.google.com##input-container.input-gradient:style(padding-bottom: 30px !important;)
+
+! https://claude.ai
+
+! Remove disclaimer
+claude.ai##.py-2.text-xs.text-center.text-text-500.bg-bg-100 .transition.hover\:text-text-300
+
+! Remove disclaimer (transparent text to fix textbox position)
+!claude.ai##.py-2.text-xs.text-center.text-text-500.bg-bg-100 > .transition.hover\:text-text-300:style(color: transparent !important;)
+
+! https://lmarena.ai
+
+! Login button
+lmarena.ai##.hover\:bg-header-primary\/90.bg-header-primary.text-text-interactive-inverted.font-medium.text-sm.py-2.px-4.\[\&_svg\]\:shrink-0.\[\&_svg\]\:pointer-events-none.disabled\:opacity-50.disabled\:pointer-events-none.focus-visible\:ring-offset-surface-primary.ring-offset-2.focus-visible\:ring-ring.focus-visible\:ring-2.focus-visible\:outline-none.transition-colors.rounded-md.whitespace-nowrap.gap-2.justify-center.items-center.inline-flex
+
+! Footer
+lmarena.ai##div.gap-2.flex-col.flex.p-2:nth-of-type(4)
+lmarena.ai##.text-\[10px\].whitespace-nowrap.text-text-muted
+
+! https://duck.ai
+
+! Remove disclaimer (transparent text to fix textbox position)
+duckduckgo.com##.TtApESNnpBUUYUTugtHv.wZ4JdaHxSAhGy1HoNVja._dJ357tkKXSh_Sup5xdW:style(color: transparent !important;)
+
+! https://chat.qwen.ai
+chat.qwen.ai##.dark\:text-\[\#797B89\].text-\[\#8C8D9B\].text-\[12px\].text-center.w-full.mt-3.mb-\[-5px\].z-\[999\]
+chat.qwen.ai##.bg-black\/60.overflow-hidden.justify-center.items-center.w-full.h-full.flex.z-\[999\].inset-0.fixed.modal
+chat.qwen.ai##.md\:translate-y-2.md\:mr-2.gap-\[10px\].flex.mr-1.relative
+chat.qwen.ai##.chat-container-statement
+chat.qwen.ai##.text-\[12px\].dark\:text-\[\#797B89\].text-\[\#8C8D9B\].z-\[999\].mb-\[23px\].text-center.w-full.bottom-0.absolute
+
+! https://chat.deepseek.com
+chat.deepseek.com##.a1e75851
+
+!=================================== Banking ===================================!
+
+! https://retail.sbi.bank.in
+retail.sbi.bank.in###sbiCard_GiftWrapper
+retail.sbi.bank.in##.col-comn.col-sm-0.col-md-2.col-lg-2 > .slide.carousel
+retail.sbi.bank.in###footer
+retail.sbi.bank.in##.pwdChangeLink
+retail.sbi.bank.in###header_navigation
+retail.sbi.bank.in##.iconWatsupHeader
+retail.sbi.bank.in##.emergencyBtn
+
+! Side links
+retail.sbi.bank.in##.mroa_links.col-md-2
+retail.sbi.bank.in##.tod_links.col-md-2
+retail.sbi.bank.in##.imp_links.col-md-2
+retail.sbi.bank.in##.mbenefit_links.col-md-2
+retail.sbi.bank.in##.favourites_link.col-md-2
+retail.sbi.bank.in##.watsappBank_link.col-md-2
+
+! https://cdnweb.onlineyono.sbi.bank.in
+cdnweb.onlineyono.sbi.bank.in##app-footer-landing-page
+cdnweb.onlineyono.sbi.bank.in##.banner-desktop
+
+! https://www.fednetbank.com
+www.fednetbank.com##.clearfix.dashboard-ad-component
+
+! https://omni.axis.bank.in
+omni.axis.bank.in##.ng-star-inserted.top-bar
+
+! https://www.sbicard.com
+www.sbicard.com##.login-footer
+www.sbicard.com##.clearfix.ribbon
+
+!================================= Finance ==================================!
+
+! https://kuvera.in
+kuvera.in##.b-mf__each1-teach1-container.b-portfolio-fd-banner
+kuvera.in##.b-portfolio-fund-info__separator
+kuvera.in##.row.footer.hidden-xs
+kuvera.in##.b-help-cta
+kuvera.in##.b-portfolio-fund-info__manage-fund-btn--scrolled-to-end.b-portfolio-fund-info__manage-fund-btn--visible.b-portfolio-fund-info__manage-fund-btn
+
+! https://groww.in
+groww.in##.footer_footerWrapper__49W38.backgroundTertiary.row
+
+! https://dhan.co
+dhan.co##.false.top-20.sticky
+dhan.co##.bottom-\[0\%\].z-\[50\].fixed.m-auto.px-4.py-2.border-\[\#f8b80538\].border-b-0.border.bgkendMF.rounded-t-2xl.bg-\[\#F7E5D7\].hidden.lg\:block
+dhan.co##.items-center.xl\:gap-3.gap-3.justify-end.lg\:flex.hidden
+
+! https://www.indmoney.com
+www.indmoney.com##.items-center.block > .gap-4.items-center.flex
+www.indmoney.com##.text-13px.text-brand-white.bg-brand-black
+
+! https://www.valueresearchonline.com
+www.valueresearchonline.com###bottom-modal
+www.valueresearchonline.com##.zsiq_float
+www.valueresearchonline.com##.text-decoration-none.has-shadow-animation.sub-btn.nav-link
+
+advisor.valueresearchonline.com##.zsiq_float
+
+! https://www.morningstar.in
+@@||msmedia.morningstar.com^$script,domain=morningstar.in
+
+! https://www.advisorkhoj.com
+||www.advisorkhoj.com/resources/images/formfds.gif.pagespeed.ce.RblxuUj-S6.gif$image
+
+! https://www.tickertape.in
+www.tickertape.in##.avoid--on-print.ttape-root.jsx-203082185
+www.tickertape.in##.keyratios-ad.ads-container.align-center.justify-center.flex-column.d-flex
+www.tickertape.in##.mt24.mf-peers-ad.ads-container.align-center.justify-center.flex-column.d-flex
+www.tickertape.in##.mf-portfolio-ad.ads-container.align-center.justify-center.flex-column.d-flex
+www.tickertape.in##.mf-news-ad.ads-container.align-center.justify-center.flex-column.d-flex
+www.tickertape.in##.mf-fundmanager-ad.ads-container.align-center.justify-center.flex-column.d-flex
+
+!================================= Marktet ==================================!
+
+! https://scanx.trade
+scanx.trade##.ng-star-inserted > .side-container
+
+!================================ News Feed ==================================!
+
+! https://news.google.com
+news.google.com##.gb_Cd
+news.google.com##div.gb_se.gb_te:nth-of-type(1)
+
+! https://news.ycombinator.com
+news.ycombinator.com##.pro-button-bottom.settings-row-pro.settings-row-more
+
+! https://www.yahoo.com
+www.yahoo.com##.ybar-menu-hover-open
+www.yahoo.com###footer-wrapper
+www.yahoo.com##.flex-nowrap.flex-col.size-full.flex
+www.yahoo.com###module-subscription
+www.yahoo.com##.evp-docked-fadein.evp-docked.evp-main
+
+www.yahoo.com##.xl\:max-w-\[300px\].lg\:top-\[720px\].lg\:sticky.text-center
+www.yahoo.com###right-rail > div > div > .dark\:bg-inkwell.py-5.px-4.bg-white.rounded-xl.w-full.mb-4.relative
+www.yahoo.com##.md\:gap-2.justify-end.items-center.basis-0.grow.shrink.md\:min-h-10.min-h-8.min-w-min.flex
+
+! https://finance.yahoo.com
+finance.yahoo.com##._yb_201whc._yb_1bx00m0
+finance.yahoo.com##._yb_yqdjm6
+finance.yahoo.com##.yf-17g2foe.footer-cta
+
+finance.yahoo.com##.evp-docked-fadein.evp-docked.evp-main
+
+!=================================== News ==================================!
+
+! https://www.reuters.com
+www.reuters.com##.refinitiv-promo-bar-module__container__lbSKl
+www.reuters.com##.site-header-module__button__ui8Ah.text-button-module__container__i-tuI.button-module__w_auto__Sem-F.button-module__round__QDFgq
+www.reuters.com##.site-header-module__my-news-link__JyoYj.body-module__extra_small_body__Bfz20.body-module__base__o--Cl.text-module__extra_small__8Buss.text-module__medium__2Rl30.text-module__graphite__fZRmg.text-module__text__0GDob
+www.reuters.com##.article-body-module__promo-box__hVl8h
+www.reuters.com##.market-bar-module__arrow__-98fX.market-bar-module__button__nCJBD.text-module__extra_small__8Buss.text-module__medium__2Rl30.text-module__dark-grey__UFC18.text-module__text__0GDob
+
+! Fix header position after removing promo bar
+www.reuters.com##div[class^="site-header-module__inner_"][class*="inner-sticky"]:style(top:0px !important)
+
+! Fix nav bar position to center
+www.reuters.com##.nav-bar-module__nav-button__mCZoN:style(right:150px !important)
+
+! https://www.nytimes.com
+www.nytimes.com##div.quiz-ad-container:nth-of-type(2)
+www.nytimes.com##div.quiz-ad-container:nth-of-type(4)
+www.nytimes.com##div.quiz-ad-container:nth-of-type(9)
+www.nytimes.com##.css-1kj7lfb
+
+! https://www.theguardian.com
+www.theguardian.com##.dcr-vxrady
+www.theguardian.com##.dcr-vqk2is > div
+www.theguardian.com##aside.dcr-1fnjjtg > span.dcr-1vetsv0 > gu-island
+www.theguardian.com##.dcr-145list
+www.theguardian.com##.dcr-1iuk88s > .dcr-1xdhyk6
+www.theguardian.com##.dcr-18ku0bu > .dcr-1xdhyk6
+www.theguardian.com##.dcr-1s8spa1 gu-island > .dcr-5k6jfi
+www.theguardian.com##.dcr-av5vqf
+www.theguardian.com##.dcr-1xyi04h
+
+! https://www.bbc.com
+www.bbc.com##.jLoJFd.sc-8342e32-8
+
+! https://theonion.com
+theonion.com##.wp-block-post-content-is-layout-constrained.is-layout-constrained.has-global-padding.wp-block-post-content.entry-content > div.wp-block-group-is-layout-flow.is-layout-flow.alignwide.wp-block-group
+
+!=================================== News Business ==================================!
+
+! https://www.bloomberg.com
+www.bloomberg.com##.media-ui-LogoBar_signInButton-9yr-B7jjuE0-
+www.bloomberg.com##.media-ui-LogoBar_subscribeButton-rqH7oKAhEzM-
+www.bloomberg.com##.bb-that--container.bb-that-header
+www.bloomberg.com###plug-banner-outlet
+www.bloomberg.com##.inline-newsletter-middle.inlineNewsletter_inline-newsletter-middle__3P_Ek
+www.bloomberg.com##.Footer_footerDesktop__Et_VT.media-ui-Footer_bottomContent-FGNwwTOXYJc-
+www.bloomberg.com###plug-banner-outlet
+www.bloomberg.com##section:nth-of-type(2) > div.gridModule_gridModule___HgOM:nth-of-type(1)
+www.bloomberg.com##.rightRail_terminalTout__CwAev.media-ui-TerminalTout_terminalTout-jMmQ--E35FQ-
+
+! https://www.wsj.com
+www.wsj.com##.edjz7cx3.css-100otit-MainHeader > .e1mkna771.css-jzm21u-MastHeadContainer > .e1mkna770.css-vkkgu1-CustomerNavWrapper
+www.wsj.com##.e1mkna770.css-1qmnoeb-CustomerNavWrapper > .e187e2r11.css-btvnlg-NavWrapper
+www.wsj.com##.e187e2r11.css-btvnlg-NavWrapper
+www.wsj.com##nav-hat
+
+! https://www.cnbc.com
+www.cnbc.com##.SignUpMenu-signUpMenu
+www.cnbc.com##.SignInMenu-signInMenu
+www.cnbc.com##.nav-menu-signupBtnStickyNav
+www.cnbc.com##.WatchLivestream-livestreamNavItemContainer
+www.cnbc.com##.pro.nav-menu-primaryLink
+www.cnbc.com##.pillIcon.nav-menu-proPillIcon
+www.cnbc.com##.investing_club.nav-menu-primaryLink
+www.cnbc.com##.pillIcon.nav-menu-investingClubPillIcon
+www.cnbc.com##.WatchLivestream-lsArticleStickyLoggedOut.WatchLivestream-watchContainer > .WatchLivestream-watchItems
+
+! https://www.ft.com
+www.ft.com##.slot-wrapper
+www.ft.com##.article__content-sign-up
+www.ft.com##.o-header__top-column--right.o-header__top-column
+
+! https://fortune.com
+fortune.com###related-video
+fortune.com##.ml-auto
+
+! https://www.marketwatch.com
+www.marketwatch.com##nav-hat
+www.marketwatch.com##.css-bvedya.eda6g4k18.trending-column
+www.marketwatch.com##.css-v733yg.eda6g4k2
+
+! https://www.barrons.com
+www.barrons.com##nav-hat
+www.barrons.com##.e1awv5ou0.emotion-icxcq1-TopRightWrapper
+
+! https://www.investing.com
+www.investing.com##.mdMax\:text-white.mdMax\:bg-inv-grey-800.md\:flex.hidden.user-area_user-area__rmf5_ > .md\:flex.hidden.user-area_proAppControl__aG_q9
+www.investing.com##div.my-10:nth-of-type(4)
+www.investing.com##button.hover\:text-\[\#232526\].hover\:bg-\[\#5b616e0f\].text-secondary:nth-of-type(6)
+www.investing.com##li.font-bold.text-xs.whitespace-nowrap.flex:nth-of-type(3)
+
+! https://in.investing.com
+in.investing.com##.mdMax\:text-white.mdMax\:bg-inv-grey-800.md\:flex.hidden.user-area_user-area__rmf5_ > .md\:flex.hidden.user-area_proAppControl__aG_q9
+in.investing.com##div.my-10:nth-of-type(4)
+in.investing.com##button.hover\:text-\[\#232526\].hover\:bg-\[\#5b616e0f\].text-secondary:nth-of-type(6)
+in.investing.com##li.font-bold.text-xs.whitespace-nowrap.flex:nth-of-type(3)
+
+! https://www.marketscreener.com
+www.marketscreener.com##.main-menu__primary--blue.main-menu__row__item
+
+!=================================== News Tech ==================================!
+
+! https://www.theverge.com
+www.theverge.com###zephr-footer-container
+www.theverge.com##.zephr-overlay
+
+!================================= News India ==================================!
+
+! https://www.thehindu.com
+www.thehindu.com##.btn-subscribe.btn
+www.thehindu.com##.thgsignin.btn-signup.btn
+www.thehindu.com##.btn-ebooks.btn
+
+! https://www.ndtv.com
+www.ndtv.com##.Ftr_wr
+www.ndtv.com##.vd-dock_wr
+
+! https://indianexpress.com
+indianexpress.com###taboola-loader
+indianexpress.com##.yellow-theme.myNotification-wrapper
+
+! https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##.GQW9n
+timesofindia.indiatimes.com##.ItUPk.QJDs2.dg0Vm
+timesofindia.indiatimes.com##.e2QJg
+timesofindia.indiatimes.com##.slick_UI.Jniq2
+
+! https://www.cnbctv18.com
+www.cnbctv18.com##.below-summary-ad.jsx-a1f7f0abdc69a52
+www.cnbctv18.com##.rhs-long-ad.jsx-2339679147.jsx-216b97f5d43a6f7d
+www.cnbctv18.com##.topHeader.desk_header_banner.jsx-5cce2bd4cedf6a03
+www.cnbctv18.com##.below-summary-ad.jsx-1586f4170b918b1b
+
+! Live TV
+www.cnbctv18.com##.live-tv-section.jsx-1316522691
+www.cnbctv18.com##.promolg.jsx-1316522691
+
+! https://inshorts.com
+inshorts.com##.gJ3yz1PrLw_7NyuylXLz
+
+!=============================== News Business India ===============================!
+
+! https://economictimes.indiatimes.com
+economictimes.indiatimes.com##.dyContent.nyo_sticky_ftr
+economictimes.indiatimes.com##.short.stickyBand
+economictimes.indiatimes.com##.full.stickyBand
+economictimes.indiatimes.com##.emeritus_inarticle
+economictimes.indiatimes.com##.styles_cube__sjG0C
+economictimes.indiatimes.com##.ui-draggable.tv_large.bud_20.dragTvBox
+economictimes.indiatimes.com##.liveTvSticky
+economictimes.indiatimes.com##div.stickyContainer:nth-of-type(2)
+economictimes.indiatimes.com##.styles_etPrimeBanner__TniLD
+economictimes.indiatimes.com##.gaDone.clearfix.article_block > .bylineBox > .contentwrapper.dt > .flr.artShare.vam.dtc > .sharePbanner
+economictimes.indiatimes.com##.whatsappFollow
+economictimes.indiatimes.com##.ai_podcast_030825
+economictimes.indiatimes.com##.paywall.clr.artData > .medium.artText > .show.inSideInd
+economictimes.indiatimes.com##.styles_homeLeftSectionBanner__8_ohA.styles_banner__UWnfW
+economictimes.indiatimes.com##.gaDone.clearfix.article_block > .clearfix.edition > .newRHSSideBar.newSideBar.sideBar.flr > div.stickyContainer > .mktArticleUradar
+economictimes.indiatimes.com##.gaDone.clearfix.article_block > .clearfix.edition > .newRHSSideBar.newSideBar.sideBar.flr > div.stickyContainer:nth-of-type(1) > div:nth-of-type(3)
+economictimes.indiatimes.com##.budgetCube
+economictimes.indiatimes.com##.gaDone.clearfix.article_block > .clearfix.edition > .newRHSSideBar.newSideBar.sideBar.flr > .etAIDecade
+economictimes.indiatimes.com##.etPrimeBanner
+
+economictimes.indiatimes.com##.masterclassCarousel
+economictimes.indiatimes.com##.animText.navAI
+economictimes.indiatimes.com###etExceBanner
+economictimes.indiatimes.com##.grandmaster_widget > .initiated
+economictimes.indiatimes.com###aiMasterClass > .styles_extrapad__kCaQt
+economictimes.indiatimes.com##.clr.videos.jsx-7ca76344882e59e1
+economictimes.indiatimes.com##.etSpecial.jsx-cb97ed35265ccdaa
+economictimes.indiatimes.com##.etAIDecade.jsx-d0ca7de6f7404e71
+economictimes.indiatimes.com##.LiveStreamPlay_homePage__Us0Df.LiveStreamPlay_livestreamBox__hvkR0
+
+economictimes.indiatimes.com##div.adSize250.adContainer:nth-of-type(1)
+economictimes.indiatimes.com##.default_page.container.pageHolder > .topAdContainer
+economictimes.indiatimes.com##div.adSize250.adContainer:nth-of-type(2)
+economictimes.indiatimes.com##div.adSize250.adContainer:nth-of-type(5)
+economictimes.indiatimes.com##div.adSize250.adContainer:nth-of-type(6)
+economictimes.indiatimes.com##div.adSize250.adContainer:nth-of-type(7)
+economictimes.indiatimes.com##div.adSize250.adContainer:nth-of-type(8)
+economictimes.indiatimes.com##div.adSize250.adContainer:nth-of-type(9)
+economictimes.indiatimes.com##div.adSize250.adContainer:nth-of-type(10)
+economictimes.indiatimes.com##div.adSize250.adContainer:nth-of-type(11)
+economictimes.indiatimes.com##div.adSize250.adContainer:nth-of-type(12)
+economictimes.indiatimes.com##div.adSize250.adContainer:nth-of-type(13)
+economictimes.indiatimes.com##div.adSize250.adContainer:nth-of-type(14)
+economictimes.indiatimes.com##div.adSize250.adContainer:nth-of-type(15)
+economictimes.indiatimes.com##div.adSize250.adContainer:nth-of-type(16)
+
+! Epaper
+epaper.indiatimes.com##.timer_container
+
+! https://www.business-standard.com
+www.business-standard.com##.today_topleftel__wvskF > small
+www.business-standard.com##.MainStory_whtsppchannle___HEk3
+
+! https://www.moneycontrol.com
+www.moneycontrol.com###mc_headband
+www.moneycontrol.com##.headband_img_ht
+www.moneycontrol.com##.fright
+www.moneycontrol.com##.page_right_wrapper
+www.moneycontrol.com##[href="https://www.moneycontrolpay.com/"] > dotlottie-player
+www.moneycontrol.com##.wrap
+www.moneycontrol.com##.upgrade
+www.moneycontrol.com##.mob-hide.cls_budget_adDiv
+www.moneycontrol.com##.mc_logo_be_a_pro.be_apro
+www.moneycontrol.com##.proExpert
+www.moneycontrol.com##.touchPoint
+www.moneycontrol.com##.bsTouchPoint
+www.moneycontrol.com##div.gal_sto_widget:nth-of-type(1)
+www.moneycontrol.com##.MT20.mob-hide.newsletter_widget_web.newsletter_widget
+www.moneycontrol.com##.join_follow
+
+! https://www.livemint.com
+www.livemint.com###subscriptionNewBanner
+www.livemint.com###ad-11747899667541
+www.livemint.com##.btmStrip
+www.livemint.com##.market_page_right > .ad
+www.livemint.com##.imagediv
+||www.livemint.com/lm-img/cdp/Storefront_Images/1746168736674.png$image
+www.livemint.com##.mainFrame.PLOffersFormBannerCss_mainFrame__zc2fF
+www.livemint.com##.RhsPersonalFinanceCss_container__Ccu5h
+www.livemint.com###shareBar_11744778808824 > .echoSdk_shareBarRhs
+
+! https://www.businesstoday.in
+www.businesstoday.in##.tapBoxCls
+www.businesstoday.in##.rhs_fixwhtsapp
+www.businesstoday.in##.bottomSliderSwipe
+
+!=============================== News Tech India ===============================!
+
+! https://www.91mobiles.com
+www.91mobiles.com##.p-t-24.sponsored-wdgt.w-f-100.listing
+www.91mobiles.com##.pos-abs.webcast_head
+www.91mobiles.com###countdown_widget
+
+! https://telecomtalk.info
+
+! Remove footer text
+telecomtalk.info##.footer-wrap
+
+! Remove footer bar (transparent to keep site bottom margin)
+telecomtalk.info##.site-footer:style(background: transparent !important;)
+
+!================================== News Local ==================================!
+
+! https://www.manoramaonline.com
+www.manoramaonline.com##.news-buzz-outer
+www.manoramaonline.com##.cmp-story-list__component-slot
+www.manoramaonline.com##li.cmp-header__web-only-right-li > .mm-btn--premium.mm-btn
+www.manoramaonline.com##.cardTeaser
+www.manoramaonline.com##.cmp-footer__middle-block
+
+! https://www.onmanorama.com
+www.onmanorama.com###container-b9d5d7b683 > .embed > .cmp-embedded-code > .cmp-embedded-code__inner
+www.onmanorama.com##.lf-disclosure
+
+! https://www.mathrubhumi.com
+www.mathrubhumi.com##.bg-adBackground.justify-center.flex.mx-auto.my-5.max-w-\[300px\].min-h-\[250px\]
+www.mathrubhumi.com##.google-preferred-source-badge
+www.mathrubhumi.com##.mb_hp_desktop_right_btf.slot
+www.mathrubhumi.com##.hidden.hide-scrollbar.trending-topics-container.navmenu-links
+www.mathrubhumi.com##.\33 00x600_article_right_ad.slot
+www.mathrubhumi.com##.\33 00x250_article_right_mid_ad.slot
+www.mathrubhumi.com##.\33 00x250_article_bottom_ad.slot
+www.mathrubhumi.com##.items-center.mt-\[30px\].justify-center.flex-col.flex
+www.mathrubhumi.com##.border-borderColor.border.rounded-\[10px\].mb-\[30px\].mt-\[10px\].shadow-md.p-\[20px\].bg-cardMobileBg.items-center.flex-col.flex
+www.mathrubhumi.com##.print\:hidden.arb\:px-0.px-\[10px\].m-auto.lg\:w-\[610px\].max-w-\[610px\].article-bottom > .text-primary.content-font
+www.mathrubhumi.com###emotes-iframe
+www.mathrubhumi.com##.my-\[20px\].rounded-\[10px\].border-borderColor.border.p-\[10px\].bg-bgColor.justify-between.flex.whatsapp-banner
+www.mathrubhumi.com##.also-watch
+
+! https://english.mathrubhumi.com
+english.mathrubhumi.com##.bg-adBackground.justify-center.flex.mx-auto.my-5.max-w-\[300px\].min-h-\[250px\]
+english.mathrubhumi.com##.google-preferred-source-badge
+english.mathrubhumi.com##.mb_hp_desktop_right_btf.slot
+english.mathrubhumi.com##.hidden.hide-scrollbar.trending-topics-container.navmenu-links
+english.mathrubhumi.com##.\33 00x600_article_right_ad.slot
+english.mathrubhumi.com##.\33 00x250_article_right_mid_ad.slot
+english.mathrubhumi.com##.\33 00x250_article_bottom_ad.slot
+english.mathrubhumi.com##.items-center.mt-\[30px\].justify-center.flex-col.flex
+english.mathrubhumi.com##.border-borderColor.border.rounded-\[10px\].mb-\[30px\].mt-\[10px\].shadow-md.p-\[20px\].bg-cardMobileBg.items-center.flex-col.flex
+english.mathrubhumi.com##.print\:hidden.arb\:px-0.px-\[10px\].m-auto.lg\:w-\[610px\].max-w-\[610px\].article-bottom > .text-primary.content-font
+english.mathrubhumi.com###emotes-iframe
+english.mathrubhumi.com##.my-\[20px\].rounded-\[10px\].border-borderColor.border.p-\[10px\].bg-bgColor.justify-between.flex.whatsapp-banner
+english.mathrubhumi.com##.also-watch
+
+! https://www.asianetnews.com
+www.asianetnews.com##.articledmouter
+www.asianetnews.com##.livetvbox._3R64w._1LRRj
+www.asianetnews.com##.rgtadbox._2aSW-
+www.asianetnews.com##.mb-12.eventBanner
+www.asianetnews.com##.rgtadbox.undefined
+www.asianetnews.com##.-baF-
+www.asianetnews.com##.morearticlesliderWrapper
+www.asianetnews.com##.E-6uL
+
+! Add bottom padding to header
+www.asianetnews.com##header:style(padding-bottom: 15px !important;)
+
+! https://newsable.asianetnews.com
+newsable.asianetnews.com##.articledmouter
+newsable.asianetnews.com##.livetvbox._3R64w._1LRRj
+newsable.asianetnews.com##.rgtadbox._2aSW-
+newsable.asianetnews.com##.mb-12.eventBanner
+newsable.asianetnews.com##.rgtadbox.undefined
+newsable.asianetnews.com##.-baF-
+newsable.asianetnews.com##.morearticlesliderWrapper
+newsable.asianetnews.com##.E-6uL
+
+! Add bottom padding to header
+newsable.asianetnews.com##header:style(padding-bottom: 15px !important;)
+
+newsable.asianetnews.com##.googlePreferInner
+newsable.asianetnews.com##.Connect.Creator
+newsable.asianetnews.com###\31 0041
+newsable.asianetnews.com##.items-center.justify-center.flex.MobgooglePreferOuter
+
+! https://www.reporterlive.com
+www.reporterlive.com##.addesktop.layerSec.advertiseSection
+www.reporterlive.com##.headerAddSection
+www.reporterlive.com##.join-watsapp-channel
+www.reporterlive.com##.mb-5.text-center.layers
+www.reporterlive.com##.footerMiddle
+www.reporterlive.com##.rSpecialSection > .layerSection > .wrapper > .layerSec.advertiseSection
+www.reporterlive.com##.sportsSection > .layerSection > .wrapper > .layerSec.advertiseSection
+www.reporterlive.com##.entertainSection > .layerSection > .wrapper > .layerSec.advertiseSection
+www.reporterlive.com##.d-flex.lifeStyleSection.indexMainSection > .layerSection > .wrapper > .layerSec.advertiseSection
+www.reporterlive.com##.districtSection > .layerSection > .wrapper > .layerSec.advertiseSection
+www.reporterlive.com##.wheelSection > .layerSection > .wrapper > .layerSec.advertiseSection
+
+! https://www.twentyfournews.com
+www.twentyfournews.com##.Widgettop.o_hidden.etext.mtop20.center.row
+www.twentyfournews.com##.plft15.row-sidebar > .mbtm20.etext.center.WidgetA
+www.twentyfournews.com##div.mbtm30.etext.center.WidgetA:nth-of-type(1)
+www.twentyfournews.com##div.mbtm30.etext.center.WidgetA:nth-of-type(3)
+www.twentyfournews.com##.o_hidden.WidgetA.row.etext.center.mtop30
+www.twentyfournews.com##div.mbtm30.etext.center.WidgetA:nth-of-type(8)
+www.reporterlive.com##.layerSec.liveTv
+
+!=============================== Magazines ==============================!
+
+! https://time.com
+time.com###pre-nav-container
+time.com##.rounded-lg.items-center.flex-col.h-full.flex.relative
+
+!================================ Read ================================!
+
+! https://app.raindrop.io
+app.raindrop.io##.upgrade-R9fx
+
+!============================= Read Business =============================!
+
+! https://www.economist.com
+www.economist.com##.call-to-action_mb-call-to-action--small__Dq0Sg.call-to-action_mb-call-to-action--primary__Hpuo3.call-to-action_mb-call-to-action__JMKot
+www.economist.com##div.media-query_mb-media-query--min-lg__mm1MB
+www.economist.com##.link_mb-link--large__Xt4wZ.link_mb-link__EG0v0
+www.economist.com##hr:nth-of-type(2)
+www.economist.com##hr:nth-of-type(1)
+
+!============================ Read Business India ===========================!
+
+! https://freefincal.com
+freefincal.com##.tve_empty_dropzone.tve_editor_main_content.thrv_wrapper.tve_no_icons.tve_no_drag.thrv-ribbon
+freefincal.com##.tve_empty_dropzone.tve_editor_main_content.thrv_wrapper.tve_no_icons.tve_no_drag.thrv-leads-slide-in > .thrv_text_element.thrv_wrapper
+freefincal.com###tve_tcb2_pattern-sticky_m1 > .tve-leads-conversion-object
+freefincal.com##.custom-html-widget.textwidget
+freefincal.com##div.code-block-block-2.code-block-2.code-block:nth-of-type(1)
+freefincal.com##.code-block-block-6.code-block-6.code-block
+freefincal.com###supplementary
+freefincal.com###text-17
+freefincal.com###text-14
+
+! https://finshots.in
+finshots.in##.subscribe-popup-parent
+
+! https://www.wealthy.in
+www.wealthy.in##.hkyMGo.StickySubscribeCta__Container-sc-9vga72-4
+
+! https://cleartax.in
+cleartax.in##.sm\:hidden.cursor-pointer.top-16.sticky
+
+!================================= Bible ================================!
+
+! https://www.biblestudytools.com
+www.biblestudytools.com##.alert-severity-normal.alert
+
+! https://www.biblegateway.com
+www.biblegateway.com##.top-wrapper > .sys-announce > .wrapper > .sys-announce-content
+www.biblegateway.com##.go1577786432
+
+!================================ Sites =================================!
+
+! https://opensourcealternative.to
+opensourcealternative.to##.w-full.mb-6
+opensourcealternative.to##.md\:px-10.px-4.overflow-y-scroll.overflow-x-hidden.h-screen > div.bg-white
+
+! https://gitflic.ru
+gitflic.ru##.js-single-banner.sidebar-single-banner
+
+! https://www.flightradar24.com
+www.flightradar24.com##.bg-gray-1500.flex-col.w-sidebar
+
+! https://timee.io
+timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round.q-btn--flat.no-outline.non-selectable.q-btn-item.q-btn
+
+!========================================================================!
+
+! Jan 18, 2026 https://www.onmanorama.com
+
+! Jan 19, 2026 https://www.economist.com
+
+! Jan 19, 2026 https://dhan.co
+
+! Jan 20, 2026 https://www.valueresearchonline.com
+
+! Jan 20, 2026 https://www.indmoney.com
+
+! Jan 20, 2026 https://groww.in
+
+! Jan 20, 2026 https://economictimes.indiatimes.com
+
+! Jan 20, 2026 https://economictimes.indiatimes.com
+
+! Jan 20, 2026 https://www.bloomberg.com
+
+! Jan 22, 2026 https://timesofindia.indiatimes.com
+
+! Jan 22, 2026 https://www.bloomberg.com
+
+! Jan 22, 2026 https://www.nytimes.com
