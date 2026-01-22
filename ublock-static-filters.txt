@@ -552,6 +552,7 @@ www.livemint.com##.echoSdk_shareBarRhs
 
 ! Android
 www.livemint.com###parentSidestickyopenapp
+www.livemint.com##.btmMenu
 
 ! https://www.businesstoday.in
 www.businesstoday.in##.tapBoxCls
@@ -756,4 +757,3 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Jan 22, 2026 https://www.bloomberg.com
 
 ! Jan 22, 2026 https://www.livemint.com
-
