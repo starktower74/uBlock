@@ -516,6 +516,17 @@ economictimes.indiatimes.com##div.adSize250.adContainer:nth-of-type(16)
 ! Epaper
 epaper.indiatimes.com##.timer_container
 
+! Android
+m.economictimes.com###downloadApp
+m.economictimes.com###appDwnldBanner
+m.economictimes.com##._2rMIm
+m.economictimes.com##._1Ic-2
+m.economictimes.com##.ooerz
+m.economictimes.com##._2R2GP
+m.economictimes.com##._2ujO9
+m.economictimes.com##._176IM
+m.economictimes.com###tbl_readmore_127180227 > .Pbannerbottom
+
 ! https://www.business-standard.com
 www.business-standard.com##.today_topleftel__wvskF > small
 www.business-standard.com##.MainStory_whtsppchannle___HEk3
@@ -740,12 +751,6 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 
 !========================================================================!
 
-! Jan 20, 2026 https://economictimes.indiatimes.com
-
-! Jan 20, 2026 https://economictimes.indiatimes.com
-
-! Jan 20, 2026 https://www.bloomberg.com
-
 ! Jan 22, 2026 https://timesofindia.indiatimes.com
 
 ! Jan 22, 2026 https://www.bloomberg.com
@@ -759,4 +764,3 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Jan 22, 2026 https://www.bloomberg.com
 
 ! Jan 22, 2026 https://www.livemint.com
-
