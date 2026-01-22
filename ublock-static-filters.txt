@@ -551,9 +551,10 @@ www.livemint.com##div.linkRight:nth-of-type(4)
 www.livemint.com##.echoSdk_shareBarRhs
 
 ! Android
-www.livemint.com###parentSidestickyopenapp
 www.livemint.com##.btmMenu
 www.livemint.com##.menuBtm
+www.livemint.com###parentSidestickyopenapp
+www.livemint.com##.eventFired.openinApp
 
 ! https://www.businesstoday.in
 www.businesstoday.in##.tapBoxCls
