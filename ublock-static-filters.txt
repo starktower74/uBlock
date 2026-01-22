@@ -365,6 +365,9 @@ www.bloomberg.com###plug-banner-outlet
 www.bloomberg.com##section:nth-of-type(2) > div.gridModule_gridModule___HgOM:nth-of-type(1)
 www.bloomberg.com##.rightRail_terminalTout__CwAev.media-ui-TerminalTout_terminalTout-jMmQ--E35FQ-
 
+! Android
+www.bloomberg.com##.media-ui-LogoBarMobile_right-0rIQ7fk-KaE-
+
 ! https://www.wsj.com
 www.wsj.com##.edjz7cx3.css-100otit-MainHeader > .e1mkna771.css-jzm21u-MastHeadContainer > .e1mkna770.css-vkkgu1-CustomerNavWrapper
 www.wsj.com##.e1mkna770.css-1qmnoeb-CustomerNavWrapper > .e187e2r11.css-btvnlg-NavWrapper
@@ -743,4 +746,6 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Jan 22, 2026 https://www.theverge.com
 
 ! Jan 22, 2026 https://www.livemint.com
+
+! Jan 22, 2026 https://www.bloomberg.com
 
