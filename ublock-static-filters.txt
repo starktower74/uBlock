@@ -542,6 +542,7 @@ www.livemint.com##.imagediv
 www.livemint.com##.mainFrame.PLOffersFormBannerCss_mainFrame__zc2fF
 www.livemint.com##.RhsPersonalFinanceCss_container__Ccu5h
 www.livemint.com###shareBar_11744778808824 > .echoSdk_shareBarRhs
+www.livemint.com##div.linkRight:nth-of-type(4)
 
 ! https://www.businesstoday.in
 www.businesstoday.in##.tapBoxCls
@@ -727,12 +728,6 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 
 !========================================================================!
 
-! Jan 20, 2026 https://www.valueresearchonline.com
-
-! Jan 20, 2026 https://www.indmoney.com
-
-! Jan 20, 2026 https://groww.in
-
 ! Jan 20, 2026 https://economictimes.indiatimes.com
 
 ! Jan 20, 2026 https://economictimes.indiatimes.com
@@ -746,4 +741,6 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Jan 22, 2026 https://www.nytimes.com
 
 ! Jan 22, 2026 https://www.theverge.com
+
+! Jan 22, 2026 https://www.livemint.com
 
