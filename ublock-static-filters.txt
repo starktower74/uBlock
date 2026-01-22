@@ -8,6 +8,11 @@
 www.google.com##.gb_A
 www.google.com##.gb_Ed.gb_Od.gb_Wd.gb_Va
 
+! Android
+
+! Sign in button
+www.google.com##.gb_Va.gb_Wd.gb_Od.gb_Ed
+
 ! https://search.brave.com
 search.brave.com##.svelte-1uha8ag.download-cta
 search.brave.com##.svelte-4jwo3w.t-tertiary.desktop-small-regular
@@ -134,6 +139,11 @@ www.perplexity.ai##.md\:grid.ring-1.shadow-md.rounded-xl.grid-cols-1.max-w-\[320
 www.perplexity.ai##.rounded-lg.px-3.hover\:opacity-80.inline-flex.origin-center.cursor-pointer.text-sm.h-8.text-inverse.border-transparent.border.bg-super.whitespace-nowrap.leading-loose.justify-center.items-center.text-center.font-sans.font-semimedium.select-none.interactable.reset
 www.perplexity.ai##.bg-super.divide-subtlest.ring-subtlest.border-subtlest.justify-center.hover\:opacity-80.duration-200.transition.items-center.cursor-pointer.w-full.flex.relative.md\:gap-sm.px-md.gap-xs.rounded-sm.h-bannerHeight
 
+! Android
+
+! App promo
+www.perplexity.ai##.bg-super.text-inverse.hover\:opacity-80.font-sans.focus\:outline-none.outline-none.outline-transparent.transition.duration-300.ease-out.select-none.items-center.relative.group\/button.font-semimedium.justify-center.text-center.rounded-full.cursor-pointer.active\:scale-\[0\.97\].active\:duration-150.active\:ease-outExpo.origin-center.whitespace-nowrap.inline-flex.text-sm.h-8.px-2\.5
+
 ! https://grok.com
 grok.com##.block.rounded-full.py-2.px-4.h-10.disabled\:hover\:bg-transparent.hover\:bg-button-ghost-hover.text-fg-primary.border-border-l2.border.select-none.\[\&_svg\]\:shrink-0.duration-100.transition-colors.disabled\:cursor-not-allowed.disabled\:opacity-60.focus-visible\:ring-ring.focus-visible\:ring-1.focus-visible\:outline-none.cursor-pointer.leading-\[normal\].font-medium.text-sm.whitespace-nowrap.gap-2.justify-center.items-center.inline-flex
 grok.com##.block.rounded-full.py-2.px-4.h-10.disabled\:hover\:bg-button-filled.hover\:bg-button-filled-hover.text-fg-invert.bg-button-filled.select-none.\[\&_svg\]\:shrink-0.duration-100.transition-colors.disabled\:cursor-not-allowed.disabled\:opacity-60.focus-visible\:ring-ring.focus-visible\:ring-1.focus-visible\:outline-none.cursor-pointer.leading-\[normal\].font-medium.text-sm.whitespace-nowrap.gap-2.justify-center.items-center.inline-flex
@@ -202,6 +212,9 @@ retail.sbi.bank.in##.mbenefit_links.col-md-2
 retail.sbi.bank.in##.favourites_link.col-md-2
 retail.sbi.bank.in##.watsappBank_link.col-md-2
 
+! Android
+retail.sbi.bank.in##.notifications_btm.slide.carousel
+
 ! https://cdnweb.onlineyono.sbi.bank.in
 cdnweb.onlineyono.sbi.bank.in##app-footer-landing-page
 cdnweb.onlineyono.sbi.bank.in##.banner-desktop
@@ -268,6 +281,17 @@ scanx.trade##.ng-star-inserted > .side-container
 ! https://news.google.com
 news.google.com##.gb_Cd
 news.google.com##div.gb_se.gb_te:nth-of-type(1)
+
+! Android
+
+! Sign in button
+news.google.com##.gb_Ed.gb_Od.gb_Wd.gb_Va
+
+! Sign in banner
+news.google.com##.Au3bp.EElTpf.kbeFSb.lMgtcc.R7GTQ.j7vNaf.ALi4tc.YtXOzd
+
+! Add top padding to top stories
+news.google.com###i5 > .cp7Yvc:style(padding-top: 10px !important;)
 
 ! https://news.ycombinator.com
 news.ycombinator.com##.pro-button-bottom.settings-row-pro.settings-row-more
@@ -397,6 +421,9 @@ www.marketscreener.com##.main-menu__primary--blue.main-menu__row__item
 www.theverge.com###zephr-footer-container
 www.theverge.com##.zephr-overlay
 www.theverge.com##._1wnt6o311
+
+! Android
+www.theverge.com##._1bjoufy2.vbsnq75 > ._6cuzo20 > ._14ksbek5._6cuzo21
 
 !================================= News India ==================================!
 
