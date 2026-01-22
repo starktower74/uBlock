@@ -546,6 +546,10 @@ www.livemint.com##.mainFrame.PLOffersFormBannerCss_mainFrame__zc2fF
 www.livemint.com##.RhsPersonalFinanceCss_container__Ccu5h
 www.livemint.com###shareBar_11744778808824 > .echoSdk_shareBarRhs
 www.livemint.com##div.linkRight:nth-of-type(4)
+www.livemint.com##.echoSdk_shareBarRhs
+
+! Android
+www.livemint.com###parentSidestickyopenapp
 
 ! https://www.businesstoday.in
 www.businesstoday.in##.tapBoxCls
@@ -749,3 +753,4 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 
 ! Jan 22, 2026 https://www.bloomberg.com
 
+! Jan 22, 2026 https://www.livemint.com
