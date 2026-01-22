@@ -548,6 +548,17 @@ www.moneycontrol.com##div.gal_sto_widget:nth-of-type(1)
 www.moneycontrol.com##.MT20.mob-hide.newsletter_widget_web.newsletter_widget
 www.moneycontrol.com##.join_follow
 
+! Android
+www.moneycontrol.com##.pro_promotion.for_nonpro_users.linkSignIn.nonProBtn
+www.moneycontrol.com##.btm_img_1
+www.moneycontrol.com##.js-li-win-to-spin-game-start.css-li-win-to-spin-game-start
+www.moneycontrol.com##.js-li-loan
+www.moneycontrol.com##.btm_img2
+www.moneycontrol.com##.snapShotAiSummery
+www.moneycontrol.com##.show-moblie.advSlotsGrayBoxs
+www.moneycontrol.com##.tech_newsletter
+www.moneycontrol.com##.desk-hide.newsletter_widget_wap.newsletter_widget
+
 ! https://www.livemint.com
 www.livemint.com###subscriptionNewBanner
 www.livemint.com###ad-11747899667541
@@ -766,4 +777,5 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 
 ! Jan 22, 2026 https://www.livemint.com
 
+! Jan 22, 2026 https://www.moneycontrol.com
 
