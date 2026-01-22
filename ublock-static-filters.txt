@@ -1,4 +1,5 @@
 ! Title: uBlock Static Filters
+! Expires: 6 hours
 
 !================================== Search ===================================!
 
@@ -754,3 +755,4 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Jan 22, 2026 https://www.bloomberg.com
 
 ! Jan 22, 2026 https://www.livemint.com
+
