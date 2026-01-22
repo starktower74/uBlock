@@ -368,6 +368,7 @@ www.bloomberg.com##.rightRail_terminalTout__CwAev.media-ui-TerminalTout_terminal
 
 ! Android
 www.bloomberg.com##.media-ui-LogoBarMobile_subscribeButton-GzFf5a3agro-
+www.bloomberg.com##.floating-copy-link.BasicContent_floatingCopyLink__7WMiL
 
 ! https://www.wsj.com
 www.wsj.com##.edjz7cx3.css-100otit-MainHeader > .e1mkna771.css-jzm21u-MastHeadContainer > .e1mkna770.css-vkkgu1-CustomerNavWrapper
