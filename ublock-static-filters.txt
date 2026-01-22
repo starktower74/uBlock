@@ -141,9 +141,8 @@ www.perplexity.ai##.rounded-lg.px-3.hover\:opacity-80.inline-flex.origin-center.
 www.perplexity.ai##.bg-super.divide-subtlest.ring-subtlest.border-subtlest.justify-center.hover\:opacity-80.duration-200.transition.items-center.cursor-pointer.w-full.flex.relative.md\:gap-sm.px-md.gap-xs.rounded-sm.h-bannerHeight
 
 ! Android
-
-! App promo
 www.perplexity.ai##.bg-super.text-inverse.hover\:opacity-80.font-sans.focus\:outline-none.outline-none.outline-transparent.transition.duration-300.ease-out.select-none.items-center.relative.group\/button.font-semimedium.justify-center.text-center.rounded-full.cursor-pointer.active\:scale-\[0\.97\].active\:duration-150.active\:ease-outExpo.origin-center.whitespace-nowrap.inline-flex.text-sm.h-8.px-2\.5
+www.perplexity.ai##.h-bannerHeight.gap-xs.px-md.md\:gap-sm.relative.flex.w-full.cursor-pointer.items-center.transition.duration-200.hover\:opacity-80.justify-center.border-subtlest.ring-subtlest.divide-subtlest.bg-super
 
 ! https://grok.com
 grok.com##.block.rounded-full.py-2.px-4.h-10.disabled\:hover\:bg-transparent.hover\:bg-button-ghost-hover.text-fg-primary.border-border-l2.border.select-none.\[\&_svg\]\:shrink-0.duration-100.transition-colors.disabled\:cursor-not-allowed.disabled\:opacity-60.focus-visible\:ring-ring.focus-visible\:ring-1.focus-visible\:outline-none.cursor-pointer.leading-\[normal\].font-medium.text-sm.whitespace-nowrap.gap-2.justify-center.items-center.inline-flex
