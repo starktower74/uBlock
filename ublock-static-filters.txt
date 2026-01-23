@@ -532,6 +532,14 @@ m.economictimes.com###tbl_readmore_127180227 > .Pbannerbottom
 ! https://www.business-standard.com
 www.business-standard.com##.today_topleftel__wvskF > small
 www.business-standard.com##.MainStory_whtsppchannle___HEk3
+www.business-standard.com##.sportcube_cubecontainer__6cwGd
+www.business-standard.com##.subscribbtn
+www.business-standard.com##.MetaPost_flwggle__kFKIT
+
+! Android
+www.business-standard.com##.stryadstp
+www.business-standard.com##.MainStory_readapp__QvG2w
+www.business-standard.com##.show-on-mobile
 
 ! https://www.moneycontrol.com
 www.moneycontrol.com###mc_headband
