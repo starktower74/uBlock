@@ -258,7 +258,9 @@ www.valueresearchonline.com##.text-decoration-none.has-shadow-animation.sub-btn.
 advisor.valueresearchonline.com##.zsiq_float
 
 ! https://www.morningstar.in
-@@||msmedia.morningstar.com^$script,domain=morningstar.in
+
+! Added in ublock filters
+!@@||msmedia.morningstar.com^$script,domain=morningstar.in
 
 ! https://www.advisorkhoj.com
 ||www.advisorkhoj.com/resources/images/formfds.gif.pagespeed.ce.RblxuUj-S6.gif$image
@@ -611,6 +613,8 @@ www.manoramaonline.com##.cmp-footer__middle-block
 ! https://www.onmanorama.com
 www.onmanorama.com###container-b9d5d7b683 > .embed > .cmp-embedded-code > .cmp-embedded-code__inner
 www.onmanorama.com##.lf-disclosure
+www.onmanorama.com##li.cmp-header__web-only-right-li:nth-of-type(2)
+www.onmanorama.com##.sign-in-button.cmp-header__nav-button
 
 ! https://www.mathrubhumi.com
 www.mathrubhumi.com##.bg-adBackground.justify-center.flex.mx-auto.my-5.max-w-\[300px\].min-h-\[250px\]
@@ -778,4 +782,6 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Jan 22, 2026 https://www.livemint.com
 
 ! Jan 22, 2026 https://www.moneycontrol.com
+
+! Jan 23, 2026 https://www.onmanorama.com
 
