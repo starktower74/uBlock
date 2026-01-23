@@ -560,6 +560,7 @@ www.moneycontrol.com##.snapShotAiSummery
 www.moneycontrol.com##.show-moblie.advSlotsGrayBoxs
 www.moneycontrol.com##.tech_newsletter
 www.moneycontrol.com##.desk-hide.newsletter_widget_wap.newsletter_widget
+www.moneycontrol.com##.mainWrapper_wap_advSlotsGrayBox__9tpqq
 
 ! https://www.livemint.com
 www.livemint.com###subscriptionNewBanner
@@ -784,4 +785,6 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Jan 22, 2026 https://www.moneycontrol.com
 
 ! Jan 23, 2026 https://www.onmanorama.com
+
+! Jan 23, 2026 https://www.moneycontrol.com
 
