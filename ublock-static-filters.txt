@@ -338,6 +338,14 @@ www.nytimes.com##div.quiz-ad-container:nth-of-type(4)
 www.nytimes.com##div.quiz-ad-container:nth-of-type(9)
 www.nytimes.com##.css-1kj7lfb
 
+! https://edition.cnn.com
+edition.cnn.com##.header__user-account-nav-desktop.header__user-account-nav-icon
+edition.cnn.com##.header__video-link-desktop.header__video-link
+edition.cnn.com##.header__audio-link--no-margin.header__audio-link-desktop.header__audio-link
+
+! https://www.washingtonpost.com
+www.washingtonpost.com##.wpds-c-hwuMTf-obFYN-isOutline-true.wpds-c-hwuMTf-kuIRBz-variant-primary.wpds-c-kSOqLF-eezhJm-cv.wpds-c-kSOqLF-ejCoEP-icon-left.wpds-c-kSOqLF-hZSyid-isOutline-true.wpds-c-kSOqLF-biynoz-density-compact.wpds-c-kSOqLF-uTUwn-variant-primary.wpds-c-hwuMTf.wpds-c-kSOqLF
+
 ! https://www.theguardian.com
 www.theguardian.com##.dcr-vxrady
 www.theguardian.com##.dcr-vqk2is > div
@@ -348,9 +356,34 @@ www.theguardian.com##.dcr-18ku0bu > .dcr-1xdhyk6
 www.theguardian.com##.dcr-1s8spa1 gu-island > .dcr-5k6jfi
 www.theguardian.com##.dcr-av5vqf
 www.theguardian.com##.dcr-1xyi04h
+www.theguardian.com##.dcr-syuney
+
+! https://www.axios.com
+www.axios.com##.rounded-xs.px-6.py-2.hover\:bg-nav-hover.bg-transparent.gap-x-2.items-center.flex
+
+! https://www.newsweek.com
+www.newsweek.com##.signin-button.auth-hidden.Button_nwTheme__o5q9t
+www.newsweek.com##.Button_--size-small__TmFrc.Button_--variant-solid__ToR3G.Button_--color-neutral__6ivUt.Button_small__NyCDp.Button_primary__WTwSy.Button_override__74XMu.Button_button__OFOdO.ArticleHeader_subscribeButton__D8c7j.Button_root__ZT_Ql.Actionable_root__LiyqW
+www.newsweek.com##div.Homepage_section__sZEh4:nth-of-type(7)
+
+! https://www.politico.com
+www.politico.com##.sign-up-21--initialized.sign-up-21
+www.politico.com##div.container__column:nth-of-type(2) > .container__slot > div.content-heading:nth-of-type(3)
+
+! https://www.npr.org
+www.npr.org##.navigation__shop
+www.npr.org##.navigation__newsletters
 
 ! https://www.bbc.com
 www.bbc.com##.jLoJFd.sc-8342e32-8
+
+! https://abcnews.go.com
+abcnews.go.com##.navigation__stream__link.AnchorLink
+
+! https://www.foxnews.com
+www.foxnews.com##.watch.button
+www.foxnews.com##.login
+www.foxnews.com##.network-wrapper
 
 ! https://theonion.com
 theonion.com##.wp-block-post-content-is-layout-constrained.is-layout-constrained.has-global-padding.wp-block-post-content.entry-content > div.wp-block-group-is-layout-flow.is-layout-flow.alignwide.wp-block-group
@@ -777,16 +810,6 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 
 !========================================================================!
 
-! Jan 22, 2026 https://timesofindia.indiatimes.com
-
-! Jan 22, 2026 https://www.bloomberg.com
-
-! Jan 22, 2026 https://www.nytimes.com
-
-! Jan 22, 2026 https://www.theverge.com
-
-! Jan 22, 2026 https://www.livemint.com
-
 ! Jan 22, 2026 https://www.bloomberg.com
 
 ! Jan 22, 2026 https://www.livemint.com
@@ -800,3 +823,22 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Jan 23, 2026 https://www.business-standard.com
 
 ! Jan 24, 2026 https://www.perplexity.ai
+
+! Jan 25, 2026 https://edition.cnn.com
+
+! Jan 25, 2026 https://www.washingtonpost.com
+
+! Jan 25, 2026 https://www.theguardian.com
+
+! Jan 25, 2026 https://www.axios.com
+
+! Jan 25, 2026 https://www.newsweek.com
+
+! Jan 25, 2026 https://www.politico.com
+
+! Jan 25, 2026 https://www.npr.org
+
+! Jan 25, 2026 https://abcnews.go.com
+
+! Jan 25, 2026 https://www.foxnews.com
+
