@@ -388,6 +388,16 @@ www.foxnews.com##.network-wrapper
 ! https://theonion.com
 theonion.com##.wp-block-post-content-is-layout-constrained.is-layout-constrained.has-global-padding.wp-block-post-content.entry-content > div.wp-block-group-is-layout-flow.is-layout-flow.alignwide.wp-block-group
 
+!================================== Magazines ==================================!
+
+! https://time.com
+time.com###pre-nav-container
+time.com##.rounded-lg.items-center.flex-col.h-full.flex.relative
+
+! https://www.theatlantic.com
+www.theatlantic.com##.NavAccountLinks_subscribe__2DNuJ
+www.theatlantic.com##li.NavAccountLinks_navListItem__Lxooj:nth-of-type(1)
+
 !=================================== News Business ==================================!
 
 ! https://www.bloomberg.com
@@ -742,12 +752,6 @@ www.twentyfournews.com##.o_hidden.WidgetA.row.etext.center.mtop30
 www.twentyfournews.com##div.mbtm30.etext.center.WidgetA:nth-of-type(8)
 www.reporterlive.com##.layerSec.liveTv
 
-!=============================== Magazines ==============================!
-
-! https://time.com
-time.com###pre-nav-container
-time.com##.rounded-lg.items-center.flex-col.h-full.flex.relative
-
 !================================ Read ================================!
 
 ! https://app.raindrop.io
@@ -842,3 +846,4 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 
 ! Jan 25, 2026 https://www.foxnews.com
 
+! Jan 25, 2026 https://www.theatlantic.com
