@@ -139,6 +139,7 @@ www.perplexity.ai##.md\:block.w-\[300px\].hidden.fixed.right-md.bottom-md
 www.perplexity.ai##.md\:grid.ring-1.shadow-md.rounded-xl.grid-cols-1.max-w-\[320px\].hidden.right-0.bottom-0.fixed.gap-md.bg-base.dark\:ring-subtler.ring-subtlest.m-md.p-sm
 www.perplexity.ai##.rounded-lg.px-3.hover\:opacity-80.inline-flex.origin-center.cursor-pointer.text-sm.h-8.text-inverse.border-transparent.border.bg-super.whitespace-nowrap.leading-loose.justify-center.items-center.text-center.font-sans.font-semimedium.select-none.interactable.reset
 www.perplexity.ai##.bg-super.divide-subtlest.ring-subtlest.border-subtlest.justify-center.hover\:opacity-80.duration-200.transition.items-center.cursor-pointer.w-full.flex.relative.md\:gap-sm.px-md.gap-xs.rounded-sm.h-bannerHeight
+www.perplexity.ai##.md\:block.-translate-x-1\/2.max-w-screen-md.w-full.hidden.left-1\/2.bottom-4.absolute
 
 ! Android
 www.perplexity.ai##.bg-super.text-inverse.hover\:opacity-80.font-sans.focus\:outline-none.outline-none.outline-transparent.transition.duration-300.ease-out.select-none.items-center.relative.group\/button.font-semimedium.justify-center.text-center.rounded-full.cursor-pointer.active\:scale-\[0\.97\].active\:duration-150.active\:ease-outExpo.origin-center.whitespace-nowrap.inline-flex.text-sm.h-8.px-2\.5
@@ -797,3 +798,5 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Jan 23, 2026 https://www.moneycontrol.com
 
 ! Jan 23, 2026 https://www.business-standard.com
+
+! Jan 24, 2026 https://www.perplexity.ai
