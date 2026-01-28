@@ -28,6 +28,7 @@ www.bing.com##.linkBtn.tooltip.id_button
 www.bing.com###id_mobile
 www.bing.com##.langdisp.langLabel.b_hide
 www.bing.com##.b_vfly_dh.b_vfly
+www.bing.com##.acf-button-standard__btn
 
 !================================== Email =====================================!
 
@@ -334,6 +335,9 @@ ground.news##.desktop\:self-stretch.tablet\:self-start.self-stretch
 ground.news##.hideElementSiteWide.text-dark-primary.text-18.bg-focus.items-center.h-full.w-full.p-\[1\.3rem\].flex-col.flex
 ground.news##.font-bold.gap-\[8px\].flex-col.flex.px-\[5px\].hideElementSiteWide
 ground.news##.relative.tablet\:flex-row.gap-\[1rem\].flex-col.leading-tight.tablet\:gap-\[2rem\].lg\:px-\[2rem\].p-\[1rem\].items-center.font-normal.col-span-12.lg\:text-22.text-16.text-light-primary.dark\:bg-dark-light.bg-dark-primary.flex
+
+! https://www.msn.com
+www.msn.com###ViewsPageId-AA1V9RTB > .article_content.consumption-page-structure > .consumption-page-gridarea_action
 
 !=================================== News ==================================!
 
@@ -855,4 +859,9 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Jan 28, 2026 https://ground.news
 
 ! Jan 28, 2026 https://theprint.in
+
+! Jan 29, 2026 https://www.bing.com
+
+! Jan 29, 2026 https://www.msn.com
+
 
