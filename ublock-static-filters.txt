@@ -337,7 +337,13 @@ ground.news##.font-bold.gap-\[8px\].flex-col.flex.px-\[5px\].hideElementSiteWide
 ground.news##.relative.tablet\:flex-row.gap-\[1rem\].flex-col.leading-tight.tablet\:gap-\[2rem\].lg\:px-\[2rem\].p-\[1rem\].items-center.font-normal.col-span-12.lg\:text-22.text-16.text-light-primary.dark\:bg-dark-light.bg-dark-primary.flex
 
 ! https://www.msn.com
-www.msn.com###ViewsPageId-AA1V9RTB > .article_content.consumption-page-structure > .consumption-page-gridarea_action
+www.msn.com##.feedback-container
+www.msn.com##action-tray
+www.msn.com##.footer
+www.msn.com###myInterests
+www.msn.com###srchfrm
+www.msn.com###SettingsDialog
+www.msn.com###sign-in-button-profile
 
 !=================================== News ==================================!
 
@@ -842,14 +848,6 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 
 !========================================================================!
 
-! Jan 25, 2026 https://www.newsweek.com
-
-! Jan 25, 2026 https://www.politico.com
-
-! Jan 25, 2026 https://www.npr.org
-
-! Jan 25, 2026 https://abcnews.go.com
-
 ! Jan 25, 2026 https://www.foxnews.com
 
 ! Jan 25, 2026 https://www.theatlantic.com
@@ -863,5 +861,4 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Jan 29, 2026 https://www.bing.com
 
 ! Jan 29, 2026 https://www.msn.com
-
 
