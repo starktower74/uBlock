@@ -55,6 +55,8 @@ www.pushbullet.com##div.pointer.minitab:nth-of-type(7)
 x.com##.r-yz1j6i.r-qo02w8.r-l5o3uw.css-175oi2r
 
 ! https://www.reddit.com
+www.reddit.com###get-app
+www.reddit.com###login-button
 www.reddit.com##advertise-button
 
 ! https://discord.com
@@ -861,4 +863,6 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Jan 29, 2026 https://www.bing.com
 
 ! Jan 29, 2026 https://www.msn.com
+
+! Jan 29, 2026 https://www.reddit.com
 
