@@ -29,6 +29,8 @@ www.bing.com###id_mobile
 www.bing.com##.langdisp.langLabel.b_hide
 www.bing.com##.b_vfly_dh.b_vfly
 www.bing.com##.acf-button-standard__btn
+www.bing.com###b-scopeListItem-conv
+www.bing.com###b-scopeListItem-copilotsearch
 
 !================================== Email =====================================!
 
@@ -869,3 +871,6 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Jan 29, 2026 https://www.reddit.com
 
 ! Jan 29, 2026 https://ground.news
+
+! Jan 29, 2026 https://www.bing.com
+
