@@ -320,7 +320,7 @@ finance.yahoo.com##._yb_201whc._yb_1bx00m0
 finance.yahoo.com##._yb_yqdjm6
 finance.yahoo.com##.yf-17g2foe.footer-cta
 finance.yahoo.com##.yf-10v4oiq.footer-cta
-
+finance.yahoo.com##footer
 finance.yahoo.com##.evp-docked-fadein.evp-docked.evp-main
 
 ! https://ground.news
@@ -873,4 +873,8 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Jan 29, 2026 https://ground.news
 
 ! Jan 29, 2026 https://www.bing.com
+
+! Jan 29, 2026 https://finance.yahoo.com
+
+
 
