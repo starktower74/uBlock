@@ -337,6 +337,8 @@ ground.news##.desktop\:self-stretch.tablet\:self-start.self-stretch
 ground.news##.hideElementSiteWide.text-dark-primary.text-18.bg-focus.items-center.h-full.w-full.p-\[1\.3rem\].flex-col.flex
 ground.news##.font-bold.gap-\[8px\].flex-col.flex.px-\[5px\].hideElementSiteWide
 ground.news##.relative.tablet\:flex-row.gap-\[1rem\].flex-col.leading-tight.tablet\:gap-\[2rem\].lg\:px-\[2rem\].p-\[1rem\].items-center.font-normal.col-span-12.lg\:text-22.text-16.text-light-primary.dark\:bg-dark-light.bg-dark-primary.flex
+ground.news##.relative.text-18.w-full.items-center.flex-col.flex.mx-auto
+ground.news##.desktop\:py-\[6px\].w-full.py-\[1rem\].relative
 
 ! https://www.msn.com
 www.msn.com##.feedback-container
@@ -866,3 +868,4 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 
 ! Jan 29, 2026 https://www.reddit.com
 
+! Jan 29, 2026 https://ground.news
