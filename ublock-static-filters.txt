@@ -806,6 +806,7 @@ www.economist.com##div.media-query_mb-media-query--min-lg__mm1MB
 www.economist.com##.link_mb-link--large__Xt4wZ.link_mb-link__EG0v0
 www.economist.com##hr:nth-of-type(2)
 www.economist.com##hr:nth-of-type(1)
+www.economist.com##p.e1y9q0ei0.css-1l5amll:nth-of-type(10)
 www.economist.com##._newsletterContentPromo
 www.economist.com##.legal_mb-footer__legal__WOOKE
 
