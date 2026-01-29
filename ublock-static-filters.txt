@@ -513,6 +513,7 @@ www.marketscreener.com##.main-menu__primary--blue.main-menu__row__item
 www.theverge.com###zephr-footer-container
 www.theverge.com##.zephr-overlay
 www.theverge.com##._1wnt6o311
+www.theverge.com##.duet--navigation--footer
 
 ! Android
 www.theverge.com##._1bjoufy2.vbsnq75 > ._6cuzo20 > ._14ksbek5._6cuzo21
@@ -884,4 +885,4 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 
 ! Jan 30, 2026 https://www.theregister.com
 
-
+! Jan 30, 2026 https://www.theverge.com
