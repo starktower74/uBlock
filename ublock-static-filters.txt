@@ -518,6 +518,9 @@ www.theverge.com##._1wnt6o311
 www.theverge.com##._1bjoufy2.vbsnq75 > ._6cuzo20 > ._14ksbek5._6cuzo21
 www.theverge.com##._1bjoufy2.vbsnq75 > ._6cuzo20 > ._14ksbek4._6cuzo21
 
+! https://www.theregister.com
+www.theregister.com###mob_user_link
+
 !================================= News India ==================================!
 
 ! https://www.thehindu.com
@@ -878,5 +881,7 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Jan 29, 2026 https://www.bbc.com
 
 ! Jan 29, 2026 https://ground.news
+
+! Jan 30, 2026 https://www.theregister.com
 
 
