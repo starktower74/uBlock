@@ -318,9 +318,9 @@ www.yahoo.com##.md\:gap-2.justify-end.items-center.basis-0.grow.shrink.md\:min-h
 ! https://finance.yahoo.com
 finance.yahoo.com##._yb_201whc._yb_1bx00m0
 finance.yahoo.com##._yb_yqdjm6
-finance.yahoo.com##.yf-17g2foe.footer-cta
-finance.yahoo.com##.yf-10v4oiq.footer-cta
+finance.yahoo.com##.footer-cta
 finance.yahoo.com##footer
+finance.yahoo.com##.dock-setting-btn
 finance.yahoo.com##.evp-docked-fadein.evp-docked.evp-main
 
 ! https://ground.news
@@ -806,6 +806,8 @@ www.economist.com##div.media-query_mb-media-query--min-lg__mm1MB
 www.economist.com##.link_mb-link--large__Xt4wZ.link_mb-link__EG0v0
 www.economist.com##hr:nth-of-type(2)
 www.economist.com##hr:nth-of-type(1)
+www.economist.com##._newsletterContentPromo
+www.economist.com##.legal_mb-footer__legal__WOOKE
 
 !============================ Read Business India ===========================!
 
@@ -878,4 +880,6 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Jan 29, 2026 https://finance.yahoo.com
 
 ! Jan 29, 2026 https://www.nytimes.com
+
+! Jan 29, 2026 https://www.economist.com
 
