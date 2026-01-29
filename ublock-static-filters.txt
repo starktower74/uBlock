@@ -324,23 +324,29 @@ finance.yahoo.com##.dock-setting-btn
 finance.yahoo.com##.evp-docked-fadein.evp-docked.evp-main
 
 ! https://ground.news
+ground.news###header-subscribe
+ground.news###header-login
+ground.news###subscribe-top
 ground.news##.px-\[2px\].text-dark-primary.bg-focus.z-1000.top-0.text-center.items-center.tablet\:h-auto.min-h-\[3\.8rem\].sticky.flex.hideElementSiteWide
+ground.news##.leading-\[120\%\].font-light.text-15
+ground.news##.px-marginmobile.border-light-heavy.desktop\:border-l.desktop\:border-t-0.border-t.desktop\:pl-\[1rem\].desktop\:py-0.py-\[2rem\].gap-\[1\.5rem\].flex-col.flex.desktop\:col-span-3.dark\:bg-ground-black.tablet\:bg-light-primary.tablet\:border-b-0.border-b.col-span-12.tablet\:my-0.my-\[2rem\] > .items-center.justify-between.w-full.flex
+ground.news##.font-bold.gap-\[8px\].flex-col.flex.px-\[5px\].hideElementSiteWide
 ground.news##.gap-\[0\.6rem\].tablet\:flex.hidden > .gap-\[0\.6rem\].flex
 ground.news##.bg-tertiary-light.dark\:bg-dark-heavy.right-0.left-0.z-1000.fixed
-ground.news##.px-marginmobile.border-light-heavy.desktop\:border-l.desktop\:border-t-0.border-t.desktop\:pl-\[1rem\].desktop\:py-0.py-\[2rem\].gap-\[1\.5rem\].flex-col.flex.desktop\:col-span-3.dark\:bg-ground-black.tablet\:bg-light-primary.tablet\:border-b-0.border-b.col-span-12.tablet\:my-0.my-\[2rem\] > .items-center.justify-between.w-full.flex
 ground.news##.gap-\[1\.5rem\].items-center.flex > .py-\[5px\]
 ground.news##.pt-\[1rem\].border-t.order-1.desktop\:block.hidden
 ground.news##.px-marginmobile.border-l-light-heavy.desktop\:border-l.desktop\:pl-\[1rem\].gap-\[1rem\].flex-col.flex.desktop\:col-span-3.col-span-12
 ground.news##.items-center.flex-col.tablet\:flex.tablet\:col-span-2.col-span-1
 ground.news##.text-light-primary.bg-dark-primary.text-15.w-full.mx-auto.z-20.relative.hideOnlyFromIncomingApps > .desktop\:px-margindesktop.tablet\:px-margintablet.px-marginmobile.mx-auto.items-center.max-w-screen-designmax.w-full.flex-col.flex
 ground.news##.desktop\:px-margindesktop.tablet\:px-margintablet.px-marginmobile.max-w-screen-designmax.gap-\[1\.3rem\].flex-col.flex.w-full
-ground.news##.leading-\[120\%\].font-light.text-15
 ground.news##.desktop\:self-stretch.tablet\:self-start.self-stretch
 ground.news##.hideElementSiteWide.text-dark-primary.text-18.bg-focus.items-center.h-full.w-full.p-\[1\.3rem\].flex-col.flex
-ground.news##.font-bold.gap-\[8px\].flex-col.flex.px-\[5px\].hideElementSiteWide
 ground.news##.relative.tablet\:flex-row.gap-\[1rem\].flex-col.leading-tight.tablet\:gap-\[2rem\].lg\:px-\[2rem\].p-\[1rem\].items-center.font-normal.col-span-12.lg\:text-22.text-16.text-light-primary.dark\:bg-dark-light.bg-dark-primary.flex
 ground.news##.relative.text-18.w-full.items-center.flex-col.flex.mx-auto
 ground.news##.desktop\:py-\[6px\].w-full.py-\[1rem\].relative
+ground.news##.mb-\[1\.3rem\].-mt-\[0\.9rem\].gap-\[1\.3rem\].flex-col.flex
+ground.news##.-mt-\[1\.1rem\].overflow-hidden.rounded-lg-s.text-light-primary.cursor-pointer.dark\:bg-altmedia-dark.bg-dark-primary.w-full.block
+ground.news##.mb-\[0\.6rem\].text-22.font-bold
 
 ! https://www.msn.com
 www.msn.com##.feedback-container
@@ -859,22 +865,6 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 
 !========================================================================!
 
-! Jan 25, 2026 https://www.foxnews.com
-
-! Jan 25, 2026 https://www.theatlantic.com
-
-! Jan 28, 2026 https://finance.yahoo.com
-
-! Jan 28, 2026 https://ground.news
-
-! Jan 28, 2026 https://theprint.in
-
-! Jan 29, 2026 https://www.bing.com
-
-! Jan 29, 2026 https://www.msn.com
-
-! Jan 29, 2026 https://www.reddit.com
-
 ! Jan 29, 2026 https://ground.news
 
 ! Jan 29, 2026 https://www.bing.com
@@ -886,5 +876,7 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Jan 29, 2026 https://www.economist.com
 
 ! Jan 29, 2026 https://www.bbc.com
+
+! Jan 29, 2026 https://ground.news
 
 
