@@ -522,6 +522,14 @@ www.theverge.com##._1bjoufy2.vbsnq75 > ._6cuzo20 > ._14ksbek4._6cuzo21
 ! https://www.theregister.com
 www.theregister.com###mob_user_link
 
+! https://www.tomshardware.com
+www.tomshardware.com##.flexisites-social
+www.tomshardware.com###auth-in-nav-header
+www.tomshardware.com##.sm\:border-solid.sm\:border-gray-200.sm\:border-r.sm\:relative.empty\:border-none.w-max.p-1\.5.h-full.flex
+www.tomshardware.com###newsletter-slice
+www.tomshardware.com###hammerbot
+www.tomshardware.com###document-footer
+
 !================================= News India ==================================!
 
 ! https://www.thehindu.com
@@ -886,3 +894,7 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Jan 30, 2026 https://www.theregister.com
 
 ! Jan 30, 2026 https://www.theverge.com
+
+! Jan 30, 2026 https://www.tomshardware.com
+
+
