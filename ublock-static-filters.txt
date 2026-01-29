@@ -371,6 +371,7 @@ www.nytimes.com##div.quiz-ad-container:nth-of-type(2)
 www.nytimes.com##div.quiz-ad-container:nth-of-type(4)
 www.nytimes.com##div.quiz-ad-container:nth-of-type(9)
 www.nytimes.com##.css-1kj7lfb
+www.nytimes.com##.actionbar-button.css-1eeh360
 
 ! https://edition.cnn.com
 edition.cnn.com##.header__user-account-nav-desktop.header__user-account-nav-icon
@@ -876,5 +877,5 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 
 ! Jan 29, 2026 https://finance.yahoo.com
 
-
+! Jan 29, 2026 https://www.nytimes.com
 
