@@ -318,9 +318,9 @@ www.yahoo.com##.md\:gap-2.justify-end.items-center.basis-0.grow.shrink.md\:min-h
 ! https://finance.yahoo.com
 finance.yahoo.com##._yb_201whc._yb_1bx00m0
 finance.yahoo.com##._yb_yqdjm6
-finance.yahoo.com##.footer-cta
+finance.yahoo.com##.yf-17g2foe.footer-cta
+finance.yahoo.com##.yf-10v4oiq.footer-cta
 finance.yahoo.com##footer
-finance.yahoo.com##.dock-setting-btn
 finance.yahoo.com##.evp-docked-fadein.evp-docked.evp-main
 
 ! https://ground.news
@@ -371,7 +371,6 @@ www.nytimes.com##div.quiz-ad-container:nth-of-type(2)
 www.nytimes.com##div.quiz-ad-container:nth-of-type(4)
 www.nytimes.com##div.quiz-ad-container:nth-of-type(9)
 www.nytimes.com##.css-1kj7lfb
-www.nytimes.com##.actionbar-button.css-1eeh360
 
 ! https://edition.cnn.com
 edition.cnn.com##.header__user-account-nav-desktop.header__user-account-nav-icon
@@ -411,6 +410,7 @@ www.npr.org##.navigation__newsletters
 
 ! https://www.bbc.com
 www.bbc.com##.jLoJFd.sc-8342e32-8
+www.bbc.com##div.iLXgbm.sc-9cd5bb24-0
 
 ! https://abcnews.go.com
 abcnews.go.com##.navigation__stream__link.AnchorLink
@@ -806,9 +806,6 @@ www.economist.com##div.media-query_mb-media-query--min-lg__mm1MB
 www.economist.com##.link_mb-link--large__Xt4wZ.link_mb-link__EG0v0
 www.economist.com##hr:nth-of-type(2)
 www.economist.com##hr:nth-of-type(1)
-www.economist.com##p.e1y9q0ei0.css-1l5amll:nth-of-type(10)
-www.economist.com##._newsletterContentPromo
-www.economist.com##.legal_mb-footer__legal__WOOKE
 
 !============================ Read Business India ===========================!
 
@@ -880,7 +877,6 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 
 ! Jan 29, 2026 https://finance.yahoo.com
 
-! Jan 29, 2026 https://www.nytimes.com
+! Jan 29, 2026 https://www.bbc.com
 
-! Jan 29, 2026 https://www.economist.com
 
