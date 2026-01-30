@@ -507,6 +507,7 @@ www.cnbc.com##.pillIcon.nav-menu-proPillIcon
 www.cnbc.com##.investing_club.nav-menu-primaryLink
 www.cnbc.com##.pillIcon.nav-menu-investingClubPillIcon
 www.cnbc.com##.WatchLivestream-lsArticleStickyLoggedOut.WatchLivestream-watchContainer > .WatchLivestream-watchItems
+www.cnbc.com##.CreateFreeAccountButton-buttonContainer
 
 ! https://www.ft.com
 www.ft.com##.slot-wrapper
@@ -936,4 +937,8 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Jan 30, 2026 https://www.japantimes.co.jp
 
 ! Jan 30, 2026 https://www.aljazeera.com
+
+! Jan 30, 2026 https://www.cnbc.com
+
+
 
