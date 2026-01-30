@@ -606,6 +606,9 @@ theprint.in###tdi_260
 theprint.in##.td-pb-row.wpb_row.vc_inner.vc_row.tdi_93.vc_row_inner
 theprint.in##.td-pb-row.wpb_row.tdi_108.vc_row
 
+! https://www.pib.gov.in
+www.pib.gov.in##.social
+
 ! https://inshorts.com
 inshorts.com##.gJ3yz1PrLw_7NyuylXLz
 
@@ -947,4 +950,6 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Jan 30, 2026 https://www.cnbc.com
 
 ! Jan 30, 2026 https://economictimes.indiatimes.com
+
+! Jan 30, 2026 https://www.pib.gov.in
 
