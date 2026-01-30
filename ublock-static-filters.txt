@@ -917,6 +917,9 @@ www.biblestudytools.com##.alert-severity-normal.alert
 www.biblegateway.com##.top-wrapper > .sys-announce > .wrapper > .sys-announce-content
 www.biblegateway.com##.go1577786432
 
+! https://www.bible.com
+www.bible.com##.no-underline.whitespace-nowrap.hover\:dark\:bg-canvas-dark.hover\:bg-gray-10.plb-1\.5.pli-2.rounded-4.font-bold.dark\:text-text-dark.text-text-light.md\:block.hidden
+
 !================================ Sites =================================!
 
 ! https://opensourcealternative.to
@@ -934,20 +937,6 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 
 !========================================================================!
 
-! Jan 29, 2026 https://ground.news
-
-! Jan 30, 2026 https://www.theregister.com
-
-! Jan 30, 2026 https://www.theverge.com
-
-! Jan 30, 2026 https://www.tomshardware.com
-
-! Jan 30, 2026 https://www.macrumors.com
-
-! Jan 30, 2026 https://old.reddit.com
-
-! Jan 30, 2026 https://finance.yahoo.com
-
 ! Jan 30, 2026 https://www.thedailybeast.com
 
 ! Jan 30, 2026 https://thelooker.thedailybeast.com
@@ -964,6 +953,4 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 
 ! Jan 30, 2026 https://www.windowscentral.com
 
-! Jan 30, 2026 https://www.windowscentral.com
-
-
+! Jan 31, 2026 https://www.bible.com
