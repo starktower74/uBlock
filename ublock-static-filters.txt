@@ -453,6 +453,12 @@ thelooker.thedailybeast.com##.top-\[var\(--spacing-8\)\].sticky > div
 thelooker.thedailybeast.com##astro-island > .w-full > .lg\:py-\[var\(--spacing-16\)\].py-\[var\(--spacing-12\)\].justify-center.flex
 thelooker.thedailybeast.com##astro-island > .w-full > .lg\:gap-\[var\(--spacing-6\)\].lg\:flex > .lg\:flex-shrink-0.lg\:w-\[300px\].lg\:block.hidden > .top-\[var\(--spacing-8\)\].sticky
 
+!=================================== News 2 ==================================!
+
+! https://www.aljazeera.com
+www.aljazeera.com##.sidebar-style.sib-newsletter-form
+www.aljazeera.com##.site-header__account > .auth-btn
+
 !=================================== News World ==================================!
 
 ! https://www.japantimes.co.jp
@@ -928,4 +934,6 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Jan 30, 2026 https://thelooker.thedailybeast.com
 
 ! Jan 30, 2026 https://www.japantimes.co.jp
+
+! Jan 30, 2026 https://www.aljazeera.com
 
