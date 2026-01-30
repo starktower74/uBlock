@@ -61,6 +61,9 @@ www.reddit.com###get-app
 www.reddit.com###login-button
 www.reddit.com##advertise-button
 
+! https://old.reddit.com
+old.reddit.com##.premium-banner-outer
+
 ! https://discord.com
 discord.com##.anchorUnderlineOnHover_edefb8.anchor_edefb8
 
@@ -322,6 +325,7 @@ finance.yahoo.com##.footer-cta
 finance.yahoo.com##footer
 finance.yahoo.com##.dock-setting-btn
 finance.yahoo.com##.evp-docked-fadein.evp-docked.evp-main
+finance.yahoo.com##.portfolioDockModule
 
 ! https://ground.news
 ground.news###header-subscribe
@@ -427,10 +431,34 @@ www.foxnews.com##.watch.button
 www.foxnews.com##.login
 www.foxnews.com##.network-wrapper
 
+!=================================== News 1 ==================================!
+
 ! https://theonion.com
 theonion.com##.wp-block-post-content-is-layout-constrained.is-layout-constrained.has-global-padding.wp-block-post-content.entry-content > div.wp-block-group-is-layout-flow.is-layout-flow.alignwide.wp-block-group
 
-!================================== Magazines ==================================!
+! https://www.thedailybeast.com
+www.thedailybeast.com##.btn-newsletter.rightLink
+www.thedailybeast.com##.menuRight
+www.thedailybeast.com##.cheatsheet__cheatsheet-list-container__newsletter
+
+! https://thelooker.thedailybeast.com
+thelooker.thedailybeast.com##.px-\[var\(--spacing-6\)\].pt-\[var\(--spacing-2\)\].pb-\[var\(--spacing-4\)\].box-border.bg-\[var\(--color-tailwind-gray-100\)\].content-stretch.overflow-hidden.group-\[\.no-ads\]\:hidden.size-full.relative.items-center.gap-\[var\(--spacing-2\)\].flex-col.flex
+thelooker.thedailybeast.com##.w-full.shrink-0.relative.min-w-\[300px\].max-w-\[400px\].lg\:items-center.lg\:w-\[clamp\(300px\,26vw\,400px\)\].lg\:gap-\[var\(--spacing-12\)\].lg\:flex-col.lg\:flex.hidden
+thelooker.thedailybeast.com##.lg\:my-0.lg\:py-\[var\(--spacing-5\)\].md\:mb-\[var\(--spacing-10\)\].md\:mt-\[calc\(var\(--spacing-8\)-var\(--spacing-10\)\)\].mb-\[var\(--spacing-8\)\].mt-\[calc\(var\(--spacing-6\)-var\(--spacing-10\)\)\].justify-center.flex
+thelooker.thedailybeast.com##.min-\[768px\]\:h-\[182px\].min-\[652px\]\:h-\[246px\].min-\[401px\]\:h-\[282px\].min-\[377px\]\:h-\[294px\].h-\[330px\].w-full.md\:gap-\[var\(--spacing-3\)\].md\:items-center.md\:flex-row.py-\[var\(--spacing-5\)\].bg-\[var\(--color-surface-secondary-light\)\].gap-\[var\(--spacing-4\)\].items-center.flex-col.px-\[var\(--spacing-5\)\].flex
+thelooker.thedailybeast.com##.px-\[var\(--spacing-12\)\].pt-\[var\(--spacing-4\)\].pb-\[var\(--spacing-5\)\].box-border.bg-\[var\(--color-tailwind-gray-100\)\].content-stretch.overflow-hidden.group-\[\.no-ads\]\:hidden.size-full.relative.items-center.gap-\[var\(--spacing-2\)\].flex-col.flex
+thelooker.thedailybeast.com##section:nth-of-type(3)
+thelooker.thedailybeast.com##.lg\:py-\[var\(--spacing-12\)\].md\:py-\[var\(--spacing-10\)\].pb-\[var\(--spacing-8\)\].pt-\[var\(--spacing-6\)\].lg\:px-\[var\(--spacing-margin-gt-1024\)\].md\:px-\[var\(--spacing-margin-768-1023\)\].px-\[var\(--spacing-margin-lt-767\)\].mx-auto.max-w-\[var\(--spacing-layout-max-width\)\] > div.w-full > .lg\:py-\[var\(--spacing-16\)\].py-\[var\(--spacing-12\)\].justify-center.flex
+thelooker.thedailybeast.com##.top-\[var\(--spacing-8\)\].sticky > div
+thelooker.thedailybeast.com##astro-island > .w-full > .lg\:py-\[var\(--spacing-16\)\].py-\[var\(--spacing-12\)\].justify-center.flex
+thelooker.thedailybeast.com##astro-island > .w-full > .lg\:gap-\[var\(--spacing-6\)\].lg\:flex > .lg\:flex-shrink-0.lg\:w-\[300px\].lg\:block.hidden > .top-\[var\(--spacing-8\)\].sticky
+
+!=================================== News World ==================================!
+
+! https://www.japantimes.co.jp
+www.japantimes.co.jp###user_account_header
+
+!================================= News Magazines =================================!
 
 ! https://time.com
 time.com###pre-nav-container
@@ -440,7 +468,7 @@ time.com##.rounded-lg.items-center.flex-col.h-full.flex.relative
 www.theatlantic.com##.NavAccountLinks_subscribe__2DNuJ
 www.theatlantic.com##li.NavAccountLinks_navListItem__Lxooj:nth-of-type(1)
 
-!=================================== News Business ==================================!
+!================================= News Business ==================================!
 
 ! https://www.bloomberg.com
 www.bloomberg.com##.media-ui-LogoBar_signInButton-9yr-B7jjuE0-
@@ -513,7 +541,6 @@ www.marketscreener.com##.main-menu__primary--blue.main-menu__row__item
 www.theverge.com###zephr-footer-container
 www.theverge.com##.zephr-overlay
 www.theverge.com##._1wnt6o311
-www.theverge.com##.duet--navigation--footer
 
 ! Android
 www.theverge.com##._1bjoufy2.vbsnq75 > ._6cuzo20 > ._14ksbek5._6cuzo21
@@ -531,6 +558,9 @@ www.tomshardware.com###hammerbot
 www.tomshardware.com##.slice-container-newsletterForm
 www.tomshardware.com##.inline-layout.pull-left.van-image-figure
 www.tomshardware.com###\35 f67327b-7a72-4250-966f-d52a016912ad
+
+! https://www.macrumors.com
+www.macrumors.com##.giveFeedback--l_KpRc1G
 
 !================================= News India ==================================!
 
@@ -881,21 +911,21 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 
 ! Jan 29, 2026 https://ground.news
 
-! Jan 29, 2026 https://www.bing.com
-
-! Jan 29, 2026 https://finance.yahoo.com
-
-! Jan 29, 2026 https://www.nytimes.com
-
-! Jan 29, 2026 https://www.economist.com
-
-! Jan 29, 2026 https://www.bbc.com
-
-! Jan 29, 2026 https://ground.news
-
 ! Jan 30, 2026 https://www.theregister.com
 
 ! Jan 30, 2026 https://www.theverge.com
 
 ! Jan 30, 2026 https://www.tomshardware.com
+
+! Jan 30, 2026 https://www.macrumors.com
+
+! Jan 30, 2026 https://old.reddit.com
+
+! Jan 30, 2026 https://finance.yahoo.com
+
+! Jan 30, 2026 https://www.thedailybeast.com
+
+! Jan 30, 2026 https://thelooker.thedailybeast.com
+
+! Jan 30, 2026 https://www.japantimes.co.jp
 
