@@ -635,6 +635,8 @@ economictimes.indiatimes.com##.sharePbanner
 economictimes.indiatimes.com##.etAIDecade
 economictimes.indiatimes.com##.medium.artText > .show.inSideInd
 economictimes.indiatimes.com##.band
+economictimes.indiatimes.com##.marketBand.MarketBand_band__WWq_I
+economictimes.indiatimes.com###budget_topband
 
 economictimes.indiatimes.com##.masterclassCarousel
 economictimes.indiatimes.com##.animText.navAI
