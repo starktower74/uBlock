@@ -631,6 +631,10 @@ economictimes.indiatimes.com##.gaDone.clearfix.article_block > .clearfix.edition
 economictimes.indiatimes.com##.budgetCube
 economictimes.indiatimes.com##.gaDone.clearfix.article_block > .clearfix.edition > .newRHSSideBar.newSideBar.sideBar.flr > .etAIDecade
 economictimes.indiatimes.com##.etPrimeBanner
+economictimes.indiatimes.com##.sharePbanner
+economictimes.indiatimes.com##.etAIDecade
+economictimes.indiatimes.com##.medium.artText > .show.inSideInd
+economictimes.indiatimes.com##.band
 
 economictimes.indiatimes.com##.masterclassCarousel
 economictimes.indiatimes.com##.animText.navAI
@@ -940,5 +944,5 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 
 ! Jan 30, 2026 https://www.cnbc.com
 
-
+! Jan 30, 2026 https://economictimes.indiatimes.com
 
