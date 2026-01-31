@@ -70,14 +70,18 @@ discord.com##.anchorUnderlineOnHover_edefb8.anchor_edefb8
 !================================== Media =====================================!
 
 ! https://www.youtube.com
+
+! Create button top
+www.youtube.com###buttons > ytd-button-renderer.ytd-masthead.style-scope
+
+! Voice button top
 www.youtube.com###voice-search-button
+
+! Subscribe button
 www.youtube.com###subscribe-button
 
 ! Join button
 www.youtube.com###sponsor-button
-
-! Create button top
-www.youtube.com###buttons > ytd-button-renderer.ytd-masthead.style-scope
 
 ! RYD bar under like button
 www.youtube.com##.ryd-tooltip-bar-container
