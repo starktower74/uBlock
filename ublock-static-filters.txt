@@ -77,11 +77,9 @@ www.youtube.com###buttons > ytd-button-renderer.ytd-masthead.style-scope
 ! Voice button top
 www.youtube.com###voice-search-button
 
-! Subscribe button
-www.youtube.com###subscribe-button
-
-! Join button
-www.youtube.com###sponsor-button
+! Remove subscribe, join button if not logged in (checks for avatar icon)
+youtube.com##body:not(:has(#avatar-btn)) #subscribe-button
+youtube.com##body:not(:has(#avatar-btn)) #sponsor-button
 
 ! RYD bar under like button
 www.youtube.com##.ryd-tooltip-bar-container
