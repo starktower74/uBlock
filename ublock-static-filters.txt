@@ -74,6 +74,7 @@ www.youtube.com###voice-search-button
 www.youtube.com###buttons > ytd-button-renderer.ytd-masthead.style-scope
 www.youtube.com##.ryd-tooltip-bar-container
 www.youtube.com###flexible-item-buttons > .ytd-menu-renderer.style-scope
+www.youtube.com###subscribe-button
 
 ! Set captions background opacity to 50%
 youtube.com##.ytp-caption-segment:style(background: rgba(8, 8, 8, 0.5) !important;)
@@ -963,5 +964,4 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Jan 31, 2026 https://www.bible.com
 
 ! Jan 31, 2026 https://www.the-independent.com
-
 
