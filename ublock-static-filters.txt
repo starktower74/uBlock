@@ -261,6 +261,7 @@ kuvera.in##.b-portfolio-fund-info__separator
 kuvera.in##.row.footer.hidden-xs
 kuvera.in##.b-help-cta
 kuvera.in##.b-portfolio-fund-info__manage-fund-btn--scrolled-to-end.b-portfolio-fund-info__manage-fund-btn--visible.b-portfolio-fund-info__manage-fund-btn
+kuvera.in##.b-portfolio-header__add-asset-container.v-popover
 
 ! https://groww.in
 groww.in##.footer_footerWrapper__49W38.backgroundTertiary.row
@@ -978,3 +979,4 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Jan 31, 2026 https://www.bible.com
 
 ! Jan 31, 2026 https://www.the-independent.com
+
