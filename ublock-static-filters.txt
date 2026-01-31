@@ -71,10 +71,20 @@ discord.com##.anchorUnderlineOnHover_edefb8.anchor_edefb8
 
 ! https://www.youtube.com
 www.youtube.com###voice-search-button
-www.youtube.com###buttons > ytd-button-renderer.ytd-masthead.style-scope
-www.youtube.com##.ryd-tooltip-bar-container
-www.youtube.com###flexible-item-buttons > .ytd-menu-renderer.style-scope
 www.youtube.com###subscribe-button
+www.youtube.com###sponsor-button
+
+! RYD bar under like button
+www.youtube.com##.ryd-tooltip-bar-container
+
+! Create button top
+www.youtube.com###buttons > ytd-button-renderer.ytd-masthead.style-scope
+
+! Share button
+www.youtube.com###top-level-buttons-computed > yt-button-view-model.ytd-menu-renderer
+
+! Download button
+www.youtube.com###flexible-item-buttons > .ytd-menu-renderer.style-scope
 
 ! Set captions background opacity to 50%
 youtube.com##.ytp-caption-segment:style(background: rgba(8, 8, 8, 0.5) !important;)
