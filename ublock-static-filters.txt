@@ -461,6 +461,13 @@ www.aljazeera.com##.site-header__account > .auth-btn
 
 !=================================== News World ==================================!
 
+! https://www.the-independent.com
+www.the-independent.com##.video-sticky-video
+www.the-independent.com##.newsletter-component
+www.the-independent.com###header-laptop-subscribe-button
+www.the-independent.com##.register-login-link
+www.the-independent.com##.gRMult.fTrYDj.sc-1ca6zfp-3.sc-1ca6zfp-1
+
 ! https://www.japantimes.co.jp
 www.japantimes.co.jp###user_account_header
 
@@ -954,4 +961,7 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Jan 30, 2026 https://www.windowscentral.com
 
 ! Jan 31, 2026 https://www.bible.com
+
+! Jan 31, 2026 https://www.the-independent.com
+
 
