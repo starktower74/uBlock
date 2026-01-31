@@ -71,7 +71,7 @@ discord.com##.anchorUnderlineOnHover_edefb8.anchor_edefb8
 
 ! https://www.youtube.com
 
-! Create button top
+! Create button top when logged in, Sign in button when logged out
 www.youtube.com###buttons > ytd-button-renderer.ytd-masthead.style-scope
 
 ! Voice button top
@@ -126,12 +126,15 @@ torbox.app##.py-2.gap-2.flex-col.flex
 ! https://chatgpt.com
 
 ! Sign in button top
-chatgpt.com##.btn-primary.relative.btn
-chatgpt.com##.max-xs\:hidden.md\:screen-arch\:flex.screen-arch\:hidden.btn-secondary.relative.btn
-chatgpt.com##.rounded-full.justify-center.items-center.w-9.h-9.flex.group-keyboard-focused\:focus-ring.touch\:w-10.touch\:h-10.group-hover\:bg-token-interactive-bg-secondary-selected
+!chatgpt.com##.btn-primary.relative.btn
+!chatgpt.com##.max-xs\:hidden.md\:screen-arch\:flex.screen-arch\:hidden.btn-secondary.relative.btn
+!chatgpt.com##.rounded-full.justify-center.items-center.w-9.h-9.flex.group-keyboard-focused\:focus-ring.touch\:w-10.touch\:h-10.group-hover\:bg-token-interactive-bg-secondary-selected
+chatgpt.com##.overflow-x-hidden.gap-3.justify-center.items-center.flex
 
 ! Sign in bottom prompt
-chatgpt.com##.pt-2.gap-3\.5.flex-col.flex.mb-2
+!chatgpt.com##.pt-2.gap-3\.5.flex-col.flex.mb-2
+chatgpt.com##.w-full.h-full.relative
+chatgpt.com##.z-20.bottom-full.end-0.start-0.absolute
 
 ! Remove disclaimer
 chatgpt.com##.md\:px-\[60px\].\[view-transition-name\:var\(--vt-disclaimer\)\].text-xs.text-center.p-2.justify-center.items-center.w-full.min-h-8.flex.relative.text-token-text-secondary.-mt-4 > .pointer-events-auto
