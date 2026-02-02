@@ -74,6 +74,9 @@ discord.com##.anchorUnderlineOnHover_edefb8.anchor_edefb8
 ! Create button top when logged in, sign in button when logged out
 www.youtube.com###buttons > ytd-button-renderer.ytd-masthead.style-scope
 
+! Menu button top
+www.youtube.com###button > .ytd-topbar-menu-button-renderer.style-scope
+
 ! Voice button top
 www.youtube.com###voice-search-button
 
