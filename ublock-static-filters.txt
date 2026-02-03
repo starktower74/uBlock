@@ -619,21 +619,16 @@ www.ndtv.com##.vd-dock_wr
 indianexpress.com###taboola-loader
 indianexpress.com##.yellow-theme.myNotification-wrapper
 
+! https://www.hindustantimes.com
+www.hindustantimes.com###htEchoArticlePromo
+www.hindustantimes.com##.mb10.promotedWidget.darkBg.middleTaboola
+www.hindustantimes.com##.rgtTopAd
+
 ! https://timesofindia.indiatimes.com
 timesofindia.indiatimes.com##.GQW9n
 timesofindia.indiatimes.com##.ItUPk.QJDs2.dg0Vm
 timesofindia.indiatimes.com##.e2QJg
 timesofindia.indiatimes.com##.slick_UI.Jniq2
-
-! https://www.cnbctv18.com
-www.cnbctv18.com##.below-summary-ad.jsx-a1f7f0abdc69a52
-www.cnbctv18.com##.rhs-long-ad.jsx-2339679147.jsx-216b97f5d43a6f7d
-www.cnbctv18.com##.topHeader.desk_header_banner.jsx-5cce2bd4cedf6a03
-www.cnbctv18.com##.below-summary-ad.jsx-1586f4170b918b1b
-
-! Live TV
-www.cnbctv18.com##.live-tv-section.jsx-1316522691
-www.cnbctv18.com##.promolg.jsx-1316522691
 
 ! https://theprint.in
 theprint.in##.tdc-element-style.td-pb-row.wpb_row.tdi_29.vc_row
@@ -781,6 +776,16 @@ www.livemint.com##.subscribeNow
 www.businesstoday.in##.tapBoxCls
 www.businesstoday.in##.rhs_fixwhtsapp
 www.businesstoday.in##.bottomSliderSwipe
+
+! https://www.cnbctv18.com
+www.cnbctv18.com##.below-summary-ad.jsx-a1f7f0abdc69a52
+www.cnbctv18.com##.rhs-long-ad.jsx-2339679147.jsx-216b97f5d43a6f7d
+www.cnbctv18.com##.topHeader.desk_header_banner.jsx-5cce2bd4cedf6a03
+www.cnbctv18.com##.below-summary-ad.jsx-1586f4170b918b1b
+
+! Live TV
+www.cnbctv18.com##.live-tv-section.jsx-1316522691
+www.cnbctv18.com##.promolg.jsx-1316522691
 
 !=============================== News Tech India ===============================!
 
@@ -982,4 +987,6 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Jan 31, 2026 https://www.bible.com
 
 ! Jan 31, 2026 https://www.the-independent.com
+
+! Feb 3, 2026 https://www.hindustantimes.com
 
