@@ -623,6 +623,8 @@ indianexpress.com##.yellow-theme.myNotification-wrapper
 www.hindustantimes.com###htEchoArticlePromo
 www.hindustantimes.com##.mb10.promotedWidget.darkBg.middleTaboola
 www.hindustantimes.com##.rgtTopAd
+www.hindustantimes.com##body > .mHide
+www.hindustantimes.com##li.nonAmp:nth-of-type(7)
 
 ! https://timesofindia.indiatimes.com
 timesofindia.indiatimes.com##.GQW9n
