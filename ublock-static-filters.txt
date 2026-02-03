@@ -625,6 +625,7 @@ www.hindustantimes.com##.mb10.promotedWidget.darkBg.middleTaboola
 www.hindustantimes.com##.rgtTopAd
 www.hindustantimes.com##body > .mHide
 www.hindustantimes.com##li.nonAmp:nth-of-type(7)
+www.hindustantimes.com##li:nth-of-type(7)
 
 ! https://timesofindia.indiatimes.com
 timesofindia.indiatimes.com##.GQW9n
@@ -991,4 +992,7 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Jan 31, 2026 https://www.the-independent.com
 
 ! Feb 3, 2026 https://www.hindustantimes.com
+
+! Feb 3, 2026 https://www.hindustantimes.com
+
 
