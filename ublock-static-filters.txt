@@ -512,6 +512,9 @@ www.bloomberg.com##.Footer_footerDesktop__Et_VT.media-ui-Footer_bottomContent-FG
 www.bloomberg.com###plug-banner-outlet
 www.bloomberg.com##section:nth-of-type(2) > div.gridModule_gridModule___HgOM:nth-of-type(1)
 www.bloomberg.com##.rightRail_terminalTout__CwAev.media-ui-TerminalTout_terminalTout-jMmQ--E35FQ-
+www.bloomberg.com##.outlined-button.GiftArticle-module_giftArticleFullButton__tsdOd
+www.bloomberg.com##.rounded-button.PreferUs_preferUsTextButton__XwGOO
+www.bloomberg.com##.basicLeftRail_share__4jofR
 
 ! Android
 www.bloomberg.com##.media-ui-LogoBarMobile_subscribeButton-GzFf5a3agro-
@@ -998,4 +1001,6 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Feb 3, 2026 https://www.indiatoday.in
 
 ! Feb 3, 2026 https://www.livemint.com
+
+! Feb 3, 2026 https://www.bloomberg.com
 
