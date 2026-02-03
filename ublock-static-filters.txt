@@ -778,6 +778,7 @@ www.livemint.com##.RhsPersonalFinanceCss_container__Ccu5h
 www.livemint.com###shareBar_11744778808824 > .echoSdk_shareBarRhs
 www.livemint.com##div.linkRight:nth-of-type(4)
 www.livemint.com##.echoSdk_shareBarRhs
+www.livemint.com##.storyPage_storyAd__soBOT
 
 ! Android
 www.livemint.com##.btmMenu
