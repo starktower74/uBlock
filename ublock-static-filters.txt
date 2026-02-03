@@ -636,6 +636,7 @@ www.indiatoday.in##.podcast-multy-video-iframe
 www.indiatoday.in##.podcast_story_embed_label
 www.indiatoday.in##.tapBoxCls
 www.indiatoday.in##.stquiziframe
+www.indiatoday.in###tab-video-wrapper-plugin
 
 ! https://timesofindia.indiatimes.com
 timesofindia.indiatimes.com##.GQW9n
