@@ -997,3 +997,5 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 
 ! Feb 3, 2026 https://www.indiatoday.in
 
+! Feb 3, 2026 https://www.livemint.com
+
