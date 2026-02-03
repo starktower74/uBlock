@@ -628,6 +628,15 @@ www.hindustantimes.com##li.nonAmp:nth-of-type(7)
 www.hindustantimes.com##li:nth-of-type(7)
 www.hindustantimes.com###divBestDealsRight > .rgtWidget
 
+! https://www.indiatoday.in
+www.indiatoday.in##.ssologin
+www.indiatoday.in##.subbut_countdrop
+www.indiatoday.in##.preferred-source-banner
+www.indiatoday.in##.podcast-multy-video-iframe
+www.indiatoday.in##.podcast_story_embed_label
+www.indiatoday.in##.tapBoxCls
+www.indiatoday.in##.stquiziframe
+
 ! https://timesofindia.indiatimes.com
 timesofindia.indiatimes.com##.GQW9n
 timesofindia.indiatimes.com##.ItUPk.QJDs2.dg0Vm
@@ -972,16 +981,6 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 
 !========================================================================!
 
-! Jan 30, 2026 https://www.thedailybeast.com
-
-! Jan 30, 2026 https://thelooker.thedailybeast.com
-
-! Jan 30, 2026 https://www.japantimes.co.jp
-
-! Jan 30, 2026 https://www.aljazeera.com
-
-! Jan 30, 2026 https://www.cnbc.com
-
 ! Jan 30, 2026 https://economictimes.indiatimes.com
 
 ! Jan 30, 2026 https://www.pib.gov.in
@@ -994,8 +993,5 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 
 ! Feb 3, 2026 https://www.hindustantimes.com
 
-! Feb 3, 2026 https://www.hindustantimes.com
-
-! Feb 3, 2026 https://www.hindustantimes.com
-
+! Feb 3, 2026 https://www.indiatoday.in
 
