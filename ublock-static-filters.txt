@@ -968,6 +968,11 @@ www.biblestudytools.com##.alert-severity-normal.alert
 www.biblegateway.com##.top-wrapper > .sys-announce > .wrapper > .sys-announce-content
 www.biblegateway.com##.go1577786432
 
+!================================= Work ================================!
+
+! https://www.linkedin.com
+www.linkedin.com##.premium-upsell-link
+
 !================================ Sites =================================!
 
 ! https://opensourcealternative.to
@@ -1004,4 +1009,8 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Feb 3, 2026 https://www.bloomberg.com
 
 ! Feb 4, 2026 https://www.business-standard.com
+
+! Feb 4, 2026 https://www.linkedin.com
+
+
 
