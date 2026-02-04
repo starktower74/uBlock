@@ -733,6 +733,7 @@ www.business-standard.com##.MainStory_whtsppchannle___HEk3
 www.business-standard.com##.sportcube_cubecontainer__6cwGd
 www.business-standard.com##.subscribbtn
 www.business-standard.com##.MetaPost_flwggle__kFKIT
+www.business-standard.com##.storyautio.MainStory_storyautio__00zQV
 
 ! Android
 www.business-standard.com##.stryadstp
@@ -1002,4 +1003,6 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Feb 3, 2026 https://www.livemint.com
 
 ! Feb 3, 2026 https://www.bloomberg.com
+
+! Feb 4, 2026 https://www.business-standard.com
 
