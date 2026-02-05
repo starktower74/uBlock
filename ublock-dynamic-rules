@@ -76,12 +76,15 @@ www.instagram.com * 3p-script noop
 ish.chat * 3p-script noop
 kuvera.in * 3p-script noop
 www.linkedin.com * 3p-script noop
+live.com * 3p-script noop
 lmarena.ai * 3p-frame noop
 lmarena.ai * 3p-script noop
 www.manoramaonline.com * 3p-script noop
 www.marketscreener.com * 3p-script noop
 mfcentral.com * 3p-frame noop
 mfcentral.com * 3p-script noop
+account.microsoft.com * 3p-script noop
+www.microsoft.com * 3p-script noop
 www.morningstar.in * 3p-script noop
 www.neowin.net * 3p-script noop
 www.nytimes.com * 3p-frame noop
@@ -90,6 +93,8 @@ auth.openai.com * 3p-frame noop
 auth.openai.com * 3p-script noop
 www.perplexity.ai * 3p-script noop
 discuss.privacyguides.net * 3p-script noop
+account.proton.me * 3p-frame noop
+account.proton.me * 3p-script noop
 www.protondb.com * 3p-script noop
 www.reddit.com * 3p-frame noop
 www.reddit.com * 3p-script noop
