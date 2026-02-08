@@ -600,7 +600,6 @@ www.windowscentral.com##.inline-layout.pull-left.van-image-figure
 www.windowscentral.com##p:nth-of-type(20)
 www.windowscentral.com##.slice-container
 www.windowscentral.com##.kwizly-poll
-www.windowscentral.com##.image-full-width-wrapper > .image-widthsetter > .vanilla-image-block
 
 ! https://www.macrumors.com
 www.macrumors.com##.giveFeedback--l_KpRc1G
@@ -1010,5 +1009,4 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Feb 4, 2026 https://www.business-standard.com
 
 ! Feb 4, 2026 https://www.linkedin.com
-
 
