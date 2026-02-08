@@ -598,7 +598,7 @@ www.windowscentral.com##.flexisites-social
 www.windowscentral.com###auth-in-nav-header
 www.windowscentral.com##.inline-layout.pull-left.van-image-figure
 www.windowscentral.com##p:nth-of-type(20)
-www.windowscentral.com##.slice-container
+www.windowscentral.com###newsletter-slice
 www.windowscentral.com##.kwizly-poll
 
 ! https://www.macrumors.com
