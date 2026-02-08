@@ -598,7 +598,6 @@ www.windowscentral.com##.flexisites-social
 www.windowscentral.com###auth-in-nav-header
 www.windowscentral.com##.inline-layout.pull-left.van-image-figure
 www.windowscentral.com##p:nth-of-type(20)
-www.windowscentral.com###newsletter-slice
 www.windowscentral.com##.slice-container
 www.windowscentral.com##.kwizly-poll
 www.windowscentral.com##.image-full-width-wrapper > .image-widthsetter > .vanilla-image-block
@@ -1011,6 +1010,5 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Feb 4, 2026 https://www.business-standard.com
 
 ! Feb 4, 2026 https://www.linkedin.com
-
 
 
