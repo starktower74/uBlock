@@ -825,6 +825,7 @@ www.manoramaonline.com##.cmp-story-list__component-slot
 www.manoramaonline.com##li.cmp-header__web-only-right-li > .mm-btn--premium.mm-btn
 www.manoramaonline.com##.cardTeaser
 www.manoramaonline.com##.cmp-footer__middle-block
+www.manoramaonline.com##.sign-in-button.cmp-header__nav-button
 
 ! https://www.onmanorama.com
 www.onmanorama.com###container-b9d5d7b683 > .embed > .cmp-embedded-code > .cmp-embedded-code__inner
