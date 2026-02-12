@@ -70,6 +70,7 @@ security.googleblog.com * 3p-script noop
 chromium.googlesource.com * 3p-script noop
 groww.in * 3p-script noop
 www.gsmarena.com * 3p-script noop
+hdfcbank.com * 3p-script noop
 investor-web.hdfcfund.com * 3p-script noop
 www.imdb.com * 3p-script noop
 www.indmoney.com * 3p-frame noop
