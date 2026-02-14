@@ -647,6 +647,7 @@ timesofindia.indiatimes.com##.GQW9n
 timesofindia.indiatimes.com##.ItUPk.QJDs2.dg0Vm
 timesofindia.indiatimes.com##.e2QJg
 timesofindia.indiatimes.com##.slick_UI.Jniq2
+timesofindia.indiatimes.com##[href^="https://gadgetsnow.indiatimes.com/awards/nominations"]
 
 ! https://theprint.in
 theprint.in##.tdc-element-style.td-pb-row.wpb_row.tdi_29.vc_row
@@ -1017,3 +1018,6 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Feb 4, 2026 https://www.linkedin.com
 
 ! Feb 10, 2026 https://techcrunch.com
+
+! Feb 14, 2026 https://timesofindia.indiatimes.com
+
