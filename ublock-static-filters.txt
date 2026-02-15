@@ -605,6 +605,14 @@ www.windowscentral.com##p:nth-of-type(20)
 www.windowscentral.com###newsletter-slice
 www.windowscentral.com##.kwizly-poll
 
+! https://www.pcgamer.com
+www.pcgamer.com##.flexisites-social
+www.pcgamer.com###auth-in-nav-header
+www.pcgamer.com##.inline-layout.pull-left.van-image-figure
+www.pcgamer.com##p:nth-of-type(20)
+www.pcgamer.com##.kwizly-poll
+www.pcgamer.com##.slice-container-newsletterForm.newsletterForm-articleInbodyContent-pFGdQUMsMYQTGSSnA53LsE.newsletter-inbodyContent-slice.slice-container
+
 ! https://www.macrumors.com
 www.macrumors.com##.giveFeedback--l_KpRc1G
 
@@ -1020,4 +1028,6 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Feb 10, 2026 https://techcrunch.com
 
 ! Feb 14, 2026 https://timesofindia.indiatimes.com
+
+! Feb 15, 2026 https://www.pcgamer.com
 
