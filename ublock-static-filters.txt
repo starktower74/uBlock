@@ -541,6 +541,9 @@ www.cnbc.com##.CreateFreeAccountButton-buttonContainer
 www.ft.com##.slot-wrapper
 www.ft.com##.article__content-sign-up
 www.ft.com##.o-header__top-column--right.o-header__top-column
+www.ft.com##.article-print
+www.ft.com##.o-share--vertical.o-share > ul > .share-nav__linkedin-action.o-share__action
+www.ft.com##.o-share--vertical.o-share > ul > .share-nav__facebook-action.o-share__action
 
 ! https://fortune.com
 fortune.com###related-video
@@ -1031,4 +1034,7 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Feb 14, 2026 https://timesofindia.indiatimes.com
 
 ! Feb 15, 2026 https://www.pcgamer.com
+
+! Feb 15, 2026 https://www.ft.com
+
 
