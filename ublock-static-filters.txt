@@ -620,6 +620,10 @@ www.pcgamer.com##.slice-container-newsletterForm
 ! https://www.macrumors.com
 www.macrumors.com##.giveFeedback--l_KpRc1G
 
+! https://www.neowin.net
+www.neowin.net##.guest.nav-user
+www.neowin.net##[href="/contact/#newstip"]
+
 !================================= News India ==================================!
 
 ! https://www.thehindu.com
@@ -1037,4 +1041,5 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 
 ! Feb 15, 2026 https://www.ft.com
 
+! Feb 15, 2026 https://www.neowin.net
 
