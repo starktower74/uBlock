@@ -604,6 +604,7 @@ www.windowscentral.com##.inline-layout.pull-left.van-image-figure
 www.windowscentral.com##p:nth-of-type(20)
 www.windowscentral.com###newsletter-slice
 www.windowscentral.com##.kwizly-poll
+www.windowscentral.com##.slice-container-newsletterForm
 
 ! https://www.pcgamer.com
 www.pcgamer.com##.flexisites-social
@@ -611,7 +612,7 @@ www.pcgamer.com###auth-in-nav-header
 www.pcgamer.com##.inline-layout.pull-left.van-image-figure
 www.pcgamer.com##p:nth-of-type(20)
 www.pcgamer.com##.kwizly-poll
-www.pcgamer.com##.slice-container-newsletterForm.newsletterForm-articleInbodyContent-pFGdQUMsMYQTGSSnA53LsE.newsletter-inbodyContent-slice.slice-container
+www.pcgamer.com##.slice-container-newsletterForm
 
 ! https://www.macrumors.com
 www.macrumors.com##.giveFeedback--l_KpRc1G
