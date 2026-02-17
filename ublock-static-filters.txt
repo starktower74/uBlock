@@ -514,6 +514,7 @@ www.bloomberg.com##section:nth-of-type(2) > div.gridModule_gridModule___HgOM:nth
 www.bloomberg.com##.rightRail_terminalTout__CwAev.media-ui-TerminalTout_terminalTout-jMmQ--E35FQ-
 www.bloomberg.com##.basicLeftRail_share__4jofR
 www.bloomberg.com##.basicLeftRail_bottom__x8a0Y
+www.bloomberg.com##.popover.media-ui-Popover_wrapper-gXa-Tf5b3Cw-
 
 ! Android
 www.bloomberg.com##.media-ui-LogoBarMobile_subscribeButton-GzFf5a3agro-
@@ -524,6 +525,8 @@ www.wsj.com##.edjz7cx3.css-100otit-MainHeader > .e1mkna771.css-jzm21u-MastHeadCo
 www.wsj.com##.e1mkna770.css-1qmnoeb-CustomerNavWrapper > .e187e2r11.css-btvnlg-NavWrapper
 www.wsj.com##.e187e2r11.css-btvnlg-NavWrapper
 www.wsj.com##nav-hat
+www.wsj.com###cx-customer-nav-subscribe-btn
+www.wsj.com##.css-1pasg5x-LoginOptionWrapper-LoginOptionWrapper-LoginOptionWrapper
 
 ! https://www.cnbc.com
 www.cnbc.com##.SignUpMenu-signUpMenu
@@ -1011,24 +1014,6 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 
 !========================================================================!
 
-! Jan 30, 2026 https://economictimes.indiatimes.com
-
-! Jan 30, 2026 https://www.pib.gov.in
-
-! Jan 30, 2026 https://www.windowscentral.com
-
-! Jan 31, 2026 https://www.bible.com
-
-! Jan 31, 2026 https://www.the-independent.com
-
-! Feb 3, 2026 https://www.hindustantimes.com
-
-! Feb 3, 2026 https://www.indiatoday.in
-
-! Feb 3, 2026 https://www.livemint.com
-
-! Feb 3, 2026 https://www.bloomberg.com
-
 ! Feb 4, 2026 https://www.business-standard.com
 
 ! Feb 4, 2026 https://www.linkedin.com
@@ -1042,4 +1027,8 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Feb 15, 2026 https://www.ft.com
 
 ! Feb 15, 2026 https://www.neowin.net
+
+! Feb 17, 2026 https://www.bloomberg.com
+
+! Feb 17, 2026 https://www.wsj.com
 
