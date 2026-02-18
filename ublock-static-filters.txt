@@ -77,6 +77,9 @@ www.youtube.com###buttons > ytd-button-renderer.ytd-masthead.style-scope
 ! Menu button top
 www.youtube.com###button > .ytd-topbar-menu-button-renderer.style-scope
 
+! Sidebar button top
+www.youtube.com###guide-icon
+
 ! Voice button top
 www.youtube.com###voice-search-button
 
