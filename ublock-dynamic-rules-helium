@@ -41,6 +41,7 @@ claude.ai * 3p-frame noop
 claude.ai * 3p-script noop
 community.bitwarden.com * 3p-script noop
 community.brave.app * 3p-script noop
+contacts.google.com * 3p-script noop
 digilocker.gov.in * 3p-script noop
 discuss.privacyguides.net * 3p-script noop
 docs.google.com * 3p-frame noop
