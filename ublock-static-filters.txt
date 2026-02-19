@@ -726,6 +726,8 @@ economictimes.indiatimes.com##.clr.videos.jsx-7ca76344882e59e1
 economictimes.indiatimes.com##.etSpecial.jsx-cb97ed35265ccdaa
 economictimes.indiatimes.com##.etAIDecade.jsx-d0ca7de6f7404e71
 economictimes.indiatimes.com##.LiveStreamPlay_homePage__Us0Df.LiveStreamPlay_livestreamBox__hvkR0
+economictimes.indiatimes.com##.styles_podcast-widget__LKtPP
+economictimes.indiatimes.com##.Pbanner
 
 economictimes.indiatimes.com##div.adSize250.adContainer:nth-of-type(1)
 economictimes.indiatimes.com##.default_page.container.pageHolder > .topAdContainer
@@ -1044,3 +1046,4 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 
 ! Feb 18, 2026 https://web.whatsapp.com
 
+! Feb 19, 2026 https://economictimes.indiatimes.com
