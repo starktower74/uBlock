@@ -43,13 +43,21 @@ mail.proton.me##.topnav-list--four-elements.empty\:hidden.items-center.flex-nowr
 ! https://outlook.live.com
 outlook.live.com##.LBktY > .GssDD
 
-!==================================== Apps ====================================!
+!================================== Internet ==================================!
 
 ! https://vault.bitwarden.com
 vault.bitwarden.com##.tw-pb-6.tw-flex-col.tw-flex.-tw-m-6
 
 ! https://www.pushbullet.com
 www.pushbullet.com##div.pointer.minitab:nth-of-type(7)
+
+!=================================== Storage ===================================!
+
+! https://drive.google.com
+drive.google.com##.ml-Pr-kg
+
+! https://mega.nz
+mega.nz##.ui-resizable.drive.mega-top-menu.mega-component > .storage-block.mega-component > .caption-running.storage-usage.js-storage-usage > .js-storage-usage-block.storage-usage-panel > .info
 
 !=================================== Social ===================================!
 
@@ -1024,20 +1032,6 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 
 !========================================================================!
 
-! Feb 4, 2026 https://www.business-standard.com
-
-! Feb 4, 2026 https://www.linkedin.com
-
-! Feb 10, 2026 https://techcrunch.com
-
-! Feb 14, 2026 https://timesofindia.indiatimes.com
-
-! Feb 15, 2026 https://www.pcgamer.com
-
-! Feb 15, 2026 https://www.ft.com
-
-! Feb 15, 2026 https://www.neowin.net
-
 ! Feb 17, 2026 https://www.bloomberg.com
 
 ! Feb 17, 2026 https://www.wsj.com
@@ -1047,3 +1041,7 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Feb 18, 2026 https://web.whatsapp.com
 
 ! Feb 19, 2026 https://economictimes.indiatimes.com
+
+! Feb 20, 2026 https://mega.nz
+
+
