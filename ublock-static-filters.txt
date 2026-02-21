@@ -154,7 +154,8 @@ chatgpt.com##.z-20.bottom-full.end-0.start-0.absolute
 chatgpt.com##.pt-2.gap-3\.5.flex-col.flex.mb-2 > div
 
 ! Remove disclaimer
-chatgpt.com##.p-2.justify-center.items-center.w-full.min-h-8.flex > .pointer-events-auto > div
+!chatgpt.com##.p-2.justify-center.items-center.w-full.min-h-8.flex > .pointer-events-auto > div
+chatgpt.com##.p-2.justify-center.items-center.w-full.min-h-8.flex.data-has-range-start\:select-auto.active\:select-auto.select-none > .pointer-events-auto > div
 
 ! Free offer top promo
 chatgpt.com##.rtl\:translate-x-1\/2.ltr\:-translate-x-1\/2.lg\:start-1\/2.gap-2.items-center.flex-col.flex.start-0.absolute.pointer-events-none
@@ -1043,5 +1044,4 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Feb 19, 2026 https://economictimes.indiatimes.com
 
 ! Feb 20, 2026 https://mega.nz
-
 
