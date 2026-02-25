@@ -607,6 +607,7 @@ www.theverge.com##._1bjoufy2.vbsnq75 > ._6cuzo20 > ._14ksbek4._6cuzo21
 ! https://techcrunch.com
 techcrunch.com###wp--skip-link--target > .wp-block-columns-is-layout-flex.wp-container-core-columns-is-layout-28f84493.is-layout-flex.article.wp-block-columns > div.wp-block-column-is-layout-flow.is-layout-flow.wp-block-column:nth-of-type(1) > .wp-block-post-content-is-layout-constrained.is-layout-constrained.wp-block-post-content.entry-content > .wp-block-techcrunch-inline-cta
 techcrunch.com##.wp-block-block.wp-block-techcrunch-event-cta
+techcrunch.com##.promo-banner-countdown__wrapper
 
 ! https://www.theregister.com
 www.theregister.com###mob_user_link
@@ -1045,3 +1046,4 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 
 ! Feb 20, 2026 https://mega.nz
 
+! Feb 25, 2026 https://techcrunch.com
