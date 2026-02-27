@@ -619,7 +619,6 @@ www.tomshardware.com##.inline-layout.pull-left.van-image-figure
 www.tomshardware.com##p:nth-of-type(20)
 www.tomshardware.com##.kwizly-poll
 www.tomshardware.com##.slice-container-newsletterForm
-www.tomshardware.com###viafoura-comments-container
 
 www.tomshardware.com###hammerbot
 www.tomshardware.com##.sm\:border-solid.sm\:border-gray-200.sm\:border-r.sm\:relative.empty\:border-none.w-max.p-1\.5.h-full.flex
@@ -631,7 +630,6 @@ www.windowscentral.com##.inline-layout.pull-left.van-image-figure
 www.windowscentral.com##p:nth-of-type(20)
 www.windowscentral.com##.kwizly-poll
 www.windowscentral.com##.slice-container-newsletterForm
-www.windowscentral.com###viafoura-comments-container
 
 www.windowscentral.com##.hawk-deal-widget-container
 www.windowscentral.com##aside.hawk-root
@@ -643,7 +641,6 @@ www.pcgamer.com##.inline-layout.pull-left.van-image-figure
 www.pcgamer.com##p:nth-of-type(20)
 www.pcgamer.com##.kwizly-poll
 www.pcgamer.com##.slice-container-newsletterForm
-www.pcgamer.com###viafoura-comments-container
 
 ! https://www.techradar.com
 www.techradar.com##.flexisites-social
@@ -652,8 +649,8 @@ www.techradar.com##.inline-layout.pull-left.van-image-figure
 www.techradar.com##p:nth-of-type(20)
 www.techradar.com##.kwizly-poll
 www.techradar.com##.slice-container-newsletterForm
-www.techradar.com###viafoura-comments-container
 
+www.techradar.com###viafoura-comments-container
 www.techradar.com###how-we-test
 www.techradar.com###why-we-re-experts
 www.techradar.com##.widget-our-story
