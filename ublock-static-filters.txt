@@ -631,6 +631,8 @@ www.windowscentral.com##.slice-container-newsletterForm
 www.windowscentral.com###viafoura-comments-container
 
 www.windowscentral.com###newsletter-slice
+www.windowscentral.com##.hawk-deal-widget-container
+www.windowscentral.com##aside.hawk-root
 
 ! https://www.pcgamer.com
 www.pcgamer.com##.flexisites-social
@@ -1052,5 +1054,8 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Feb 25, 2026 https://techcrunch.com
 
 ! Feb 27, 2026 https://www.windowscentral.com
+
+! Feb 27, 2026 https://www.windowscentral.com
+
 
 
