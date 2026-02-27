@@ -655,6 +655,8 @@ www.techradar.com##.slice-container-newsletterForm
 www.techradar.com###viafoura-comments-container
 
 www.techradar.com###how-we-test
+www.techradar.com###why-we-re-experts
+www.techradar.com##.widget-our-story
 
 ! https://www.macrumors.com
 www.macrumors.com##.giveFeedback--l_KpRc1G
