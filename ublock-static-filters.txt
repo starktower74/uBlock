@@ -615,11 +615,14 @@ www.theregister.com###mob_user_link
 ! https://www.tomshardware.com
 www.tomshardware.com##.flexisites-social
 www.tomshardware.com###auth-in-nav-header
-www.tomshardware.com##.sm\:border-solid.sm\:border-gray-200.sm\:border-r.sm\:relative.empty\:border-none.w-max.p-1\.5.h-full.flex
-www.tomshardware.com###newsletter-slice
-www.tomshardware.com###hammerbot
-www.tomshardware.com##.slice-container-newsletterForm
 www.tomshardware.com##.inline-layout.pull-left.van-image-figure
+www.tomshardware.com##p:nth-of-type(20)
+www.tomshardware.com##.kwizly-poll
+www.tomshardware.com##.slice-container-newsletterForm
+www.tomshardware.com###viafoura-comments-container
+
+www.tomshardware.com###hammerbot
+www.tomshardware.com##.sm\:border-solid.sm\:border-gray-200.sm\:border-r.sm\:relative.empty\:border-none.w-max.p-1\.5.h-full.flex
 
 ! https://www.windowscentral.com
 www.windowscentral.com##.flexisites-social
@@ -630,7 +633,6 @@ www.windowscentral.com##.kwizly-poll
 www.windowscentral.com##.slice-container-newsletterForm
 www.windowscentral.com###viafoura-comments-container
 
-www.windowscentral.com###newsletter-slice
 www.windowscentral.com##.hawk-deal-widget-container
 www.windowscentral.com##aside.hawk-root
 
@@ -642,6 +644,15 @@ www.pcgamer.com##p:nth-of-type(20)
 www.pcgamer.com##.kwizly-poll
 www.pcgamer.com##.slice-container-newsletterForm
 www.pcgamer.com###viafoura-comments-container
+
+! https://www.techradar.com
+www.techradar.com##.flexisites-social
+www.techradar.com###auth-in-nav-header
+www.techradar.com##.inline-layout.pull-left.van-image-figure
+www.techradar.com##p:nth-of-type(20)
+www.techradar.com##.kwizly-poll
+www.techradar.com##.slice-container-newsletterForm
+www.techradar.com###viafoura-comments-container
 
 ! https://www.macrumors.com
 www.macrumors.com##.giveFeedback--l_KpRc1G
@@ -1056,6 +1067,4 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Feb 27, 2026 https://www.windowscentral.com
 
 ! Feb 27, 2026 https://www.windowscentral.com
-
-
 
