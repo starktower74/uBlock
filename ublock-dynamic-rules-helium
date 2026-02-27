@@ -67,6 +67,7 @@ mail.google.com * 3p-script noop
 mfcentral.com * 3p-frame noop
 mfcentral.com * 3p-script noop
 music.youtube.com * 3p-script noop
+old.reddit.com * 3p-script noop
 scale.com * 3p-script noop
 security.googleblog.com * 3p-script noop
 spotify.com * 3p-frame noop
@@ -113,6 +114,7 @@ www.morningstar.in * 3p-script noop
 www.neowin.net * 3p-script noop
 www.nytimes.com * 3p-frame noop
 www.nytimes.com * 3p-script noop
+www.pcgamer.com * 3p-script noop
 www.perplexity.ai * 3p-script noop
 www.protondb.com * 3p-script noop
 www.reddit.com * 3p-frame noop
@@ -121,6 +123,7 @@ www.reporterlive.com * 3p-script noop
 www.sbicard.com * 3p-script noop
 www.theguardian.com * 3p-script noop
 www.tradingview.com * 3p-script noop
+www.windowscentral.com * 3p-script noop
 www.wsj.com * 3p-frame noop
 www.wsj.com * 3p-script noop
 www.xda-developers.com * 3p-script noop
