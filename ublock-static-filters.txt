@@ -837,6 +837,7 @@ www.livemint.com###shareBar_11744778808824 > .echoSdk_shareBarRhs
 www.livemint.com##div.linkRight:nth-of-type(4)
 www.livemint.com##.echoSdk_shareBarRhs
 www.livemint.com##.storyPage_storyAd__soBOT
+www.livemint.com##.belowStoryVisible > .carouselAdWrapper
 
 ! Android
 www.livemint.com##.btmMenu
@@ -1065,4 +1066,6 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Feb 27, 2026 https://www.windowscentral.com
 
 ! Feb 27, 2026 https://www.windowscentral.com
+
+! Mar 16, 2026 https://www.livemint.com
 
