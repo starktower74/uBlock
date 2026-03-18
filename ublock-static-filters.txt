@@ -113,7 +113,9 @@ www.youtube.com###flexible-item-buttons > .ytd-menu-renderer.style-scope
 youtube.com##.ytp-caption-segment:style(background: rgba(8, 8, 8, 0.5) !important;)
 
 ! Members only filter
-www.youtube.com##ytd-rich-item-renderer.ytd-rich-grid-renderer:has(.yt-badge-shape--membership)
+!www.youtube.com##ytd-rich-item-renderer.ytd-rich-grid-renderer:has(.yt-badge-shape--membership)
+
+! Members only filter (archive)
 !www.youtube.com##ytd-rich-item-renderer.ytd-rich-grid-renderer:has(.badge-style-type-members-only)
 
 ! https://open.spotify.com
@@ -1074,5 +1076,4 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Mar 16, 2026 https://www.livemint.com
 
 ! Mar 17, 2026 https://psa.wf
-
 
