@@ -155,25 +155,33 @@ chatgpt.com##.btn-primary.relative.btn
 chatgpt.com##.btn-secondary.relative.btn
 chatgpt.com##.rounded-full.justify-center.items-center.w-9.h-9.flex.group-keyboard-focused\:focus-ring.touch\:w-10.touch\:h-10.group-hover\:bg-token-interactive-bg-secondary-selected
 
-! Sign in bottom prompt
-chatgpt.com##.z-20.bottom-full.end-0.start-0.absolute
-chatgpt.com##.pt-2.gap-3\.5.flex-col.flex.mb-2 > div
+! Get plus logged in promo top
+chatgpt.com##.lg\:block.hidden
 
-! Remove disclaimer
-!chatgpt.com##.p-2.justify-center.items-center.w-full.min-h-8.flex > .pointer-events-auto > div
-chatgpt.com##.p-2.justify-center.items-center.w-full.min-h-8.flex.data-has-range-start\:select-auto.active\:select-auto.select-none > .pointer-events-auto > div
+! Log in button promo sidebar bottom
+chatgpt.com##.text-wrap.text-sm.mb-6
 
-! Free offer top promo
-chatgpt.com##.rtl\:translate-x-1\/2.ltr\:-translate-x-1\/2.lg\:start-1\/2.gap-2.items-center.flex-col.flex.start-0.absolute.pointer-events-none
-
-! Upgrade promo
+! Upgrade promo button sidebar bottom
 chatgpt.com##.pe-2\.5.ps-2.py-1\.5.cursor-default.-me-2\.5.-ms-2.-my-1\.5.__menu-item-trailing-btn > div
 
-! Image gen promo
-chatgpt.com##.pt-8
+! Remove disclaimer
+chatgpt.com##.p-2.justify-center.items-center.w-full.min-h-8.flex > .pointer-events-auto > div
+!chatgpt.com##.p-2.justify-center.items-center.w-full.min-h-8.flex.data-has-range-start\:select-auto.active\:select-auto.select-none > .pointer-events-auto > div
 
 ! Disable login prompt
 chatgpt.com##+js(set-session-storage-item, oai/apps/noAuthHasDismissedSoftRateLimitModal, true)
+
+! Sign in textbox bottom prompt
+!chatgpt.com##.z-20.bottom-full.end-0.start-0.absolute
+!chatgpt.com##.pt-2.gap-3\.5.flex-col.flex.mb-2 > div
+
+! Archive
+
+! Free offer top promo
+!chatgpt.com##.rtl\:translate-x-1\/2.ltr\:-translate-x-1\/2.lg\:start-1\/2.gap-2.items-center.flex-col.flex.start-0.absolute.pointer-events-none
+
+! Image gen promo
+!chatgpt.com##.pt-8
 
 ! Move textbox higher
 !chatgpt.com##div#thread-bottom-container:style(padding-bottom: 10px !important;)
@@ -1079,4 +1087,7 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Mar 17, 2026 https://psa.wf
 
 ! Mar 19, 2026 https://www.theguardian.com
+
+! Mar 19, 2026 https://chatgpt.com
+
 
