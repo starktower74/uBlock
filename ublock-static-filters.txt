@@ -150,7 +150,7 @@ torbox.app##.py-2.gap-2.flex-col.flex
 
 ! https://chatgpt.com
 
-! Log in, sign up button, info button top
+! Log in, sign up, info button top
 chatgpt.com##.btn-primary.relative.btn
 chatgpt.com##.btn-secondary.relative.btn
 chatgpt.com##.rounded-full.justify-center.items-center.w-9.h-9.flex.group-keyboard-focused\:focus-ring.touch\:w-10.touch\:h-10.group-hover\:bg-token-interactive-bg-secondary-selected
@@ -1089,5 +1089,4 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Mar 19, 2026 https://www.theguardian.com
 
 ! Mar 19, 2026 https://chatgpt.com
-
 
