@@ -119,8 +119,9 @@ youtube.com##.ytp-caption-segment:style(background: rgba(8, 8, 8, 0.5) !importan
 !www.youtube.com##ytd-rich-item-renderer.ytd-rich-grid-renderer:has(.badge-style-type-members-only)
 
 ! https://open.spotify.com
-open.spotify.com##.e-91000-button.e-91000-button-primary.encore-text-body-small-bold
-open.spotify.com##.e-91000-button--leading.e-91000-button--small.e-91000-overflow-wrap-anywhere.encore-text-body-small-bold.dzIYeQ.Button-sc-1dqy6lx-0
+
+! Explore premium button top
+open.spotify.com##.e-10180-legacy-button.e-10180-legacy-button-primary.encore-text-body-small-bold
 
 ! https://trakt.tv
 trakt.tv###af1a979-be54078-wrapper
