@@ -123,7 +123,7 @@ youtube.com##.ytp-caption-segment:style(background: rgba(8, 8, 8, 0.5) !importan
 ! Explore premium button top
 open.spotify.com##.e-10180-legacy-button.e-10180-legacy-button-primary.encore-text-body-small-bold
 
-! Install app button top when in browser tab
+! Install app button top when open in browser tab
 open.spotify.com##.encore-internal-color-text-subdued.e-10180-button-tertiary--text-subdued.e-10180-button--leading.e-10180-button-tertiary--small.e-10180-legacy-button--small.encore-text-body-small-bold.e-10180-overflow-wrap-anywhere.e-10180-legacy-button-tertiary.e-10180-legacy-button
 
 ! https://trakt.tv
