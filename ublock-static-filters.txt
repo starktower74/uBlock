@@ -336,6 +336,11 @@ www.tickertape.in##.mf-portfolio-ad.ads-container.align-center.justify-center.fl
 www.tickertape.in##.mf-news-ad.ads-container.align-center.justify-center.flex-column.d-flex
 www.tickertape.in##.mf-fundmanager-ad.ads-container.align-center.justify-center.flex-column.d-flex
 
+! https://trendlyne.com
+
+! Plan promo
+trendlyne.com##.hideForSubscriber.col-lg-offset-2.col-lg-8.col-md-12.hidden-sm-down
+
 !================================= Marktet ==================================!
 
 ! https://scanx.trade
@@ -1093,4 +1098,8 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Mar 19, 2026 https://www.theguardian.com
 
 ! Mar 19, 2026 https://chatgpt.com
+
+! Mar 21, 2026 https://trendlyne.com
+
+
 
