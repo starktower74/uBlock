@@ -481,6 +481,9 @@ www.newsweek.com##div.Homepage_section__sZEh4:nth-of-type(7)
 www.politico.com##.sign-up-21--initialized.sign-up-21
 www.politico.com##div.container__column:nth-of-type(2) > .container__slot > div.content-heading:nth-of-type(3)
 
+! https://www.foreignaffairs.com
+www.foreignaffairs.com##.d-lg-block.d-none.expanded-banner.dismissable
+
 ! https://www.npr.org
 www.npr.org##.navigation__shop
 www.npr.org##.navigation__newsletters
@@ -1106,4 +1109,6 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Mar 19, 2026 https://chatgpt.com
 
 ! Mar 21, 2026 https://trendlyne.com
+
+! Mar 23, 2026 https://www.foreignaffairs.com
 
