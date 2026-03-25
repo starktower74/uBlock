@@ -35,10 +35,12 @@ behind-the-scene * 3p-frame noop
 behind-the-scene * 3p-script noop
 behind-the-scene * image noop
 behind-the-scene * inline-script noop
+www.billdesk.com * 3p-script noop
 www.bing.com * 3p-script noop
 community.bitwarden.com * 3p-script noop
 www.bleepingcomputer.com * 3p-script noop
 www.bloomberg.com * 3p-script noop
+digital.camsonline.com * 3p-script noop
 chatgpt.com * 3p-script noop
 christitus.com * 3p-frame noop
 christitus.com * 3p-script noop
@@ -60,6 +62,7 @@ github.com * 3p-script noop
 www.goodreads.com * 3p-script noop
 accounts.google.com * 3p-frame noop
 accounts.google.com * 3p-script noop
+contacts.google.com * 3p-script noop
 docs.google.com * 3p-frame noop
 docs.google.com * 3p-script noop
 gemini.google.com * 3p-script noop
@@ -95,11 +98,13 @@ www.nytimes.com * 3p-frame noop
 www.nytimes.com * 3p-script noop
 auth.openai.com * 3p-frame noop
 auth.openai.com * 3p-script noop
+www.pcgamer.com * 3p-script noop
 www.perplexity.ai * 3p-script noop
 discuss.privacyguides.net * 3p-script noop
 account.proton.me * 3p-frame noop
 account.proton.me * 3p-script noop
 www.protondb.com * 3p-script noop
+old.reddit.com * 3p-script noop
 www.reddit.com * 3p-frame noop
 www.reddit.com * 3p-script noop
 www.reporterlive.com * 3p-script noop
@@ -118,7 +123,9 @@ tradingeconomics.com * 3p-script noop
 www.tradingview.com * 3p-script noop
 trakt.tv * 3p-script noop
 trendlyne.com * 3p-script noop
+www.valueresearchonline.com * 3p-script noop
 web.whatsapp.com * 3p-script noop
+www.windowscentral.com * 3p-script noop
 www.wsj.com * 3p-frame noop
 www.wsj.com * 3p-script noop
 x.com * 3p-script noop
