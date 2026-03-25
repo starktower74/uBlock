@@ -92,6 +92,7 @@ www.asianetnews.com * 3p-script noop
 www.asianetnews.com youtube.com * block
 www.bbc.com * 3p-frame noop
 www.bbc.com * 3p-script noop
+www.billdesk.com * 3p-script noop
 www.bing.com * 3p-script noop
 www.bleepingcomputer.com * 3p-script noop
 www.bloomberg.com * 3p-script noop
