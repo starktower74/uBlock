@@ -649,6 +649,7 @@ www.androidauthority.com##.e_Ck.e_Dk.e_e
 www.androidauthority.com##.e_ql.e_e.viafoura
 www.androidauthority.com##.e_Sg.e_Xg.e_1g.e_Rg.e_df
 www.androidauthority.com##.e_Sg.e_Ug.e_1g.e_Rg.e_6o.e_Zo.e_ff
+www.androidauthority.com##.e_Tc.e_Qc.e_bq
 
 ! https://www.theregister.com
 www.theregister.com###mob_user_link
