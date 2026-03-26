@@ -651,6 +651,9 @@ www.androidauthority.com##.e_Sg.e_Xg.e_1g.e_Rg.e_df
 www.androidauthority.com##.e_Sg.e_Ug.e_1g.e_Rg.e_6o.e_Zo.e_ff
 www.androidauthority.com##.e_Tc.e_Qc.e_bq
 
+! https://9to5google.com
+9to5google.com###nav-menu-item-295584 > .main-menu-link.menu-link
+
 ! https://www.theregister.com
 www.theregister.com###mob_user_link
 
@@ -1122,4 +1125,6 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Mar 23, 2026 https://www.foreignaffairs.com
 
 ! Mar 27, 2026 https://www.androidauthority.com
+
+! Mar 27, 2026 https://9to5google.com
 
