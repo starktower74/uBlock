@@ -642,6 +642,10 @@ techcrunch.com###wp--skip-link--target > .wp-block-columns-is-layout-flex.wp-con
 techcrunch.com##.wp-block-block.wp-block-techcrunch-event-cta
 techcrunch.com##.promo-banner-countdown__wrapper
 
+! https://www.androidauthority.com
+www.androidauthority.com##.e_Lp
+www.androidauthority.com##.e_d.e_pc
+
 ! https://www.theregister.com
 www.theregister.com###mob_user_link
 
@@ -1112,3 +1116,4 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 
 ! Mar 23, 2026 https://www.foreignaffairs.com
 
+! Mar 27, 2026 https://www.androidauthority.com
