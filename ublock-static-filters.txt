@@ -645,6 +645,10 @@ techcrunch.com##.promo-banner-countdown__wrapper
 ! https://www.androidauthority.com
 www.androidauthority.com##.e_Lp
 www.androidauthority.com##.e_d.e_pc
+www.androidauthority.com##.e_Ck.e_Dk.e_e
+www.androidauthority.com##.e_ql.e_e.viafoura
+www.androidauthority.com##.e_Sg.e_Xg.e_1g.e_Rg.e_df
+www.androidauthority.com##.e_Sg.e_Ug.e_1g.e_Rg.e_6o.e_Zo.e_ff
 
 ! https://www.theregister.com
 www.theregister.com###mob_user_link
@@ -1117,3 +1121,4 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Mar 23, 2026 https://www.foreignaffairs.com
 
 ! Mar 27, 2026 https://www.androidauthority.com
+
