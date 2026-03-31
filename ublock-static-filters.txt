@@ -85,7 +85,7 @@ web.whatsapp.com##.xstzfhl.x1sy0etr.x18oe1m7.xx42vgk.x13fuv20.x178xt8z.xjm9jq1.x
 web.whatsapp.com##button.x-default-marker.xrdum7p.xmw7ebm.x9v5kkp.xtnn1bt.x1suzm8a.x1p453bz.xwf5gio.xyi3aci.x2b8uid:nth-of-type(3)
 
 ! Meta AI in right click menu
-web.whatsapp.com##button.x20clwv.x14ug900.xxxijta.xs2atcs.xq8v1ta.xwd4zgb.xvvg52n.xlr9sxt.x784prv.x9v5kkp.xtnn1bt.xh8yej3.x1yc453h.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1a2a7pz.x1ypdohk.x14e42zd.x1qhh985.x10w94by.x972fbf.xjbqb8w.x1lziwak.xat24cr.x14z9mp.xdj266r.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.html-button:nth-of-type(6)
+web.whatsapp.com##button.x20clwv.x14ug900.xxxijta.xs2atcs.xq8v1ta.xwd4zgb.xvvg52n.xlr9sxt.x784prv.x9v5kkp.xtnn1bt.xh8yej3.x1yc453h.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1a2a7pz.x1ypdohk.x14e42zd.x1qhh985.x10w94by.x972fbf.xjbqb8w.x1lziwak.xat24cr.x14z9mp.xdj266r.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.html-button:nth-of-type(6):has-text(Ask Meta AI)
 
 !================================== Media =====================================!
 
