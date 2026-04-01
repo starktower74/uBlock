@@ -780,6 +780,11 @@ www.pib.gov.in##.social
 ! https://inshorts.com
 inshorts.com##.gJ3yz1PrLw_7NyuylXLz
 
+! https://www.newslaundry.com
+www.newslaundry.com##.W1zxG
+www.newslaundry.com###settings-floating-button
+www.newslaundry.com##.vC5bS
+
 !=============================== News Business India ===============================!
 
 ! https://economictimes.indiatimes.com
@@ -1154,3 +1159,4 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Mar 27, 2026 https://9to5google.com
 
 ! Apr 1, 2026 https://www.businessinsider.com
+
