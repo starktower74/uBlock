@@ -762,6 +762,8 @@ timesofindia.indiatimes.com##.KYVBz.QfX_P.jCfYD > div
 timesofindia.indiatimes.com##.hide.clearfix.user_area.login_fix
 timesofindia.indiatimes.com##.RGBzY
 timesofindia.indiatimes.com##.ufrGc
+timesofindia.indiatimes.com##.timeline_pollWrapper_as.sQLTU
+timesofindia.indiatimes.com##div.njQrb.K4LAA:nth-of-type(3)
 
 ! https://theprint.in
 theprint.in##.tdc-element-style.td-pb-row.wpb_row.tdi_29.vc_row
