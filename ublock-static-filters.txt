@@ -876,6 +876,8 @@ www.moneycontrol.com##.bsTouchPoint
 www.moneycontrol.com##div.gal_sto_widget:nth-of-type(1)
 www.moneycontrol.com##.MT20.mob-hide.newsletter_widget_web.newsletter_widget
 www.moneycontrol.com##.join_follow
+www.moneycontrol.com##.tophvr.dropdown.login_after
+www.moneycontrol.com##.myfeeds
 
 ! Android
 www.moneycontrol.com##.pro_promotion.for_nonpro_users.linkSignIn.nonProBtn
