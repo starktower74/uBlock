@@ -784,6 +784,7 @@ inshorts.com##.gJ3yz1PrLw_7NyuylXLz
 www.newslaundry.com##.W1zxG
 www.newslaundry.com###settings-floating-button
 www.newslaundry.com##.vC5bS
+www.newslaundry.com##.story-element-jsembed.story-element
 
 !=============================== News Business India ===============================!
 
