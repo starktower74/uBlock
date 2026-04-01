@@ -633,6 +633,9 @@ in.investing.com##li.font-bold.text-xs.whitespace-nowrap.flex:nth-of-type(3)
 ! https://www.marketscreener.com
 www.marketscreener.com##.main-menu__primary--blue.main-menu__row__item
 
+! https://www.businessinsider.com
+www.businessinsider.com##.hide-if-subscribed.subscribe-link.label-md-strong
+
 !=================================== News Tech ==================================!
 
 ! https://www.theverge.com
@@ -1150,3 +1153,4 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 
 ! Mar 27, 2026 https://9to5google.com
 
+! Apr 1, 2026 https://www.businessinsider.com
