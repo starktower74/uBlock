@@ -498,6 +498,8 @@ www.npr.org##.navigation__newsletters
 ! https://www.bbc.com
 www.bbc.com##.jLoJFd.sc-8342e32-8
 www.bbc.com##div.iLXgbm.sc-9cd5bb24-0
+www.bbc.com##.huZCWi.sc-8a623a54-0 > .cedLAu.ejIvcK.sc-d2a91acf-3.sc-d2a91acf-2
+www.bbc.com##.QyQrj.ejIvcK.sc-d2a91acf-5.sc-d2a91acf-2
 
 ! https://abcnews.go.com
 abcnews.go.com##.navigation__stream__link.AnchorLink
@@ -1161,3 +1163,4 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 
 ! Apr 1, 2026 https://www.businessinsider.com
 
+! Apr 6, 2026 https://www.bbc.com
