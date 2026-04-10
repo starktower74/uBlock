@@ -362,8 +362,8 @@ scanx.trade##.ng-star-inserted > .side-container
 !================================ News Feed ==================================!
 
 ! https://news.google.com
-news.google.com##.gb_Cd
-news.google.com##div.gb_se.gb_te:nth-of-type(1)
+news.google.com##.gb_Fd.gb_Pd.gb_Xd.gb_Wa
+news.google.com##div.gb_te.gb_ue:nth-of-type(1)
 
 ! Android
 
@@ -1164,3 +1164,4 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Apr 1, 2026 https://www.businessinsider.com
 
 ! Apr 6, 2026 https://www.bbc.com
+
