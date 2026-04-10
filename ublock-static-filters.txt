@@ -363,10 +363,10 @@ scanx.trade##.ng-star-inserted > .side-container
 
 ! https://news.google.com
 
-!Sign in button
+! Sign in button
 news.google.com##.gb_Dd
 
-!Help button
+! Help button
 news.google.com##div.gb_te.gb_ue:nth-of-type(1)
 
 ! Android
@@ -1130,6 +1130,10 @@ www.flightradar24.com##.bg-gray-1500.flex-col.w-sidebar
 timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round.q-btn--flat.no-outline.non-selectable.q-btn-item.q-btn
 
 !========================================================================!
+
+! Mar 23, 2026 https://www.foreignaffairs.com
+
+! Mar 27, 2026 https://www.androidauthority.com
 
 ! Mar 27, 2026 https://9to5google.com
 
