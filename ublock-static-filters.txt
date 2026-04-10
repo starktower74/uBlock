@@ -362,7 +362,11 @@ scanx.trade##.ng-star-inserted > .side-container
 !================================ News Feed ==================================!
 
 ! https://news.google.com
-news.google.com##.gb_Fd.gb_Pd.gb_Xd.gb_Wa
+
+!Sign in button
+news.google.com##.gb_Dd
+
+!Help button
 news.google.com##div.gb_te.gb_ue:nth-of-type(1)
 
 ! Android
@@ -1126,38 +1130,6 @@ www.flightradar24.com##.bg-gray-1500.flex-col.w-sidebar
 timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round.q-btn--flat.no-outline.non-selectable.q-btn-item.q-btn
 
 !========================================================================!
-
-! Feb 17, 2026 https://www.bloomberg.com
-
-! Feb 17, 2026 https://www.wsj.com
-
-! Feb 17, 2026 https://www.youtube.com
-
-! Feb 18, 2026 https://web.whatsapp.com
-
-! Feb 19, 2026 https://economictimes.indiatimes.com
-
-! Feb 20, 2026 https://mega.nz
-
-! Feb 25, 2026 https://techcrunch.com
-
-! Feb 27, 2026 https://www.windowscentral.com
-
-! Feb 27, 2026 https://www.windowscentral.com
-
-! Mar 16, 2026 https://www.livemint.com
-
-! Mar 17, 2026 https://psa.wf
-
-! Mar 19, 2026 https://www.theguardian.com
-
-! Mar 19, 2026 https://chatgpt.com
-
-! Mar 21, 2026 https://trendlyne.com
-
-! Mar 23, 2026 https://www.foreignaffairs.com
-
-! Mar 27, 2026 https://www.androidauthority.com
 
 ! Mar 27, 2026 https://9to5google.com
 
