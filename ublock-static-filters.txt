@@ -287,6 +287,9 @@ retail.sbi.bank.in##.notifications_btm.slide.carousel
 ! https://cdnweb.onlineyono.sbi.bank.in
 cdnweb.onlineyono.sbi.bank.in##app-footer-landing-page
 cdnweb.onlineyono.sbi.bank.in##.banner-desktop
+cdnweb.onlineyono.sbi.bank.in##.support
+cdnweb.onlineyono.sbi.bank.in##.helpline
+cdnweb.onlineyono.sbi.bank.in##.otherOptions > .fontSizing
 
 ! https://www.fednetbank.com
 www.fednetbank.com##.clearfix.dashboard-ad-component
@@ -1143,6 +1146,4 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Apr 6, 2026 https://www.bbc.com
 
 ! Apr 11, 2026 https://www.nytimes.com
-
-
 
