@@ -71,6 +71,7 @@ music.youtube.com * 3p-script noop
 old.reddit.com * 3p-script noop
 scale.com * 3p-script noop
 security.googleblog.com * 3p-script noop
+selfinvest.ppfas.com * 3p-script noop
 spotify.com * 3p-frame noop
 spotify.com * 3p-script noop
 store.steampowered.com * 3p-script noop
@@ -97,6 +98,7 @@ www.bing.com * 3p-script noop
 www.bleepingcomputer.com * 3p-script noop
 www.bloomberg.com * 3p-script noop
 www.cnbc.com * 3p-script noop
+www.edelweissmf.com * 3p-script noop
 www.flightradar24.com * 3p-script noop
 www.flipkart.com * 3p-script noop
 www.ft.com * 3p-frame noop
