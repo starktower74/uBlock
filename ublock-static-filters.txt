@@ -458,6 +458,7 @@ www.nytimes.com##div.quiz-ad-container:nth-of-type(4)
 www.nytimes.com##div.quiz-ad-container:nth-of-type(9)
 www.nytimes.com##.css-1kj7lfb
 www.nytimes.com##.actionbar-button.css-1eeh360
+www.nytimes.com##.gps-module
 
 ! https://edition.cnn.com
 edition.cnn.com##.header__user-account-nav-desktop.header__user-account-nav-icon
@@ -1140,4 +1141,8 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Apr 1, 2026 https://www.businessinsider.com
 
 ! Apr 6, 2026 https://www.bbc.com
+
+! Apr 11, 2026 https://www.nytimes.com
+
+
 
