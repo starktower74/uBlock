@@ -496,6 +496,10 @@ www.newsweek.com##div.Homepage_section__sZEh4:nth-of-type(7)
 www.politico.com##.sign-up-21--initialized.sign-up-21
 www.politico.com##div.container__column:nth-of-type(2) > .container__slot > div.content-heading:nth-of-type(3)
 
+! https://www.politico.eu
+www.politico.eu##.header__ctas > .has-inline-icon.header__primary-cta.has-size-medium.is-style-primary.is-button
+www.politico.eu##.has-size-medium.is-style-secondary.is-button
+
 ! https://www.foreignaffairs.com
 www.foreignaffairs.com##.d-lg-block.d-none.expanded-banner.dismissable
 
@@ -1146,4 +1150,6 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Apr 6, 2026 https://www.bbc.com
 
 ! Apr 11, 2026 https://www.nytimes.com
+
+! Apr 14, 2026 https://www.politico.eu
 
