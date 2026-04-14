@@ -499,6 +499,7 @@ www.politico.com##div.container__column:nth-of-type(2) > .container__slot > div.
 ! https://www.politico.eu
 www.politico.eu##.header__ctas > .has-inline-icon.header__primary-cta.has-size-medium.is-style-primary.is-button
 www.politico.eu##.has-size-medium.is-style-secondary.is-button
+www.politico.eu##.pro-pill
 
 ! https://www.foreignaffairs.com
 www.foreignaffairs.com##.d-lg-block.d-none.expanded-banner.dismissable
