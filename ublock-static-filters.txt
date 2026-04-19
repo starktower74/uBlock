@@ -9,6 +9,11 @@
 www.google.com##.gb_A
 www.google.com##.gb_Ed.gb_Od.gb_Wd.gb_Va
 
+! Google Finance
+
+! Sign in button
+www.google.com##.gb_Fd.gb_Pd.gb_Xd.gb_Va
+
 ! Android
 
 ! Sign in button
@@ -1155,4 +1160,3 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Apr 11, 2026 https://www.nytimes.com
 
 ! Apr 14, 2026 https://www.politico.eu
-
