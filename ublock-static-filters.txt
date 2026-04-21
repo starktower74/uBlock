@@ -124,6 +124,9 @@ www.youtube.com###flexible-item-buttons > .ytd-menu-renderer.style-scope
 ! Set captions background opacity to 50%
 youtube.com##.ytp-caption-segment:style(background: rgba(8, 8, 8, 0.5) !important;)
 
+! Experiencing interruptions popup
+www.youtube.com##.paper-toast-open.yt-notification-action-renderer.style-scope.toast-button
+
 ! Members only filter
 !www.youtube.com##ytd-rich-item-renderer.ytd-rich-grid-renderer:has(.yt-badge-shape--membership)
 
@@ -1160,3 +1163,4 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! Apr 11, 2026 https://www.nytimes.com
 
 ! Apr 14, 2026 https://www.politico.eu
+
