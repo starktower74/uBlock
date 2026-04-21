@@ -14,7 +14,9 @@ www.google.com##.gb_Ed.gb_Od.gb_Wd.gb_Va
 ! Sign in button
 www.google.com##.gb_Fd.gb_Pd.gb_Xd.gb_Va
 
-! Sign in button (google finance beta)
+! Google Finance Beta
+
+! Sign in button
 www.google.com##.gb_Xd.gb_Bb.gb_7d
 
 ! Android
