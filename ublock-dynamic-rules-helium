@@ -44,6 +44,8 @@ community.brave.app * 3p-script noop
 contacts.google.com * 3p-script noop
 digilocker.gov.in * 3p-script noop
 digital.camsonline.com * 3p-script noop
+discord.com * 3p-frame noop
+discord.com * 3p-script noop
 discuss.privacyguides.net * 3p-script noop
 docs.google.com * 3p-frame noop
 docs.google.com * 3p-script noop
@@ -110,6 +112,8 @@ www.gsmarena.com * 3p-script noop
 www.imdb.com * 3p-script noop
 www.indmoney.com * 3p-frame noop
 www.indmoney.com * 3p-script noop
+www.indstocks.com * 3p-frame noop
+www.indstocks.com * 3p-script noop
 www.instagram.com * 3p-script noop
 www.linkedin.com * 3p-script noop
 www.manoramaonline.com * 3p-script noop
