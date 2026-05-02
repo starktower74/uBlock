@@ -16,6 +16,10 @@ account.proton.me * 3p-script noop
 accounts.google.com * 3p-frame noop
 accounts.google.com * 3p-script noop
 adguard-dns.io * 3p-script noop
+amazon.com * 3p-frame noop
+amazon.com * 3p-script noop
+amazon.in * 3p-frame noop
+amazon.in * 3p-script noop
 archive.is * 3p-frame noop
 archive.is * 3p-script noop
 archive.ph * 3p-frame noop
@@ -54,6 +58,7 @@ downdetector.in * 3p-script noop
 epaper.thehindubusinessline.com google.com * block
 federalbank.co.in * 3p-script noop
 fednetbank.com * 3p-script noop
+flipkart.com * 3p-script noop
 gemini.google.com * 3p-script noop
 github.com * 3p-script noop
 groww.in * 3p-script noop
@@ -88,10 +93,6 @@ trendlyne.com * 3p-script noop
 web.dhan.co * 3p-script noop
 web.whatsapp.com * 3p-script noop
 www.91mobiles.com * 3p-script noop
-www.amazon.com * 3p-frame noop
-www.amazon.com * 3p-script noop
-www.amazon.in * 3p-frame noop
-www.amazon.in * 3p-script noop
 www.asianetnews.com * 3p-script noop
 www.asianetnews.com youtube.com * block
 www.bbc.com * 3p-frame noop
@@ -103,7 +104,6 @@ www.bloomberg.com * 3p-script noop
 www.cnbc.com * 3p-script noop
 www.edelweissmf.com * 3p-script noop
 www.flightradar24.com * 3p-script noop
-www.flipkart.com * 3p-script noop
 www.ft.com * 3p-frame noop
 www.ft.com * 3p-script noop
 www.goodreads.com * 3p-script noop
