@@ -245,6 +245,9 @@ gemini.google.com##.ng-star-inserted.adv-upsell.buttons-container
 ! Fix textbox position when removing disclaimer
 gemini.google.com##input-container.input-gradient:style(padding-bottom: 30px !important;)
 
+! https://aistudio.google.com
+aistudio.google.com##.upgrade-card-wrapper
+
 ! https://claude.ai
 
 ! Remove disclaimer
@@ -252,15 +255,6 @@ claude.ai##.py-2.text-xs.text-center.text-text-500.bg-bg-100 .transition.hover\:
 
 ! Remove disclaimer (transparent text to fix textbox position)
 !claude.ai##.py-2.text-xs.text-center.text-text-500.bg-bg-100 > .transition.hover\:text-text-300:style(color: transparent !important;)
-
-! https://lmarena.ai
-
-! Login button
-lmarena.ai##.hover\:bg-header-primary\/90.bg-header-primary.text-text-interactive-inverted.font-medium.text-sm.py-2.px-4.\[\&_svg\]\:shrink-0.\[\&_svg\]\:pointer-events-none.disabled\:opacity-50.disabled\:pointer-events-none.focus-visible\:ring-offset-surface-primary.ring-offset-2.focus-visible\:ring-ring.focus-visible\:ring-2.focus-visible\:outline-none.transition-colors.rounded-md.whitespace-nowrap.gap-2.justify-center.items-center.inline-flex
-
-! Footer
-lmarena.ai##div.gap-2.flex-col.flex.p-2:nth-of-type(4)
-lmarena.ai##.text-\[10px\].whitespace-nowrap.text-text-muted
 
 ! https://duck.ai
 
