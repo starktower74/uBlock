@@ -24,6 +24,8 @@ archive.is * 3p-frame noop
 archive.is * 3p-script noop
 archive.ph * 3p-frame noop
 archive.ph * 3p-script noop
+arena.ai * 3p-frame noop
+arena.ai * 3p-script noop
 asrajavel.github.io * 3p-script noop
 auth.adguardaccount.com * 3p-script noop
 auth.openai.com * 3p-frame noop
@@ -60,12 +62,11 @@ github.com * 3p-script noop
 ish.chat * 3p-script noop
 letterboxd.com * 3p-script noop
 live.com * 3p-script noop
-lmarena.ai * 3p-frame noop
-lmarena.ai * 3p-script noop
 mail.google.com * 3p-frame noop
 mail.google.com * 3p-script noop
 music.youtube.com * 3p-script noop
 old.reddit.com * 3p-script noop
+reelgood.com * 3p-script noop
 scale.com * 3p-script noop
 security.googleblog.com * 3p-script noop
 spotify.com * 3p-frame noop
