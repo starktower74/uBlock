@@ -168,6 +168,7 @@ reelgood.com##.e1ve4bac3.css-1j5w671
 reelgood.com##.e1y5qy7o7.css-h9avnr
 reelgood.com##.e1y5qy7o6.css-15jiz4j
 reelgood.com##.eapz9zh8.css-8rei8n
+reelgood.com##.e4lgkzg0.css-13qyt53
 
 !================================== Torrent ===================================!
 
@@ -1162,3 +1163,4 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 
 ! May 12, 2026 https://ticktick.com
 ! May 14, 2026 https://reelgood.com
+
