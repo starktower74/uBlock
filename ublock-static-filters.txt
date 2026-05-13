@@ -161,6 +161,14 @@ www.twitch.tv###twilight-sticky-footer-root
 www.crunchyroll.com##.banner-wrapper
 www.crunchyroll.com##div.nav-horizontal-layout__action-item--KZBne:nth-of-type(1)
 
+! https://reelgood.com
+reelgood.com##[href^="https://click.reelgood.com/go"]
+reelgood.com##.esbekd70.css-j2q990
+reelgood.com##.e1ve4bac3.css-1j5w671
+reelgood.com##.e1y5qy7o7.css-h9avnr
+reelgood.com##.e1y5qy7o6.css-15jiz4j
+reelgood.com##.eapz9zh8.css-8rei8n
+
 !================================== Torrent ===================================!
 
 ! https://www.torrentleech.org
@@ -1153,5 +1161,4 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 !========================================================================!
 
 ! May 12, 2026 https://ticktick.com
-
-
+! May 14, 2026 https://reelgood.com
