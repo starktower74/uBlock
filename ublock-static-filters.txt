@@ -315,6 +315,9 @@ cdnweb.onlineyono.sbi.bank.in##.otherOptions > .fontSizing
 ! https://www.fednetbank.com
 www.fednetbank.com##div.dashboard-ad-box.clearfix.main-box:nth-of-type(3)
 
+! https://fednet.federal.bank.in
+fednet.federal.bank.in##div.dashboard-ad-box.clearfix.main-box:nth-of-type(3)
+
 ! https://omni.axis.bank.in
 omni.axis.bank.in##.ng-star-inserted.top-bar
 
