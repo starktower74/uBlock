@@ -80,7 +80,10 @@ x.com##.r-yz1j6i.r-qo02w8.r-l5o3uw.css-175oi2r
 ! https://www.reddit.com
 www.reddit.com###get-app
 www.reddit.com###login-button
+www.reddit.com###signup-button
 www.reddit.com##advertise-button
+www.reddit.com###left-sidebar-container > faceplate-tracker
+www.reddit.com##.mb-md.mx-md.flex.justify-self-end.legal-links
 
 ! https://old.reddit.com
 old.reddit.com##.premium-banner-outer
@@ -1166,4 +1169,6 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 
 ! May 12, 2026 https://ticktick.com
 ! May 14, 2026 https://reelgood.com
+! Jun 15, 2026 https://www.reddit.com
+
 
