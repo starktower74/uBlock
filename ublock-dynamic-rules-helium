@@ -22,8 +22,12 @@ amazon.in * 3p-frame noop
 amazon.in * 3p-script noop
 archive.is * 3p-frame noop
 archive.is * 3p-script noop
+archive.md * 3p-frame noop
+archive.md * 3p-script noop
 archive.ph * 3p-frame noop
 archive.ph * 3p-script noop
+archive.today * 3p-frame noop
+archive.today * 3p-script noop
 arena.ai * 3p-frame noop
 arena.ai * 3p-script noop
 asrajavel.github.io * 3p-script noop
