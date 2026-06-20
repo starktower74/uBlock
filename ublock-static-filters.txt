@@ -1151,6 +1151,18 @@ www.biblegateway.com##.go1577786432
 ! https://www.linkedin.com
 www.linkedin.com##.premium-upsell-link
 
+!================================= Travel ================================!
+
+! https://www.flightradar24.com
+www.flightradar24.com##.bg-gray-1500.flex-col.w-sidebar
+
+! All skyscanner domains
+skyscanner.*##[class*="PriceAlertBanner_bannerWrap"]
+skyscanner.*##[class*="AccommodationRecommendations_container"]
+skyscanner.*##[class*="CarHireRecommendations_container"]
+skyscanner.*##[class*="EcoTicketHeader"]
+skyscanner.*##[id*="adslot"]
+
 !================================ Sites =================================!
 
 ! https://opensourcealternative.to
@@ -1159,9 +1171,6 @@ opensourcealternative.to##.md\:px-10.px-4.overflow-y-scroll.overflow-x-hidden.h-
 
 ! https://gitflic.ru
 gitflic.ru##.js-single-banner.sidebar-single-banner
-
-! https://www.flightradar24.com
-www.flightradar24.com##.bg-gray-1500.flex-col.w-sidebar
 
 ! https://timee.io
 timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round.q-btn--flat.no-outline.non-selectable.q-btn-item.q-btn
