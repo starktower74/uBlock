@@ -220,11 +220,11 @@ chatgpt.com##.p-2.justify-center.items-center.w-full.min-h-8.flex > .pointer-eve
 ! Disable login prompt
 chatgpt.com##+js(set-session-storage-item, oai/apps/noAuthHasDismissedSoftRateLimitModal, true)
 
+! Archive
+
 ! Sign in textbox bottom prompt
 !chatgpt.com##.z-20.bottom-full.end-0.start-0.absolute
 !chatgpt.com##.pt-2.gap-3\.5.flex-col.flex.mb-2 > div
-
-! Archive
 
 ! Move textbox higher
 !chatgpt.com##div#thread-bottom-container:style(padding-bottom: 10px !important;)
