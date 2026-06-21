@@ -147,12 +147,12 @@ www.youtube.com##.paper-toast-open.yt-notification-action-renderer.style-scope.t
 ! https://open.spotify.com
 
 ! Explore premium button top
-open.spotify.com##.e-10180-legacy-button.e-10180-legacy-button-primary.encore-text-body-small-bold
-open.spotify.com##.e-10310-legacy-button.e-10310-legacy-button-primary.encore-text-body-small-bold
+open.spotify.com##button:has-text(Explore Premium)
+open.spotify.com##button[data-testid="upgrade-button"]
 
 ! Install app button top when open in browser tab
-open.spotify.com##.encore-internal-color-text-subdued.e-10180-button-tertiary--text-subdued.e-10180-button--leading.e-10180-button-tertiary--small.e-10180-legacy-button--small.encore-text-body-small-bold.e-10180-overflow-wrap-anywhere.e-10180-legacy-button-tertiary.e-10180-legacy-button
-open.spotify.com##.encore-internal-color-text-subdued.e-10310-button-tertiary--text-subdued.e-10310-button--leading.e-10310-button-tertiary--small.e-10310-legacy-button--small.encore-text-body-small-bold.e-10310-overflow-wrap-anywhere.e-10310-legacy-button-tertiary.e-10310-legacy-button
+open.spotify.com##a:has-text(Install App)
+open.spotify.com##a[href="/download"]
 
 ! https://trakt.tv
 trakt.tv###af1a979-be54078-wrapper
