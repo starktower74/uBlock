@@ -213,9 +213,12 @@ chatgpt.com##.pe-2\.5.ps-2.py-1\.5.cursor-default.-me-2\.5.-ms-2.-my-1\.5.__menu
 ! Get plus top promo when logged in
 chatgpt.com##.lg\:block.hidden
 
-! Remove disclaimer
-chatgpt.com##.p-2.justify-center.items-center.w-full.min-h-8.flex > .pointer-events-auto > div
-!chatgpt.com##.p-2.justify-center.items-center.w-full.min-h-8.flex.data-has-range-start\:select-auto.active\:select-auto.select-none > .pointer-events-auto > div
+! Remove bottom disclaimer
+chatgpt.com##span:has(a[href*="/terms"]):has(a[href*="/privacy"])
+
+! Remove disclaimer under text box
+chatgpt.com##.pointer-events-auto.text-token-text-tertiary.text-caption-regular
+!chatgpt.com##.p-2.justify-center.items-center.w-full.min-h-8.flex > .pointer-events-auto > div
 
 ! Disable login prompt
 chatgpt.com##+js(set-session-storage-item, oai/apps/noAuthHasDismissedSoftRateLimitModal, true)
