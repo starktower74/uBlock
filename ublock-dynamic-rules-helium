@@ -82,6 +82,7 @@ t3.chat * 3p-frame noop
 t3.chat * 3p-script noop
 ticktick.com * 3p-script noop
 tradingeconomics.com * 3p-script noop
+trakt.tv * 3p-frame noop
 trakt.tv * 3p-script noop
 trendlyne.com * 3p-script noop
 web.telegram.org * 3p-script noop
