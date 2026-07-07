@@ -6,23 +6,7 @@
 ! https://www.google.com
 
 ! Sign in button
-www.google.com##.gb_A
-www.google.com##.gb_Ed.gb_Od.gb_Wd.gb_Va
-
-! Google Finance
-
-! Sign in button
-www.google.com##.gb_Fd.gb_Pd.gb_Xd.gb_Va
-
-! Google Finance Beta
-
-! Sign in button
-www.google.com##.gb_Xd.gb_Bb.gb_7d
-
-! Android
-
-! Sign in button
-www.google.com##.gb_Va.gb_Wd.gb_Od.gb_Ed
+google.com##a[aria-label="Sign in"]
 
 ! https://search.brave.com
 search.brave.com##.svelte-1uha8ag.download-cta
