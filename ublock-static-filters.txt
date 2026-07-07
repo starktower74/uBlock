@@ -398,16 +398,12 @@ scanx.trade##.ng-star-inserted > .side-container
 ! https://news.google.com
 
 ! Sign in button
-news.google.com##.gb_Kd.gb_Td.gb_2d.gb_0a
-news.google.com##.gb_Ld.gb_Ud.gb_3d.gb_1a
+news.google.com##a[aria-label="Sign in"]
 
 ! Help button
-news.google.com##div.gb_te.gb_ue:nth-of-type(1)
+news.google.com##a[aria-label="Help"]
 
 ! Android
-
-! Sign in button
-news.google.com##.gb_Ed.gb_Od.gb_Wd.gb_Va
 
 ! Sign in banner
 news.google.com##.Au3bp.EElTpf.kbeFSb.lMgtcc.R7GTQ.j7vNaf.ALi4tc.YtXOzd
