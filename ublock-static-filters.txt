@@ -399,6 +399,7 @@ scanx.trade##.ng-star-inserted > .side-container
 
 ! Sign in button
 news.google.com##.gb_Kd.gb_Td.gb_2d.gb_0a
+news.google.com##.gb_Ld.gb_Ud.gb_3d.gb_1a
 
 ! Help button
 news.google.com##div.gb_te.gb_ue:nth-of-type(1)
