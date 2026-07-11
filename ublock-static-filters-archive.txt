@@ -1,1 +1,21 @@
+!=================================== Banking ===================================!
 
+! https://retail.sbi.bank.in
+retail.sbi.bank.in###sbiCard_GiftWrapper
+retail.sbi.bank.in##.col-comn.col-sm-0.col-md-2.col-lg-2 > .slide.carousel
+retail.sbi.bank.in###footer
+retail.sbi.bank.in##.pwdChangeLink
+retail.sbi.bank.in###header_navigation
+retail.sbi.bank.in##.iconWatsupHeader
+retail.sbi.bank.in##.emergencyBtn
+
+! Side links
+retail.sbi.bank.in##.mroa_links.col-md-2
+retail.sbi.bank.in##.tod_links.col-md-2
+retail.sbi.bank.in##.imp_links.col-md-2
+retail.sbi.bank.in##.mbenefit_links.col-md-2
+retail.sbi.bank.in##.favourites_link.col-md-2
+retail.sbi.bank.in##.watsappBank_link.col-md-2
+
+! Android
+retail.sbi.bank.in##.notifications_btm.slide.carousel
