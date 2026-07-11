@@ -1,3 +1,13 @@
+!================================== Media =====================================!
+
+! https://www.youtube.com
+
+! Members only filter
+!www.youtube.com##ytd-rich-item-renderer.ytd-rich-grid-renderer:has(.yt-badge-shape--membership)
+
+! Members only filter (archive)
+!www.youtube.com##ytd-rich-item-renderer.ytd-rich-grid-renderer:has(.badge-style-type-members-only)
+
 !=================================== Banking ===================================!
 
 ! https://retail.sbi.bank.in
