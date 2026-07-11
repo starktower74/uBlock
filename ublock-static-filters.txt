@@ -125,12 +125,6 @@ youtube.com##.ytp-caption-segment:style(background: rgba(8, 8, 8, 0.5) !importan
 ! Experiencing interruptions popup
 www.youtube.com##.paper-toast-open.yt-notification-action-renderer.style-scope.toast-button
 
-! Members only filter
-!www.youtube.com##ytd-rich-item-renderer.ytd-rich-grid-renderer:has(.yt-badge-shape--membership)
-
-! Members only filter (archive)
-!www.youtube.com##ytd-rich-item-renderer.ytd-rich-grid-renderer:has(.badge-style-type-members-only)
-
 ! https://open.spotify.com
 
 ! Explore premium button top
