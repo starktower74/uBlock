@@ -48,6 +48,9 @@ vault.bitwarden.com##.tw-pb-6.tw-flex-col.tw-flex.-tw-m-6
 www.pushbullet.com##div:has-text(/^Help$/):xpath(..)
 !www.pushbullet.com##div.pointer.minitab:nth-of-type(8)
 
+! Exception for rule ||pushbullet.com^$3p in easyprivacy, easylist notifications
+@@||pushbullet.com^$3p
+
 ! https://ticktick.com
 ticktick.com##.upgrade-button
 
@@ -1144,3 +1147,4 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! May 14, 2026 https://reelgood.com
 ! Jun 15, 2026 https://www.reddit.com
 ! Jun 15, 2026 https://www.newsweek.com
+
