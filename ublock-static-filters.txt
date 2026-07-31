@@ -1110,7 +1110,8 @@ www.biblestudytools.com##.alert-severity-normal.alert
 
 ! https://www.biblegateway.com
 www.biblegateway.com##.top-wrapper > .sys-announce > .wrapper > .sys-announce-content
-www.biblegateway.com##.go1577786432
+! Upgrade box
+www.biblegateway.com##div:has(> div.upgrade-box)
 
 !================================= Work ================================!
 
