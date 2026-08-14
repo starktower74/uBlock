@@ -8,7 +8,7 @@ no-large-media: behind-the-scene false
 * substackcdn.com * noop
 * youtube-nocookie.com * noop
 * youtube.com * noop
-a2zapk.io * 3p-frame noop
+a2zapk.dev * 3p-script noop
 a2zapk.io * 3p-script noop
 account.microsoft.com * 3p-script noop
 account.proton.me * 3p-frame noop
@@ -61,6 +61,7 @@ downdetector.com * 3p-script noop
 downdetector.in * 3p-script noop
 epaper.thehindubusinessline.com google.com * block
 flipkart.com * 3p-script noop
+forum.mobilism.org * 3p-script noop
 gemini.google.com * 3p-script noop
 github.com * 3p-script noop
 ish.chat * 3p-script noop
