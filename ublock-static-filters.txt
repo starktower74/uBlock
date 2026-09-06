@@ -84,14 +84,11 @@ discord.com##.anchorUnderlineOnHover_edefb8.anchor_edefb8
 ! https://web.whatsapp.com
 
 ! Meta AI on sidebar
-web.whatsapp.com##.x100v1rl.xyu9ima.x9v5kkp.xtnn1bt.xd3so5o.xs2atcs.x1081cuy.x1a2a7pz.x15urzxu.x129tdwq.x1xc408v.xt8t1vi.x1ypdohk.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xstzfhl.x1sy0etr.x18oe1m7.x1ejq31n.x14e42zd.x1qhh985.x10w94by.x972fbf.x11g6tue.x1vqgdyp.x100vrsf.xl56j7k.x6s0dn4.x78zum5
+web.whatsapp.com##button[aria-label="Meta AI"]
 web.whatsapp.com##.xstzfhl.x1sy0etr.x18oe1m7.xx42vgk.x13fuv20.x178xt8z.xjm9jq1.xh8yej3
 
-! Meta AI on homepage
-web.whatsapp.com##button.x-default-marker.xrdum7p.xmw7ebm.x9v5kkp.xtnn1bt.x1suzm8a.x1p453bz.xwf5gio.xyi3aci.x2b8uid:nth-of-type(3)
-
-! Meta AI in right click menu
-web.whatsapp.com##button.x20clwv.x14ug900.xxxijta.xs2atcs.xq8v1ta.xwd4zgb.xvvg52n.xlr9sxt.x784prv.x9v5kkp.xtnn1bt.xh8yej3.x1yc453h.x1c1uobl.x18d9i69.xyri2b.xexx8yu.x1a2a7pz.x1ypdohk.x14e42zd.x1qhh985.x10w94by.x972fbf.xjbqb8w.x1lziwak.xat24cr.x14z9mp.xdj266r.x1t7ytsu.x1q0q8m5.x18b5jzi.x13fuv20.html-button:nth-of-type(6):has-text(Ask Meta AI)
+! Meta AI on homepage and right click menu
+web.whatsapp.com##button:has-text(Ask Meta AI)
 
 !================================== Media =====================================!
 
