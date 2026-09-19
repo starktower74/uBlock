@@ -1087,6 +1087,7 @@ freefincal.com##.code-block-block-6.code-block-6.code-block
 freefincal.com###supplementary
 freefincal.com###text-17
 freefincal.com###text-14
+freefincal.com##.active.ffc-slidein-right
 
 ! https://finshots.in
 finshots.in##.subscribe-popup-parent
@@ -1145,4 +1146,5 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! May 14, 2026 https://reelgood.com
 ! Jun 15, 2026 https://www.reddit.com
 ! Jun 15, 2026 https://www.newsweek.com
+
 
