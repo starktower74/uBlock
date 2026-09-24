@@ -893,6 +893,7 @@ www.moneycontrol.com##.MT20.mob-hide.newsletter_widget_web.newsletter_widget
 www.moneycontrol.com##.join_follow
 www.moneycontrol.com##.tophvr.dropdown.login_after
 www.moneycontrol.com##.myfeeds
+www.moneycontrol.com##.genAiBannerContainer
 
 ! Android
 www.moneycontrol.com##.pro_promotion.for_nonpro_users.linkSignIn.nonProBtn
@@ -1146,5 +1147,4 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 ! May 14, 2026 https://reelgood.com
 ! Jun 15, 2026 https://www.reddit.com
 ! Jun 15, 2026 https://www.newsweek.com
-
 
