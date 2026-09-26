@@ -462,17 +462,9 @@ edition.cnn.com##.header__audio-link--no-margin.header__audio-link-desktop.heade
 www.washingtonpost.com##.wpds-c-hwuMTf-obFYN-isOutline-true.wpds-c-hwuMTf-kuIRBz-variant-primary.wpds-c-kSOqLF-eezhJm-cv.wpds-c-kSOqLF-ejCoEP-icon-left.wpds-c-kSOqLF-hZSyid-isOutline-true.wpds-c-kSOqLF-biynoz-density-compact.wpds-c-kSOqLF-uTUwn-variant-primary.wpds-c-hwuMTf.wpds-c-kSOqLF
 
 ! https://www.theguardian.com
-www.theguardian.com##.dcr-vxrady
-www.theguardian.com##.dcr-vqk2is > div
-www.theguardian.com##aside.dcr-1fnjjtg > span.dcr-1vetsv0 > gu-island
-www.theguardian.com##.dcr-145list
-www.theguardian.com##.dcr-1iuk88s > .dcr-1xdhyk6
-www.theguardian.com##.dcr-18ku0bu > .dcr-1xdhyk6
-www.theguardian.com##.dcr-1s8spa1 gu-island > .dcr-5k6jfi
-www.theguardian.com##.dcr-av5vqf
-www.theguardian.com##.dcr-1xyi04h
-www.theguardian.com##.dcr-syuney
-www.theguardian.com##.dcr-1tnbsjt
+theguardian.com##gu-island[name="TopBar"]
+theguardian.com##gu-island[name="SlotBodyEnd"]
+theguardian.com##a[data-link-name="meta-syndication-article"]
 
 ! https://www.axios.com
 www.axios.com##.rounded-xs.px-6.py-2.hover\:bg-nav-hover.bg-transparent.gap-x-2.items-center.flex
