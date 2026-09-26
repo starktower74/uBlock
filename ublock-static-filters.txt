@@ -1049,7 +1049,8 @@ app.raindrop.io##.upgrade-R9fx
 !============================= Read Business =============================!
 
 ! https://www.economist.com
-www.economist.com##._newsletterContentPromo
+www.economist.com##[class*="newsletter" i]
+
 www.economist.com##.legal_mb-footer__legal__WOOKE
 
 www.economist.com##.call-to-action_mb-call-to-action--small__Dq0Sg.call-to-action_mb-call-to-action--primary__Hpuo3.call-to-action_mb-call-to-action__JMKot
