@@ -1144,8 +1144,3 @@ timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round
 
 !========================================================================!
 
-! May 12, 2026 https://ticktick.com
-! May 14, 2026 https://reelgood.com
-! Jun 15, 2026 https://www.reddit.com
-! Jun 15, 2026 https://www.newsweek.com
-
