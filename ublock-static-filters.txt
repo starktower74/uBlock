@@ -629,8 +629,6 @@ thelooker.thedailybeast.com##astro-island > .w-full > .lg\:gap-\[var\(--spacing-
 www.aljazeera.com##.sidebar-style.sib-newsletter-form
 www.aljazeera.com##.site-header__account > .auth-btn
 
-!=================================== News World ==================================!
-
 ! https://www.the-independent.com
 www.the-independent.com##.video-sticky-video
 www.the-independent.com##.newsletter-component
