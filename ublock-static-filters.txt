@@ -830,21 +830,8 @@ economictimes.indiatimes.com##.LiveStreamPlay_homePage__Us0Df.LiveStreamPlay_liv
 economictimes.indiatimes.com##.styles_podcast-widget__LKtPP
 economictimes.indiatimes.com##.Pbanner
 
-economictimes.indiatimes.com##div.adSize250.adContainer:nth-of-type(1)
-economictimes.indiatimes.com##.default_page.container.pageHolder > .topAdContainer
-economictimes.indiatimes.com##div.adSize250.adContainer:nth-of-type(2)
-economictimes.indiatimes.com##div.adSize250.adContainer:nth-of-type(5)
-economictimes.indiatimes.com##div.adSize250.adContainer:nth-of-type(6)
-economictimes.indiatimes.com##div.adSize250.adContainer:nth-of-type(7)
-economictimes.indiatimes.com##div.adSize250.adContainer:nth-of-type(8)
-economictimes.indiatimes.com##div.adSize250.adContainer:nth-of-type(9)
-economictimes.indiatimes.com##div.adSize250.adContainer:nth-of-type(10)
-economictimes.indiatimes.com##div.adSize250.adContainer:nth-of-type(11)
-economictimes.indiatimes.com##div.adSize250.adContainer:nth-of-type(12)
-economictimes.indiatimes.com##div.adSize250.adContainer:nth-of-type(13)
-economictimes.indiatimes.com##div.adSize250.adContainer:nth-of-type(14)
-economictimes.indiatimes.com##div.adSize250.adContainer:nth-of-type(15)
-economictimes.indiatimes.com##div.adSize250.adContainer:nth-of-type(16)
+economictimes.indiatimes.com##div.adSize250.adContainer
+economictimes.indiatimes.com##.topAdContainer
 
 ! Epaper
 epaper.indiatimes.com##.timer_container
