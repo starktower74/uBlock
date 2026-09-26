@@ -516,14 +516,14 @@ www.foxnews.com##.network-wrapper
 !================================= News Business ==================================!
 
 ! https://www.bloomberg.com
-www.bloomberg.com##[class*="media-ui-LogoBar_signInButton"]
-www.bloomberg.com##[class*="media-ui-LogoBar_subscribeButton"]
-www.bloomberg.com##[class*="nav-ui-LogoBar__subscribeButton"]
-www.bloomberg.com##[class*="media-ui-TerminalTout_terminalTout"]
-www.bloomberg.com##[class*="inline-newsletter-middle"]
-www.bloomberg.com##[class*="basicLeftRail_share"]
-www.bloomberg.com##[class*="basicLeftRail_bottom"]
-www.bloomberg.com##[class*="popover.media-ui-Popover_wrapper-gXa"]
+www.bloomberg.com##[class*="media-ui-LogoBar_signInButton" i]
+www.bloomberg.com##[class*="media-ui-LogoBar_subscribeButton" i]
+www.bloomberg.com##[class*="nav-ui-LogoBar__subscribeButton" i]
+www.bloomberg.com##[class*="media-ui-TerminalTout_terminalTout" i]
+www.bloomberg.com##[class*="inline-newsletter-middle" i]
+www.bloomberg.com##[class*="basicLeftRail_share" i]
+www.bloomberg.com##[class*="basicLeftRail_bottom" i]
+www.bloomberg.com##[class*="popover.media-ui-Popover_wrapper-gXa" i]
 
 www.bloomberg.com###plug-banner-outlet
 www.bloomberg.com##.bb-that--container.bb-that-header
@@ -531,8 +531,8 @@ www.bloomberg.com##.Footer_footerDesktop__Et_VT.media-ui-Footer_bottomContent-FG
 www.bloomberg.com##section:nth-of-type(2) > div.gridModule_gridModule___HgOM:nth-of-type(1)
 
 ! Android
-www.bloomberg.com##[class*="media-ui-LogoBarMobile_subscribeButton"]
-www.bloomberg.com##[class*="floating-copy-link"]
+www.bloomberg.com##[class*="media-ui-LogoBarMobile_subscribeButton" i]
+www.bloomberg.com##[class*="floating-copy-link" i]
 
 ! https://www.wsj.com
 www.wsj.com##.edjz7cx3.css-100otit-MainHeader > .e1mkna771.css-jzm21u-MastHeadContainer > .e1mkna770.css-vkkgu1-CustomerNavWrapper
@@ -671,39 +671,43 @@ www.androidauthority.com##.e_Tc.e_Qc.e_bq
 www.theregister.com###mob_user_link
 
 ! https://www.tomshardware.com
+www.tomshardware.com##[class*="newsletter" i]
+
 www.tomshardware.com##.flexisites-social
 www.tomshardware.com###auth-in-nav-header
 www.tomshardware.com##.inline-layout.pull-left.van-image-figure
 www.tomshardware.com##p:nth-of-type(20)
-www.tomshardware.com##.slice-container-newsletterForm
 
 www.tomshardware.com###hammerbot
 www.tomshardware.com##.sm\:border-solid.sm\:border-gray-200.sm\:border-r.sm\:relative.empty\:border-none.w-max.p-1\.5.h-full.flex
 www.tomshardware.com##.visible.premium-banner
 
 ! https://www.windowscentral.com
+www.windowscentral.com##[class*="newsletter" i]
+
 www.windowscentral.com##.flexisites-social
 www.windowscentral.com###auth-in-nav-header
 www.windowscentral.com##.inline-layout.pull-left.van-image-figure
 www.windowscentral.com##p:nth-of-type(20)
-www.windowscentral.com##.slice-container-newsletterForm
 
 www.windowscentral.com##.hawk-deal-widget-container
 www.windowscentral.com##aside.hawk-root
 
 ! https://www.pcgamer.com
+www.pcgamer.com##[class*="newsletter" i]
+
 www.pcgamer.com##.flexisites-social
 www.pcgamer.com###auth-in-nav-header
 www.pcgamer.com##.inline-layout.pull-left.van-image-figure
 www.pcgamer.com##p:nth-of-type(20)
-www.pcgamer.com##.slice-container-newsletterForm
 
 ! https://www.techradar.com
+www.techradar.com##[class*="newsletter" i]
+
 www.techradar.com##.flexisites-social
 www.techradar.com###auth-in-nav-header
 www.techradar.com##.inline-layout.pull-left.van-image-figure
 www.techradar.com##p:nth-of-type(20)
-www.techradar.com##.slice-container-newsletterForm
 
 www.techradar.com###viafoura-comments-container
 www.techradar.com###how-we-test
@@ -720,9 +724,10 @@ www.neowin.net##[href="/contact/#newstip"]
 !================================= News India ==================================!
 
 ! https://www.thehindu.com
-www.thehindu.com##.btn-subscribe.btn
-www.thehindu.com##.thgsignin.btn-signup.btn
-www.thehindu.com##.btn-ebooks.btn
+www.thehindu.com##.btn-subscribe
+www.thehindu.com##.btn-signup
+www.thehindu.com##.btn-ebooks
+www.thehindu.com###artmeterpv
 
 ! https://www.ndtv.com
 www.ndtv.com##.Ftr_wr
@@ -752,23 +757,23 @@ www.indiatoday.in##.stquiziframe
 www.indiatoday.in###tab-video-wrapper-plugin
 
 ! https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##.photosslider.zrId1
+timesofindia.indiatimes.com##.timeline_pollWrapper_as.sQLTU
+timesofindia.indiatimes.com##.hide.clearfix.user_area.login_fix
+timesofindia.indiatimes.com##[href^="https://gadgetsnow.indiatimes.com/awards/nominations"]
+timesofindia.indiatimes.com##.slick_UI
+
+timesofindia.indiatimes.com##.noPaddingTitle.Lmnpi
 timesofindia.indiatimes.com##.GQW9n
 timesofindia.indiatimes.com##.ItUPk.QJDs2.dg0Vm
 timesofindia.indiatimes.com##.e2QJg
-timesofindia.indiatimes.com##.slick_UI.Jniq2
-timesofindia.indiatimes.com##[href^="https://gadgetsnow.indiatimes.com/awards/nominations"]
-timesofindia.indiatimes.com##.slick_UI.qED3a
-timesofindia.indiatimes.com##.photosslider.zrId1
-timesofindia.indiatimes.com##.noPaddingTitle.Lmnpi
 timesofindia.indiatimes.com##.g6puz
 timesofindia.indiatimes.com##.GVRP6.ayNz1
 timesofindia.indiatimes.com##.WDp9l
 timesofindia.indiatimes.com##.Fthhc.tcTqB
 timesofindia.indiatimes.com##.KYVBz.QfX_P.jCfYD > div
-timesofindia.indiatimes.com##.hide.clearfix.user_area.login_fix
 timesofindia.indiatimes.com##.RGBzY
 timesofindia.indiatimes.com##.ufrGc
-timesofindia.indiatimes.com##.timeline_pollWrapper_as.sQLTU
 timesofindia.indiatimes.com##div.njQrb.K4LAA:nth-of-type(3)
 
 ! https://theprint.in
@@ -792,46 +797,40 @@ www.newslaundry.com##.story-element-jsembed.story-element
 !=============================== News Business India ===============================!
 
 ! https://economictimes.indiatimes.com
-economictimes.indiatimes.com##.dyContent.nyo_sticky_ftr
-economictimes.indiatimes.com##.short.stickyBand
-economictimes.indiatimes.com##.full.stickyBand
-economictimes.indiatimes.com##.emeritus_inarticle
-economictimes.indiatimes.com##.styles_cube__sjG0C
-economictimes.indiatimes.com##.ui-draggable.tv_large.bud_20.dragTvBox
-economictimes.indiatimes.com##.liveTvSticky
-economictimes.indiatimes.com##div.stickyContainer:nth-of-type(2)
-economictimes.indiatimes.com##.styles_etPrimeBanner__TniLD
-economictimes.indiatimes.com##.gaDone.clearfix.article_block > .bylineBox > .contentwrapper.dt > .flr.artShare.vam.dtc > .sharePbanner
-economictimes.indiatimes.com##.whatsappFollow
-economictimes.indiatimes.com##.ai_podcast_030825
-economictimes.indiatimes.com##.paywall.clr.artData > .medium.artText > .show.inSideInd
-economictimes.indiatimes.com##.styles_homeLeftSectionBanner__8_ohA.styles_banner__UWnfW
-economictimes.indiatimes.com##.gaDone.clearfix.article_block > .clearfix.edition > .newRHSSideBar.newSideBar.sideBar.flr > div.stickyContainer > .mktArticleUradar
-economictimes.indiatimes.com##.gaDone.clearfix.article_block > .clearfix.edition > .newRHSSideBar.newSideBar.sideBar.flr > div.stickyContainer:nth-of-type(1) > div:nth-of-type(3)
-economictimes.indiatimes.com##.budgetCube
-economictimes.indiatimes.com##.gaDone.clearfix.article_block > .clearfix.edition > .newRHSSideBar.newSideBar.sideBar.flr > .etAIDecade
-economictimes.indiatimes.com##.etPrimeBanner
-economictimes.indiatimes.com##.sharePbanner
-economictimes.indiatimes.com##.etAIDecade
-economictimes.indiatimes.com##.medium.artText > .show.inSideInd
-economictimes.indiatimes.com##.band
-economictimes.indiatimes.com##.marketBand.MarketBand_band__WWq_I
-economictimes.indiatimes.com###budget_topband
-
-economictimes.indiatimes.com##.masterclassCarousel
-economictimes.indiatimes.com##.animText.navAI
-economictimes.indiatimes.com###etExceBanner
-economictimes.indiatimes.com##.grandmaster_widget > .initiated
-economictimes.indiatimes.com###aiMasterClass > .styles_extrapad__kCaQt
-economictimes.indiatimes.com##.clr.videos.jsx-7ca76344882e59e1
-economictimes.indiatimes.com##.etSpecial.jsx-cb97ed35265ccdaa
-economictimes.indiatimes.com##.etAIDecade.jsx-d0ca7de6f7404e71
-economictimes.indiatimes.com##.LiveStreamPlay_homePage__Us0Df.LiveStreamPlay_livestreamBox__hvkR0
-economictimes.indiatimes.com##.styles_podcast-widget__LKtPP
-economictimes.indiatimes.com##.Pbanner
+economictimes.indiatimes.com##[class*="LiveStreamPlay" i]
+economictimes.indiatimes.com##[class*="etPrimeBanner" i]
+economictimes.indiatimes.com##[class*="etAIDecade" i]
+economictimes.indiatimes.com##[class*="masterclass" i]
+economictimes.indiatimes.com##[class*="etSpecial" i]
+economictimes.indiatimes.com##[class*="podcast" i]
 
 economictimes.indiatimes.com##div.adSize250.adContainer
 economictimes.indiatimes.com##.topAdContainer
+
+economictimes.indiatimes.com##.whatsappFollow
+economictimes.indiatimes.com##.paywall.clr.artData > .medium.artText > .show.inSideInd
+economictimes.indiatimes.com##.animText.navAI
+economictimes.indiatimes.com###etExceBanner
+economictimes.indiatimes.com##.grandmaster_widget
+economictimes.indiatimes.com##.Pbanner
+economictimes.indiatimes.com##.sharePbanner
+economictimes.indiatimes.com##.MarketBand_flex__KgnHh.MarketBand_bandContent__uagJF
+economictimes.indiatimes.com##.dragTvBox
+economictimes.indiatimes.com##.liveTvSticky
+economictimes.indiatimes.com##.emeritus_inarticle
+economictimes.indiatimes.com##.full.stickyBand
+economictimes.indiatimes.com##.short.stickyBand
+
+economictimes.indiatimes.com##.budgetCube
+economictimes.indiatimes.com###budget_topband
+
+economictimes.indiatimes.com##.dyContent.nyo_sticky_ftr
+economictimes.indiatimes.com##.styles_homeLeftSectionBanner__8_ohA.styles_banner__UWnfW
+economictimes.indiatimes.com##.medium.artText > .show.inSideInd
+economictimes.indiatimes.com##div.stickyContainer:nth-of-type(1)
+economictimes.indiatimes.com##div.stickyContainer:nth-of-type(2)
+economictimes.indiatimes.com##.gaDone.clearfix.article_block > .clearfix.edition > .newRHSSideBar.newSideBar.sideBar.flr > div.stickyContainer > .mktArticleUradar
+economictimes.indiatimes.com##.gaDone.clearfix.article_block > .clearfix.edition > .newRHSSideBar.newSideBar.sideBar.flr > div.stickyContainer:nth-of-type(1) > div:nth-of-type(3)
 
 ! Epaper
 epaper.indiatimes.com##.timer_container
@@ -860,24 +859,28 @@ www.business-standard.com##.MainStory_readapp__QvG2w
 www.business-standard.com##.show-on-mobile
 
 ! https://www.moneycontrol.com
+www.moneycontrol.com##[class*="newsletter" i]
+www.moneycontrol.com##[class*="advSlot" i]
+
 www.moneycontrol.com###mc_headband
 www.moneycontrol.com##.headband_img_ht
-www.moneycontrol.com##.fright
-www.moneycontrol.com##.page_right_wrapper
-www.moneycontrol.com##[href="https://www.moneycontrolpay.com/"] > dotlottie-player
-www.moneycontrol.com##.wrap
+www.moneycontrol.com##.myfeeds
+www.moneycontrol.com##.genAiBannerContainer
 www.moneycontrol.com##.upgrade
-www.moneycontrol.com##.mob-hide.cls_budget_adDiv
 www.moneycontrol.com##.mc_logo_be_a_pro.be_apro
 www.moneycontrol.com##.proExpert
 www.moneycontrol.com##.touchPoint
 www.moneycontrol.com##.bsTouchPoint
-www.moneycontrol.com##div.gal_sto_widget:nth-of-type(1)
-www.moneycontrol.com##.MT20.mob-hide.newsletter_widget_web.newsletter_widget
 www.moneycontrol.com##.join_follow
 www.moneycontrol.com##.tophvr.dropdown.login_after
-www.moneycontrol.com##.myfeeds
-www.moneycontrol.com##.genAiBannerContainer
+www.moneycontrol.com##[href="https://www.moneycontrolpay.com/"] > dotlottie-player
+www.moneycontrol.com###osv_player_web
+
+www.moneycontrol.com##.mob-hide.cls_budget_adDiv
+www.moneycontrol.com##.fright
+www.moneycontrol.com##.page_right_wrapper
+www.moneycontrol.com##.wrap
+www.moneycontrol.com##div.gal_sto_widget:nth-of-type(1)
 
 ! Android
 www.moneycontrol.com##.pro_promotion.for_nonpro_users.linkSignIn.nonProBtn
@@ -886,16 +889,15 @@ www.moneycontrol.com##.js-li-win-to-spin-game-start.css-li-win-to-spin-game-star
 www.moneycontrol.com##.js-li-loan
 www.moneycontrol.com##.btm_img2
 www.moneycontrol.com##.snapShotAiSummery
-www.moneycontrol.com##.show-moblie.advSlotsGrayBoxs
-www.moneycontrol.com##.tech_newsletter
-www.moneycontrol.com##.desk-hide.newsletter_widget_wap.newsletter_widget
-www.moneycontrol.com##.mainWrapper_wap_advSlotsGrayBox__9tpqq
 
 ! https://www.livemint.com
+www.livemint.com##[class*="ad-" i], [id*="ad-" i]
+www.livemint.com##[class*="newsletter" i]
+
+www.livemint.com##.ad
+www.livemint.com##.rightblockAd2
 www.livemint.com###subscriptionNewBanner
-www.livemint.com###ad-11747899667541
 www.livemint.com##.btmStrip
-www.livemint.com##.market_page_right > .ad
 www.livemint.com##.imagediv
 ||www.livemint.com/lm-img/cdp/Storefront_Images/1746168736674.png$image
 www.livemint.com##.mainFrame.PLOffersFormBannerCss_mainFrame__zc2fF
@@ -919,14 +921,12 @@ www.businesstoday.in##.rhs_fixwhtsapp
 www.businesstoday.in##.bottomSliderSwipe
 
 ! https://www.cnbctv18.com
-www.cnbctv18.com##.below-summary-ad.jsx-a1f7f0abdc69a52
-www.cnbctv18.com##.rhs-long-ad.jsx-2339679147.jsx-216b97f5d43a6f7d
-www.cnbctv18.com##.topHeader.desk_header_banner.jsx-5cce2bd4cedf6a03
-www.cnbctv18.com##.below-summary-ad.jsx-1586f4170b918b1b
+www.cnbctv18.com##[class*="ad-" i], [class*="-ad" i]
 
-! Live TV
-www.cnbctv18.com##.live-tv-section.jsx-1316522691
-www.cnbctv18.com##.promolg.jsx-1316522691
+www.cnbctv18.com##.live-tv-section
+www.cnbctv18.com##.promolg
+
+www.cnbctv18.com##.topHeader.desk_header_banner
 
 !=============================== News Tech India ===============================!
 
@@ -948,7 +948,7 @@ telecomtalk.info##.site-footer:style(background: transparent !important;)
 ! https://www.manoramaonline.com
 www.manoramaonline.com##.news-buzz-outer
 www.manoramaonline.com##.cmp-story-list__component-slot
-www.manoramaonline.com##li.cmp-header__web-only-right-li > .mm-btn--premium.mm-btn
+www.manoramaonline.com##.mm-btn--premium.mm-btn
 www.manoramaonline.com##.cardTeaser
 www.manoramaonline.com##.cmp-footer__middle-block
 www.manoramaonline.com##.sign-in-button.cmp-header__nav-button
@@ -961,43 +961,45 @@ www.onmanorama.com##li.cmp-header__web-only-right-li:nth-of-type(2)
 www.onmanorama.com##.sign-in-button.cmp-header__nav-button
 
 ! https://www.mathrubhumi.com
-www.mathrubhumi.com##.bg-adBackground.justify-center.flex.mx-auto.my-5.max-w-\[300px\].min-h-\[250px\]
+www.mathrubhumi.com##[class*="_ad" i].slot
+www.mathrubhumi.com##[class*="adBackground" i]
+
 www.mathrubhumi.com##.google-preferred-source-badge
+www.mathrubhumi.com##.trending-topics-container.navmenu-links
 www.mathrubhumi.com##.mb_hp_desktop_right_btf.slot
-www.mathrubhumi.com##.hidden.hide-scrollbar.trending-topics-container.navmenu-links
-www.mathrubhumi.com##.\33 00x600_article_right_ad.slot
-www.mathrubhumi.com##.\33 00x250_article_right_mid_ad.slot
-www.mathrubhumi.com##.\33 00x250_article_bottom_ad.slot
+www.mathrubhumi.com##.whatsapp-banner
+www.mathrubhumi.com###emotes-iframe
+www.mathrubhumi.com##.also-watch
+www.mathrubhumi.com##.qikz-recommendations-in-article-page
+
 www.mathrubhumi.com##.items-center.mt-\[30px\].justify-center.flex-col.flex
 www.mathrubhumi.com##.border-borderColor.border.rounded-\[10px\].mb-\[30px\].mt-\[10px\].shadow-md.p-\[20px\].bg-cardMobileBg.items-center.flex-col.flex
 www.mathrubhumi.com##.print\:hidden.arb\:px-0.px-\[10px\].m-auto.lg\:w-\[610px\].max-w-\[610px\].article-bottom > .text-primary.content-font
-www.mathrubhumi.com###emotes-iframe
-www.mathrubhumi.com##.my-\[20px\].rounded-\[10px\].border-borderColor.border.p-\[10px\].bg-bgColor.justify-between.flex.whatsapp-banner
-www.mathrubhumi.com##.also-watch
 
 ! https://english.mathrubhumi.com
-english.mathrubhumi.com##.bg-adBackground.justify-center.flex.mx-auto.my-5.max-w-\[300px\].min-h-\[250px\]
+english.mathrubhumi.com##[class*="_ad" i].slot
+english.mathrubhumi.com##[class*="adBackground" i]
+
 english.mathrubhumi.com##.google-preferred-source-badge
+english.mathrubhumi.com##.trending-topics-container.navmenu-links
 english.mathrubhumi.com##.mb_hp_desktop_right_btf.slot
-english.mathrubhumi.com##.hidden.hide-scrollbar.trending-topics-container.navmenu-links
-english.mathrubhumi.com##.\33 00x600_article_right_ad.slot
-english.mathrubhumi.com##.\33 00x250_article_right_mid_ad.slot
-english.mathrubhumi.com##.\33 00x250_article_bottom_ad.slot
+english.mathrubhumi.com##.whatsapp-banner
+english.mathrubhumi.com###emotes-iframe
+english.mathrubhumi.com##.also-watch
+english.mathrubhumi.com##.qikz-recommendations-in-article-page
+
 english.mathrubhumi.com##.items-center.mt-\[30px\].justify-center.flex-col.flex
 english.mathrubhumi.com##.border-borderColor.border.rounded-\[10px\].mb-\[30px\].mt-\[10px\].shadow-md.p-\[20px\].bg-cardMobileBg.items-center.flex-col.flex
 english.mathrubhumi.com##.print\:hidden.arb\:px-0.px-\[10px\].m-auto.lg\:w-\[610px\].max-w-\[610px\].article-bottom > .text-primary.content-font
-english.mathrubhumi.com###emotes-iframe
-english.mathrubhumi.com##.my-\[20px\].rounded-\[10px\].border-borderColor.border.p-\[10px\].bg-bgColor.justify-between.flex.whatsapp-banner
-english.mathrubhumi.com##.also-watch
 
 ! https://www.asianetnews.com
 www.asianetnews.com##.articledmouter
-www.asianetnews.com##.livetvbox._3R64w._1LRRj
-www.asianetnews.com##.rgtadbox._2aSW-
-www.asianetnews.com##.mb-12.eventBanner
-www.asianetnews.com##.rgtadbox.undefined
-www.asianetnews.com##.-baF-
+www.asianetnews.com##.livetvbox
+www.asianetnews.com##.rgtadbox
+www.asianetnews.com##.eventBanner
 www.asianetnews.com##.morearticlesliderWrapper
+
+www.asianetnews.com##.-baF-
 www.asianetnews.com##.E-6uL
 
 ! Add bottom padding to header
@@ -1005,12 +1007,12 @@ www.asianetnews.com##header:style(padding-bottom: 15px !important;)
 
 ! https://newsable.asianetnews.com
 newsable.asianetnews.com##.articledmouter
-newsable.asianetnews.com##.livetvbox._3R64w._1LRRj
-newsable.asianetnews.com##.rgtadbox._2aSW-
-newsable.asianetnews.com##.mb-12.eventBanner
-newsable.asianetnews.com##.rgtadbox.undefined
-newsable.asianetnews.com##.-baF-
+newsable.asianetnews.com##.livetvbox
+newsable.asianetnews.com##.rgtadbox
+newsable.asianetnews.com##.eventBanner
 newsable.asianetnews.com##.morearticlesliderWrapper
+
+newsable.asianetnews.com##.-baF-
 newsable.asianetnews.com##.E-6uL
 
 ! Add bottom padding to header
@@ -1019,20 +1021,17 @@ newsable.asianetnews.com##header:style(padding-bottom: 15px !important;)
 newsable.asianetnews.com##.googlePreferInner
 newsable.asianetnews.com##.Connect.Creator
 newsable.asianetnews.com###\31 0041
-newsable.asianetnews.com##.items-center.justify-center.flex.MobgooglePreferOuter
+newsable.asianetnews.com##.MobgooglePreferOuter
 
 ! https://www.reporterlive.com
-www.reporterlive.com##.addesktop.layerSec.advertiseSection
-www.reporterlive.com##.headerAddSection
+www.reporterlive.com##[class*="advertiseSection" i]
+
 www.reporterlive.com##.join-watsapp-channel
+www.reporterlive.com##.liveTv
+
+www.reporterlive.com##.headerAddSection
 www.reporterlive.com##.mb-5.text-center.layers
 www.reporterlive.com##.footerMiddle
-www.reporterlive.com##.rSpecialSection > .layerSection > .wrapper > .layerSec.advertiseSection
-www.reporterlive.com##.sportsSection > .layerSection > .wrapper > .layerSec.advertiseSection
-www.reporterlive.com##.entertainSection > .layerSection > .wrapper > .layerSec.advertiseSection
-www.reporterlive.com##.d-flex.lifeStyleSection.indexMainSection > .layerSection > .wrapper > .layerSec.advertiseSection
-www.reporterlive.com##.districtSection > .layerSection > .wrapper > .layerSec.advertiseSection
-www.reporterlive.com##.wheelSection > .layerSection > .wrapper > .layerSec.advertiseSection
 
 ! https://www.twentyfournews.com
 www.twentyfournews.com##.Widgettop.o_hidden.etext.mtop20.center.row
@@ -1041,7 +1040,6 @@ www.twentyfournews.com##div.mbtm30.etext.center.WidgetA:nth-of-type(1)
 www.twentyfournews.com##div.mbtm30.etext.center.WidgetA:nth-of-type(3)
 www.twentyfournews.com##.o_hidden.WidgetA.row.etext.center.mtop30
 www.twentyfournews.com##div.mbtm30.etext.center.WidgetA:nth-of-type(8)
-www.reporterlive.com##.layerSec.liveTv
 
 !================================ Read ================================!
 
@@ -1051,14 +1049,15 @@ app.raindrop.io##.upgrade-R9fx
 !============================= Read Business =============================!
 
 ! https://www.economist.com
+www.economist.com##._newsletterContentPromo
+www.economist.com##.legal_mb-footer__legal__WOOKE
+
 www.economist.com##.call-to-action_mb-call-to-action--small__Dq0Sg.call-to-action_mb-call-to-action--primary__Hpuo3.call-to-action_mb-call-to-action__JMKot
 www.economist.com##div.media-query_mb-media-query--min-lg__mm1MB
 www.economist.com##.link_mb-link--large__Xt4wZ.link_mb-link__EG0v0
 www.economist.com##hr:nth-of-type(2)
 www.economist.com##hr:nth-of-type(1)
 www.economist.com##p.e1y9q0ei0.css-1l5amll:nth-of-type(10)
-www.economist.com##._newsletterContentPromo
-www.economist.com##.legal_mb-footer__legal__WOOKE
 
 !============================ Read Business India ===========================!
 
@@ -1107,11 +1106,11 @@ www.linkedin.com##.premium-upsell-link
 www.flightradar24.com##.bg-gray-1500.flex-col.w-sidebar
 
 ! All skyscanner domains
-skyscanner.*##[class*="PriceAlertBanner_bannerWrap"]
-skyscanner.*##[class*="AccommodationRecommendations_container"]
-skyscanner.*##[class*="CarHireRecommendations_container"]
-skyscanner.*##[class*="EcoTicketHeader"]
-skyscanner.*##[id*="adslot"]
+skyscanner.*##[class*="PriceAlertBanner_bannerWrap" i]
+skyscanner.*##[class*="AccommodationRecommendations_container" i]
+skyscanner.*##[class*="CarHireRecommendations_container" i]
+skyscanner.*##[class*="EcoTicketHeader" i]
+skyscanner.*##[id*="adslot" i]
 
 !================================ Sites =================================!
 
