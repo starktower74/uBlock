@@ -8,13 +8,13 @@
 ! Sign in button
 google.com##a[aria-label="Sign in"]
 
-! https://search.brave.com
-search.brave.com##.svelte-1uha8ag.download-cta
-search.brave.com##.svelte-4jwo3w.t-tertiary.desktop-small-regular
-
 ! https://duckduckgo.com
 duckduckgo.com##.TccjmKV6RraCaCw5L9gd
 duckduckgo.com##.footer
+
+! https://search.brave.com
+search.brave.com##.svelte-1uha8ag.download-cta
+search.brave.com##.svelte-4jwo3w.t-tertiary.desktop-small-regular
 
 ! https://www.bing.com
 www.bing.com###id_a
@@ -28,7 +28,7 @@ www.bing.com###b-scopeListItem-copilotsearch
 
 !================================== Email =====================================!
 
-! Sign in with Google prompt
+! Sign in with Google prompt on sites
 ||accounts.google.com/gsi/iframe/select?client_id=*.apps.googleusercontent.com
 
 ! https://mail.proton.me
@@ -513,56 +513,6 @@ www.foxnews.com##.watch.button
 www.foxnews.com##.login
 www.foxnews.com##.network-wrapper
 
-!=================================== News 1 ==================================!
-
-! https://theonion.com
-theonion.com##.wp-block-post-content-is-layout-constrained.is-layout-constrained.has-global-padding.wp-block-post-content.entry-content > div.wp-block-group-is-layout-flow.is-layout-flow.alignwide.wp-block-group
-
-! https://www.thedailybeast.com
-www.thedailybeast.com##.btn-newsletter.rightLink
-www.thedailybeast.com##.menuRight
-www.thedailybeast.com##.cheatsheet__cheatsheet-list-container__newsletter
-
-! https://thelooker.thedailybeast.com
-thelooker.thedailybeast.com##.px-\[var\(--spacing-6\)\].pt-\[var\(--spacing-2\)\].pb-\[var\(--spacing-4\)\].box-border.bg-\[var\(--color-tailwind-gray-100\)\].content-stretch.overflow-hidden.group-\[\.no-ads\]\:hidden.size-full.relative.items-center.gap-\[var\(--spacing-2\)\].flex-col.flex
-thelooker.thedailybeast.com##.w-full.shrink-0.relative.min-w-\[300px\].max-w-\[400px\].lg\:items-center.lg\:w-\[clamp\(300px\,26vw\,400px\)\].lg\:gap-\[var\(--spacing-12\)\].lg\:flex-col.lg\:flex.hidden
-thelooker.thedailybeast.com##.lg\:my-0.lg\:py-\[var\(--spacing-5\)\].md\:mb-\[var\(--spacing-10\)\].md\:mt-\[calc\(var\(--spacing-8\)-var\(--spacing-10\)\)\].mb-\[var\(--spacing-8\)\].mt-\[calc\(var\(--spacing-6\)-var\(--spacing-10\)\)\].justify-center.flex
-thelooker.thedailybeast.com##.min-\[768px\]\:h-\[182px\].min-\[652px\]\:h-\[246px\].min-\[401px\]\:h-\[282px\].min-\[377px\]\:h-\[294px\].h-\[330px\].w-full.md\:gap-\[var\(--spacing-3\)\].md\:items-center.md\:flex-row.py-\[var\(--spacing-5\)\].bg-\[var\(--color-surface-secondary-light\)\].gap-\[var\(--spacing-4\)\].items-center.flex-col.px-\[var\(--spacing-5\)\].flex
-thelooker.thedailybeast.com##.px-\[var\(--spacing-12\)\].pt-\[var\(--spacing-4\)\].pb-\[var\(--spacing-5\)\].box-border.bg-\[var\(--color-tailwind-gray-100\)\].content-stretch.overflow-hidden.group-\[\.no-ads\]\:hidden.size-full.relative.items-center.gap-\[var\(--spacing-2\)\].flex-col.flex
-thelooker.thedailybeast.com##section:nth-of-type(3)
-thelooker.thedailybeast.com##.lg\:py-\[var\(--spacing-12\)\].md\:py-\[var\(--spacing-10\)\].pb-\[var\(--spacing-8\)\].pt-\[var\(--spacing-6\)\].lg\:px-\[var\(--spacing-margin-gt-1024\)\].md\:px-\[var\(--spacing-margin-768-1023\)\].px-\[var\(--spacing-margin-lt-767\)\].mx-auto.max-w-\[var\(--spacing-layout-max-width\)\] > div.w-full > .lg\:py-\[var\(--spacing-16\)\].py-\[var\(--spacing-12\)\].justify-center.flex
-thelooker.thedailybeast.com##.top-\[var\(--spacing-8\)\].sticky > div
-thelooker.thedailybeast.com##astro-island > .w-full > .lg\:py-\[var\(--spacing-16\)\].py-\[var\(--spacing-12\)\].justify-center.flex
-thelooker.thedailybeast.com##astro-island > .w-full > .lg\:gap-\[var\(--spacing-6\)\].lg\:flex > .lg\:flex-shrink-0.lg\:w-\[300px\].lg\:block.hidden > .top-\[var\(--spacing-8\)\].sticky
-
-!=================================== News 2 ==================================!
-
-! https://www.aljazeera.com
-www.aljazeera.com##.sidebar-style.sib-newsletter-form
-www.aljazeera.com##.site-header__account > .auth-btn
-
-!=================================== News World ==================================!
-
-! https://www.the-independent.com
-www.the-independent.com##.video-sticky-video
-www.the-independent.com##.newsletter-component
-www.the-independent.com###header-laptop-subscribe-button
-www.the-independent.com##.register-login-link
-www.the-independent.com##.gRMult.fTrYDj.sc-1ca6zfp-3.sc-1ca6zfp-1
-
-! https://www.japantimes.co.jp
-www.japantimes.co.jp###user_account_header
-
-!================================= News Magazines =================================!
-
-! https://time.com
-time.com###pre-nav-container
-time.com##.rounded-lg.items-center.flex-col.h-full.flex.relative
-
-! https://www.theatlantic.com
-www.theatlantic.com##.NavAccountLinks_subscribe__2DNuJ
-www.theatlantic.com##li.NavAccountLinks_navListItem__Lxooj:nth-of-type(1)
-
 !================================= News Business ==================================!
 
 ! https://www.bloomberg.com
@@ -642,6 +592,54 @@ www.marketscreener.com##.main-menu__primary--blue.main-menu__row__item
 
 ! https://www.businessinsider.com
 www.businessinsider.com##.hide-if-subscribed.subscribe-link.label-md-strong
+
+!================================= News Magazines =================================!
+
+! https://time.com
+time.com###pre-nav-container
+time.com##.rounded-lg.items-center.flex-col.h-full.flex.relative
+
+! https://www.theatlantic.com
+www.theatlantic.com##.NavAccountLinks_subscribe__2DNuJ
+www.theatlantic.com##li.NavAccountLinks_navListItem__Lxooj:nth-of-type(1)
+
+!=================================== News Others ==================================!
+
+! https://theonion.com
+theonion.com##.wp-block-post-content-is-layout-constrained.is-layout-constrained.has-global-padding.wp-block-post-content.entry-content > div.wp-block-group-is-layout-flow.is-layout-flow.alignwide.wp-block-group
+
+! https://www.thedailybeast.com
+www.thedailybeast.com##.btn-newsletter.rightLink
+www.thedailybeast.com##.menuRight
+www.thedailybeast.com##.cheatsheet__cheatsheet-list-container__newsletter
+
+! https://thelooker.thedailybeast.com
+thelooker.thedailybeast.com##.px-\[var\(--spacing-6\)\].pt-\[var\(--spacing-2\)\].pb-\[var\(--spacing-4\)\].box-border.bg-\[var\(--color-tailwind-gray-100\)\].content-stretch.overflow-hidden.group-\[\.no-ads\]\:hidden.size-full.relative.items-center.gap-\[var\(--spacing-2\)\].flex-col.flex
+thelooker.thedailybeast.com##.w-full.shrink-0.relative.min-w-\[300px\].max-w-\[400px\].lg\:items-center.lg\:w-\[clamp\(300px\,26vw\,400px\)\].lg\:gap-\[var\(--spacing-12\)\].lg\:flex-col.lg\:flex.hidden
+thelooker.thedailybeast.com##.lg\:my-0.lg\:py-\[var\(--spacing-5\)\].md\:mb-\[var\(--spacing-10\)\].md\:mt-\[calc\(var\(--spacing-8\)-var\(--spacing-10\)\)\].mb-\[var\(--spacing-8\)\].mt-\[calc\(var\(--spacing-6\)-var\(--spacing-10\)\)\].justify-center.flex
+thelooker.thedailybeast.com##.min-\[768px\]\:h-\[182px\].min-\[652px\]\:h-\[246px\].min-\[401px\]\:h-\[282px\].min-\[377px\]\:h-\[294px\].h-\[330px\].w-full.md\:gap-\[var\(--spacing-3\)\].md\:items-center.md\:flex-row.py-\[var\(--spacing-5\)\].bg-\[var\(--color-surface-secondary-light\)\].gap-\[var\(--spacing-4\)\].items-center.flex-col.px-\[var\(--spacing-5\)\].flex
+thelooker.thedailybeast.com##.px-\[var\(--spacing-12\)\].pt-\[var\(--spacing-4\)\].pb-\[var\(--spacing-5\)\].box-border.bg-\[var\(--color-tailwind-gray-100\)\].content-stretch.overflow-hidden.group-\[\.no-ads\]\:hidden.size-full.relative.items-center.gap-\[var\(--spacing-2\)\].flex-col.flex
+thelooker.thedailybeast.com##section:nth-of-type(3)
+thelooker.thedailybeast.com##.lg\:py-\[var\(--spacing-12\)\].md\:py-\[var\(--spacing-10\)\].pb-\[var\(--spacing-8\)\].pt-\[var\(--spacing-6\)\].lg\:px-\[var\(--spacing-margin-gt-1024\)\].md\:px-\[var\(--spacing-margin-768-1023\)\].px-\[var\(--spacing-margin-lt-767\)\].mx-auto.max-w-\[var\(--spacing-layout-max-width\)\] > div.w-full > .lg\:py-\[var\(--spacing-16\)\].py-\[var\(--spacing-12\)\].justify-center.flex
+thelooker.thedailybeast.com##.top-\[var\(--spacing-8\)\].sticky > div
+thelooker.thedailybeast.com##astro-island > .w-full > .lg\:py-\[var\(--spacing-16\)\].py-\[var\(--spacing-12\)\].justify-center.flex
+thelooker.thedailybeast.com##astro-island > .w-full > .lg\:gap-\[var\(--spacing-6\)\].lg\:flex > .lg\:flex-shrink-0.lg\:w-\[300px\].lg\:block.hidden > .top-\[var\(--spacing-8\)\].sticky
+
+! https://www.aljazeera.com
+www.aljazeera.com##.sidebar-style.sib-newsletter-form
+www.aljazeera.com##.site-header__account > .auth-btn
+
+!=================================== News World ==================================!
+
+! https://www.the-independent.com
+www.the-independent.com##.video-sticky-video
+www.the-independent.com##.newsletter-component
+www.the-independent.com###header-laptop-subscribe-button
+www.the-independent.com##.register-login-link
+www.the-independent.com##.gRMult.fTrYDj.sc-1ca6zfp-3.sc-1ca6zfp-1
+
+! https://www.japantimes.co.jp
+www.japantimes.co.jp###user_account_header
 
 !=================================== News Tech ==================================!
 
