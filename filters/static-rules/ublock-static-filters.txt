@@ -31,6 +31,14 @@ www.bing.com###b-scopeListItem-copilotsearch
 ! Sign in with Google prompt on sites
 ||accounts.google.com/gsi/iframe/select?client_id=*.apps.googleusercontent.com
 
+! https://mail.google.com
+
+! Upgrade button
+mail.google.com##[data-pep-id="global-pep-gmail"]
+
+! Gemini button
+mail.google.com##div:has(> [data-rp-placement-id="gemkick-pep-icon-callout-id"])
+
 ! https://mail.proton.me
 mail.proton.me##.topnav-list--four-elements.empty\:hidden.items-center.flex-nowrap.flex.gap-1.ml-2.my-0.unstyled.topnav-list > div
 
@@ -57,7 +65,24 @@ ticktick.com##.upgrade-button
 !=================================== Storage ===================================!
 
 ! https://drive.google.com
-drive.google.com##.ml-Pr-kg
+
+! Get more storage button
+drive.google.com##[data-target="upgrade-storage"]
+!drive.google.com##.ml-Pr-kg
+
+! Upgrade button
+drive.google.com##div:has(> div > div > div > div > [data-action-behavior*="one.google.com"]):has(> div > div > div > div > [data-action-behavior*="upgrade" i])
+
+! Gemini button
+drive.google.com##div:has(> div > div > [data-rp-placement-id="gemkick-pep-icon-callout-id"])
+
+! https://docs.google.com
+
+! Upgrade button
+docs.google.com###workspace-onegoogle-pep-container
+
+! Gemini button
+docs.google.com###docs-sidekick-gen-ai-promo-button-container
 
 ! https://mega.nz
 mega.nz##.ui-resizable.drive.mega-top-menu.mega-component > .storage-block.mega-component > .caption-running.storage-usage.js-storage-usage > .js-storage-usage-block.storage-usage-panel > .info
@@ -1119,3 +1144,4 @@ gitflic.ru##.js-single-banner.sidebar-single-banner
 timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round.q-btn--flat.no-outline.non-selectable.q-btn-item.q-btn
 
 !========================================================================!
+
