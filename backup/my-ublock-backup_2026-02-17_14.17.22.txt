@@ -1,0 +1,44 @@
+{
+  "timeStamp": 1771318042250,
+  "version": "1.69.0",
+  "userSettings": {
+    "advancedUserEnabled": true,
+    "uiTheme": "dark",
+    "externalLists": "https://raw.githubusercontent.com/starktower74/uBlock/refs/heads/main/ublock-static-filters.txt",
+    "importedLists": [
+      "https://raw.githubusercontent.com/starktower74/uBlock/refs/heads/main/ublock-static-filters.txt"
+    ],
+    "popupPanelSections": 63,
+    "suspendUntilListsAreLoaded": true,
+    "userFiltersTrusted": true
+  },
+  "selectedFilterLists": [
+    "user-filters",
+    "ublock-filters",
+    "ublock-badware",
+    "ublock-privacy",
+    "ublock-quick-fixes",
+    "ublock-unbreak",
+    "easylist",
+    "easyprivacy",
+    "urlhaus-1",
+    "plowe-0",
+    "fanboy-cookiemonster",
+    "ublock-cookies-easylist",
+    "fanboy-social",
+    "easylist-chat",
+    "easylist-newsletters",
+    "easylist-notifications",
+    "easylist-annoyances",
+    "ublock-annoyances",
+    "https://raw.githubusercontent.com/starktower74/uBlock/refs/heads/main/ublock-static-filters.txt"
+  ],
+  "hiddenSettings": {
+    "blockingProfiles": "00001 00001 00001 00001"
+  },
+  "whitelist": [],
+  "dynamicFilteringString": "* * 3p-script block\n* * 3p-frame block\nwww.amazon.in * 3p-script noop\nwww.amazon.in * 3p-frame noop\nbehind-the-scene * * noop\nbehind-the-scene * inline-script noop\nbehind-the-scene * 1p-script noop\nbehind-the-scene * 3p-script noop\nbehind-the-scene * 3p-frame noop\nbehind-the-scene * image noop\nbehind-the-scene * 3p noop\ncommunity.bitwarden.com * 3p-script noop\nchatgpt.com * 3p-script noop\ngithub.com * 3p-script noop\nwww.instagram.com * 3p-script noop\nkuvera.in * 3p-script noop\nwww.reddit.com * 3p-script noop\nwww.reddit.com * 3p-frame noop\nwww.sbicard.com * 3p-script noop\nsubstack.com * 3p-script noop\nx.com * 3p-script noop\nwww.youtube.com * 3p-script noop\n* challenges.cloudflare.com * noop\n* gstatic.com * noop\n* recaptcha.net * noop\n* substackcdn.com * noop\n* youtube-nocookie.com * noop\n* youtube.com * noop\na2zapk.io * 3p-script noop\na2zapk.io * 3p-frame noop\naccount.microsoft.com * 3p-script noop\naccount.proton.me * 3p-script noop\naccount.proton.me * 3p-frame noop\naccounts.google.com * 3p-script noop\naccounts.google.com * 3p-frame noop\nadguard-dns.io * 3p-script noop\narchive.is * 3p-script noop\narchive.is * 3p-frame noop\narchive.ph * 3p-script noop\narchive.ph * 3p-frame noop\nasrajavel.github.io * 3p-script noop\nauth.adguardaccount.com * 3p-script noop\nauth.openai.com * 3p-script noop\nauth.openai.com * 3p-frame noop\nbank.in * 3p-script noop\nbazzite.gg * 3p-script noop\nchristitus.com * 3p-script noop\nchristitus.com * 3p-frame noop\nchromium.googlesource.com * 3p-script noop\nclaude.ai * 3p-script noop\nclaude.ai * 3p-frame noop\ncommunity.brave.app * 3p-script noop\ndigilocker.gov.in * 3p-script noop\ndiscuss.privacyguides.net * 3p-script noop\ndocs.google.com * 3p-script noop\ndocs.google.com * 3p-frame noop\ndowndetector.com * 3p-script noop\ndowndetector.in * 3p-script noop\nepaper.thehindubusinessline.com google.com * block\nfederalbank.co.in * 3p-script noop\nfednetbank.com * 3p-script noop\ngemini.google.com * 3p-script noop\ngroww.in * 3p-script noop\nhdfcbank.com * 3p-script noop\nindusind.com * 3p-script noop\ninvestor-web.hdfcfund.com * 3p-script noop\nish.chat * 3p-script noop\nlive.com * 3p-script noop\nlmarena.ai * 3p-script noop\nlmarena.ai * 3p-frame noop\nmail.google.com * 3p-script noop\nmail.google.com * 3p-frame noop\nmfcentral.com * 3p-script noop\nmfcentral.com * 3p-frame noop\nmusic.youtube.com * 3p-script noop\nscale.com * 3p-script noop\nsecurity.googleblog.com * 3p-script noop\nspotify.com * 3p-script noop\nspotify.com * 3p-frame noop\nstore.steampowered.com * 3p-script noop\nt3.chat * 3p-script noop\nt3.chat * 3p-frame noop\nticktick.com * 3p-script noop\ntradingeconomics.com * 3p-script noop\ntrakt.tv * 3p-script noop\ntrendlyne.com * 3p-script noop\nweb.dhan.co * 3p-script noop\nweb.whatsapp.com * 3p-script noop\nwww.91mobiles.com * 3p-script noop\nwww.amazon.com * 3p-script noop\nwww.amazon.com * 3p-frame noop\nwww.asianetnews.com * 3p-script noop\nwww.asianetnews.com youtube.com * block\nwww.bbc.com * 3p-script noop\nwww.bbc.com * 3p-frame noop\nwww.bing.com * 3p-script noop\nwww.bleepingcomputer.com * 3p-script noop\nwww.bloomberg.com * 3p-script noop\nwww.cnbc.com * 3p-script noop\nwww.flightradar24.com * 3p-script noop\nwww.flipkart.com * 3p-script noop\nwww.ft.com * 3p-script noop\nwww.ft.com * 3p-frame noop\nwww.goodreads.com * 3p-script noop\nwww.google.com * 3p-script noop\nwww.gsmarena.com * 3p-script noop\nwww.imdb.com * 3p-script noop\nwww.indmoney.com * 3p-script noop\nwww.indmoney.com * 3p-frame noop\nwww.linkedin.com * 3p-script noop\nwww.manoramaonline.com * 3p-script noop\nwww.marketscreener.com * 3p-script noop\nwww.microsoft.com * 3p-script noop\nwww.morningstar.in * 3p-script noop\nwww.neowin.net * 3p-script noop\nwww.nytimes.com * 3p-script noop\nwww.nytimes.com * 3p-frame noop\nwww.perplexity.ai * 3p-script noop\nwww.protondb.com * 3p-script noop\nwww.reporterlive.com * 3p-script noop\nwww.theguardian.com * 3p-script noop\nwww.tradingview.com * 3p-script noop\nwww.wsj.com * 3p-script noop\nwww.wsj.com * 3p-frame noop\nwww.xda-developers.com * 3p-script noop\nwww.yahoo.com * 3p-script noop\nzerodha.com * 3p-script noop",
+  "urlFilteringString": "",
+  "hostnameSwitchesString": "no-large-media: behind-the-scene false\nno-csp-reports: * true",
+  "userFilters": ""
+}
