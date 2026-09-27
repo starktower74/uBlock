@@ -449,11 +449,9 @@ www.reuters.com##div[class^="site-header-module__inner_"][class*="inner-sticky"]
 www.reuters.com##.nav-bar-module__nav-button__mCZoN:style(right:150px !important)
 
 ! https://www.nytimes.com
-www.nytimes.com##div.quiz-ad-container:nth-of-type(2)
-www.nytimes.com##div.quiz-ad-container:nth-of-type(4)
-www.nytimes.com##div.quiz-ad-container:nth-of-type(9)
-www.nytimes.com##.css-1kj7lfb
+www.nytimes.com##div.quiz-ad-container
 www.nytimes.com##.actionbar-button.css-1eeh360
+www.nytimes.com##.css-1kj7lfb
 www.nytimes.com##.gps-module
 
 ! https://edition.cnn.com
