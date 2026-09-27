@@ -125,6 +125,9 @@ youtube.com##.ytp-caption-segment:style(background: rgba(8, 8, 8, 0.5) !importan
 ! Experiencing interruptions popup
 www.youtube.com##.paper-toast-open.yt-notification-action-renderer.style-scope.toast-button
 
+! Information panel
+www.youtube.com###clarify-box
+
 ! https://open.spotify.com
 
 ! Explore premium button top
@@ -1118,4 +1121,3 @@ gitflic.ru##.js-single-banner.sidebar-single-banner
 timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round.q-btn--flat.no-outline.non-selectable.q-btn-item.q-btn
 
 !========================================================================!
-
