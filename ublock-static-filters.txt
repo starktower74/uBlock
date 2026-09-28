@@ -16,16 +16,6 @@ duckduckgo.com##.footer
 search.brave.com##.svelte-1uha8ag.download-cta
 search.brave.com##.svelte-4jwo3w.t-tertiary.desktop-small-regular
 
-! https://www.bing.com
-www.bing.com###id_a
-www.bing.com##.linkBtn.tooltip.id_button
-www.bing.com###id_mobile
-www.bing.com##.langdisp.langLabel.b_hide
-www.bing.com##.b_vfly_dh.b_vfly
-www.bing.com##.acf-button-standard__btn
-www.bing.com###b-scopeListItem-conv
-www.bing.com###b-scopeListItem-copilotsearch
-
 !================================== Email =====================================!
 
 ! Sign in with Google prompt on sites
@@ -1143,6 +1133,18 @@ skyscanner.*##[class*="CarHireRecommendations_container" i]
 skyscanner.*##[class*="EcoTicketHeader" i]
 skyscanner.*##[id*="adslot" i]
 
+!================================ Other =================================!
+
+! https://www.bing.com
+www.bing.com###id_a
+www.bing.com##.linkBtn.tooltip.id_button
+www.bing.com###id_mobile
+www.bing.com##.langdisp.langLabel.b_hide
+www.bing.com##.b_vfly_dh.b_vfly
+www.bing.com##.acf-button-standard__btn
+www.bing.com###b-scopeListItem-conv
+www.bing.com###b-scopeListItem-copilotsearch
+
 !================================ Sites =================================!
 
 ! https://opensourcealternative.to
@@ -1156,4 +1158,3 @@ gitflic.ru##.js-single-banner.sidebar-single-banner
 timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round.q-btn--flat.no-outline.non-selectable.q-btn-item.q-btn
 
 !========================================================================!
-
