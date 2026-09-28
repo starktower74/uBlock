@@ -85,7 +85,6 @@ drive.google.com##div:has(> div > div > [data-rp-placement-id="gemkick-pep-icon-
 ! Support button
 ! Initial load support icon div id
 drive.google.com###lZwQje
-
 ! Support icon div after load
 drive.google.com##div:has(> [data-tooltip="Support"])
 
