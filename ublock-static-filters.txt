@@ -1136,9 +1136,9 @@ skyscanner.*##[id*="adslot" i]
 !================================ Other =================================!
 
 ! https://www.bing.com
-www.bing.com###id_a
-www.bing.com##.linkBtn.tooltip.id_button
 www.bing.com###id_mobile
+www.bing.com###id_rh_w
+www.bing.com###id_l
 www.bing.com##.langdisp.langLabel.b_hide
 www.bing.com##.b_vfly_dh.b_vfly
 www.bing.com##.acf-button-standard__btn
@@ -1158,3 +1158,4 @@ gitflic.ru##.js-single-banner.sidebar-single-banner
 timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round.q-btn--flat.no-outline.non-selectable.q-btn-item.q-btn
 
 !========================================================================!
+
