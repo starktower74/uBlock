@@ -39,6 +39,12 @@ mail.google.com##[data-pep-id="global-pep-gmail"]
 ! Gemini button
 mail.google.com##div:has(> [data-rp-placement-id="gemkick-pep-icon-callout-id"])
 
+! Support button
+! Initial load only has this anchor with support icon outline
+mail.google.com##a:has(> img[src*="help_outline"])
+! Support icon div replaces it after load
+mail.google.com##[data-tooltip="Support"]
+
 ! https://mail.proton.me
 mail.proton.me##.topnav-list--four-elements.empty\:hidden.items-center.flex-nowrap.flex.gap-1.ml-2.my-0.unstyled.topnav-list > div
 
@@ -75,6 +81,13 @@ drive.google.com##div:has(> div > div > div > div > [data-action-behavior*="one.
 
 ! Gemini button
 drive.google.com##div:has(> div > div > [data-rp-placement-id="gemkick-pep-icon-callout-id"])
+
+! Support button
+! Initial load support icon div id
+drive.google.com###lZwQje
+
+! Support icon div after load
+drive.google.com##div:has(> [data-tooltip="Support"])
 
 ! https://docs.google.com
 
