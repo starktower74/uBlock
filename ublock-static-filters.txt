@@ -337,11 +337,6 @@ kuvera.in##.b-portfolio-header__add-asset-container.v-popover
 ! https://groww.in
 groww.in##.footer_footerWrapper__49W38.backgroundTertiary.row
 
-! https://dhan.co
-dhan.co##.false.top-20.sticky
-dhan.co##.bottom-\[0\%\].z-\[50\].fixed.m-auto.px-4.py-2.border-\[\#f8b80538\].border-b-0.border.bgkendMF.rounded-t-2xl.bg-\[\#F7E5D7\].hidden.lg\:block
-dhan.co##.items-center.xl\:gap-3.gap-3.justify-end.lg\:flex.hidden
-
 ! https://www.indmoney.com
 www.indmoney.com##.items-center.block > .gap-4.items-center.flex
 www.indmoney.com##.text-13px.text-brand-white.bg-brand-black
@@ -381,6 +376,11 @@ trendlyne.com##.starfolio-basket-white-bg.starfolio-basket-cta
 trendlyne.com##.fw500.tl-collapsing-nav-link.point.text-xs-center.ttn-item.nav-item
 
 !================================= Marktet ==================================!
+
+! https://dhan.co
+dhan.co##.false.top-20.sticky
+dhan.co##.bottom-\[0\%\].z-\[50\].fixed.m-auto.px-4.py-2.border-\[\#f8b80538\].border-b-0.border.bgkendMF.rounded-t-2xl.bg-\[\#F7E5D7\].hidden.lg\:block
+dhan.co##.items-center.xl\:gap-3.gap-3.justify-end.lg\:flex.hidden
 
 ! https://scanx.trade
 scanx.trade##.ng-star-inserted > .side-container
@@ -450,15 +450,6 @@ ground.news##.desktop\:py-\[6px\].w-full.py-\[1rem\].relative
 ground.news##.mb-\[1\.3rem\].-mt-\[0\.9rem\].gap-\[1\.3rem\].flex-col.flex
 ground.news##.-mt-\[1\.1rem\].overflow-hidden.rounded-lg-s.text-light-primary.cursor-pointer.dark\:bg-altmedia-dark.bg-dark-primary.w-full.block
 ground.news##.mb-\[0\.6rem\].text-22.font-bold
-
-! https://www.msn.com
-www.msn.com##.feedback-container
-www.msn.com##action-tray
-www.msn.com##.footer
-www.msn.com###myInterests
-www.msn.com###srchfrm
-www.msn.com###SettingsDialog
-www.msn.com###sign-in-button-profile
 
 !=================================== News ==================================!
 
@@ -1144,6 +1135,15 @@ www.bing.com##.b_vfly_dh.b_vfly
 www.bing.com##.acf-button-standard__btn
 www.bing.com###b-scopeListItem-conv
 www.bing.com###b-scopeListItem-copilotsearch
+
+! https://www.msn.com
+www.msn.com##.feedback-container
+www.msn.com##action-tray
+www.msn.com##.footer
+www.msn.com###myInterests
+www.msn.com###srchfrm
+www.msn.com###SettingsDialog
+www.msn.com###sign-in-button-profile
 
 !================================ Sites =================================!
 
