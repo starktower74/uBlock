@@ -393,7 +393,8 @@ scanx.trade##.ng-star-inserted > .side-container
 news.google.com##a[aria-label="Sign in"]
 
 ! Help button
-news.google.com##a[aria-label="Help"]
+news.google.com##button[aria-label="Help"]
+!news.google.com##div:has(> div > div > div > span > button[aria-label="Help"])
 
 ! Android
 
