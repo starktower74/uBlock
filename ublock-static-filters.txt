@@ -9,12 +9,11 @@
 google.com##a[aria-label="Sign in"]
 
 ! https://duckduckgo.com
-duckduckgo.com##.TccjmKV6RraCaCw5L9gd
+duckduckgo.com##a[href="https://duckduckgo.com/compare-privacy"]
 duckduckgo.com##.footer
 
-! https://search.brave.com
-search.brave.com##.svelte-1uha8ag.download-cta
-search.brave.com##.svelte-4jwo3w.t-tertiary.desktop-small-regular
+! Feedback button
+duckduckgo.com##[data-testid="floating-feedback-prompt"]
 
 !================================== Email =====================================!
 
