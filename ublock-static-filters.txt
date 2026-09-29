@@ -1079,11 +1079,16 @@ freefincal.com##.tve_empty_dropzone.tve_editor_main_content.thrv_wrapper.tve_no_
 freefincal.com##.tve_empty_dropzone.tve_editor_main_content.thrv_wrapper.tve_no_icons.tve_no_drag.thrv-leads-slide-in > .thrv_text_element.thrv_wrapper
 freefincal.com###tve_tcb2_pattern-sticky_m1 > .tve-leads-conversion-object
 freefincal.com##.custom-html-widget.textwidget
-freefincal.com##div.code-block-block-2.code-block-2.code-block:nth-of-type(1)
-freefincal.com##.code-block-block-6.code-block-6.code-block
 freefincal.com###supplementary
 freefincal.com###text-17
 freefincal.com###text-14
+! Mid-article promo block
+freefincal.com##.code-block-block-2.code-block-2.code-block
+! Footer promo block
+freefincal.com##.code-block-block-6.code-block-6.code-block
+! Share buttons
+freefincal.com##.ffc-share-container
+! Robo-advisor promo slidein
 freefincal.com##.active.ffc-slidein-right
 
 ! https://finshots.in
@@ -1159,4 +1164,3 @@ gitflic.ru##.js-single-banner.sidebar-single-banner
 timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round.q-btn--flat.no-outline.non-selectable.q-btn-item.q-btn
 
 !========================================================================!
-
