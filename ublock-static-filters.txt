@@ -533,10 +533,9 @@ www.npr.org##.navigation__shop
 www.npr.org##.navigation__newsletters
 
 ! https://www.bbc.com
-www.bbc.com##.jLoJFd.sc-8342e32-8
-www.bbc.com##div.iLXgbm.sc-9cd5bb24-0
-www.bbc.com##.huZCWi.sc-8a623a54-0 > .cedLAu.ejIvcK.sc-d2a91acf-3.sc-d2a91acf-2
-www.bbc.com##.QyQrj.ejIvcK.sc-d2a91acf-5.sc-d2a91acf-2
+www.bbc.com##[class*="AccountButtons" i]
+www.bbc.com##button[aria-label="Share" i]
+www.bbc.com##button[aria-label="Save" i]
 
 ! https://abcnews.go.com
 abcnews.go.com##.navigation__stream__link.AnchorLink
@@ -1164,4 +1163,3 @@ gitflic.ru##.js-single-banner.sidebar-single-banner
 timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round.q-btn--flat.no-outline.non-selectable.q-btn-item.q-btn
 
 !========================================================================!
-
