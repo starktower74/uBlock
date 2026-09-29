@@ -247,60 +247,45 @@ chatgpt.com##+js(set-session-storage-item, oai/apps/noAuthHasDismissedSoftRateLi
 !chatgpt.com##+js(set-local-storage-item, oai/apps/hasSeenNoAuthImagegenNux, true)
 !chatgpt.com##+js(set-session-storage-item, oai/apps/noAuthGoUpsellModalDismissed, true)
 
-! https://www.perplexity.ai
-www.perplexity.ai##.duration-150.flex-col.flex.sticky.gap-md.top-lg
-www.perplexity.ai##.md\:block.w-\[300px\].hidden.fixed.right-md.bottom-md
-www.perplexity.ai##.md\:grid.ring-1.shadow-md.rounded-xl.grid-cols-1.max-w-\[320px\].hidden.right-0.bottom-0.fixed.gap-md.bg-base.dark\:ring-subtler.ring-subtlest.m-md.p-sm
-www.perplexity.ai##.rounded-lg.px-3.hover\:opacity-80.inline-flex.origin-center.cursor-pointer.text-sm.h-8.text-inverse.border-transparent.border.bg-super.whitespace-nowrap.leading-loose.justify-center.items-center.text-center.font-sans.font-semimedium.select-none.interactable.reset
-www.perplexity.ai##.bg-super.divide-subtlest.ring-subtlest.border-subtlest.justify-center.hover\:opacity-80.duration-200.transition.items-center.cursor-pointer.w-full.flex.relative.md\:gap-sm.px-md.gap-xs.rounded-sm.h-bannerHeight
-www.perplexity.ai##.md\:block.-translate-x-1\/2.max-w-screen-md.w-full.hidden.left-1\/2.bottom-4.absolute
+! https://claude.ai
 
-! Android
-www.perplexity.ai##.bg-super.text-inverse.hover\:opacity-80.font-sans.focus\:outline-none.outline-none.outline-transparent.transition.duration-300.ease-out.select-none.items-center.relative.group\/button.font-semimedium.justify-center.text-center.rounded-full.cursor-pointer.active\:scale-\[0\.97\].active\:duration-150.active\:ease-outExpo.origin-center.whitespace-nowrap.inline-flex.text-sm.h-8.px-2\.5
-www.perplexity.ai##.h-bannerHeight.gap-xs.px-md.md\:gap-sm.relative.flex.w-full.cursor-pointer.items-center.transition.duration-200.hover\:opacity-80.justify-center.border-subtlest.ring-subtlest.divide-subtlest.bg-super
-
-! https://grok.com
-grok.com##.block.rounded-full.py-2.px-4.h-10.disabled\:hover\:bg-transparent.hover\:bg-button-ghost-hover.text-fg-primary.border-border-l2.border.select-none.\[\&_svg\]\:shrink-0.duration-100.transition-colors.disabled\:cursor-not-allowed.disabled\:opacity-60.focus-visible\:ring-ring.focus-visible\:ring-1.focus-visible\:outline-none.cursor-pointer.leading-\[normal\].font-medium.text-sm.whitespace-nowrap.gap-2.justify-center.items-center.inline-flex
-grok.com##.block.rounded-full.py-2.px-4.h-10.disabled\:hover\:bg-button-filled.hover\:bg-button-filled-hover.text-fg-invert.bg-button-filled.select-none.\[\&_svg\]\:shrink-0.duration-100.transition-colors.disabled\:cursor-not-allowed.disabled\:opacity-60.focus-visible\:ring-ring.focus-visible\:ring-1.focus-visible\:outline-none.cursor-pointer.leading-\[normal\].font-medium.text-sm.whitespace-nowrap.gap-2.justify-center.items-center.inline-flex
-grok.com##.text-nowrap.text-secondary.\@sm\:text-xs.text-\[11px\]
-
-! Upgrade button
-grok.com##.end-14.bottom-4.absolute.hover\:brightness-95.text-fg-primary.transition-all.items-center.font-bold.text-sm.px-3.gap-1\.5.rounded-xl.h-8.disabled\:hover\:bg-transparent.hover\:bg-button-ghost-hover.border-border-l2.border.select-none.\[\&_svg\]\:shrink-0.duration-100.disabled\:cursor-not-allowed.disabled\:opacity-60.focus-visible\:ring-ring.focus-visible\:ring-1.focus-visible\:outline-none.cursor-pointer.whitespace-nowrap.justify-center.inline-flex
+! Remove disclaimer
 
 ! https://gemini.google.com
-gemini.google.com##div.buttons-container:nth-of-type(2)
-gemini.google.com##.boqOnegoogleliteOgbOneGoogleBar
-gemini.google.com##.capabilities-disclaimer
-gemini.google.com##.ng-star-inserted.adv-upsell.buttons-container
 
-! Fix textbox position when removing disclaimer
-gemini.google.com##input-container.input-gradient:style(padding-bottom: 30px !important;)
+! Sign in button top
+gemini.google.com##.signed-out-buttons
+
+! Sign in prompt above textbox
+gemini.google.com##.gem-banner-container
+
+! Remove disclaimer
+gemini.google.com##.capabilities-disclaimer
+! Lower textbox position from default high bottom padding after removing disclaimer
+gemini.google.com##input-container:style(padding-bottom: 30px !important;)
+
+gemini.google.com##.boqOnegoogleliteOgbOneGoogleBar
+gemini.google.com##.adv-upsell
 
 ! https://aistudio.google.com
 aistudio.google.com##.upgrade-card-wrapper
 
-! https://claude.ai
-
-! Remove disclaimer
-claude.ai##.py-2.text-xs.text-center.text-text-500.bg-bg-100 .transition.hover\:text-text-300
-
-! Remove disclaimer (transparent text to fix textbox position)
-!claude.ai##.py-2.text-xs.text-center.text-text-500.bg-bg-100 > .transition.hover\:text-text-300:style(color: transparent !important;)
+! https://grok.com
 
 ! https://duck.ai
 
-! Remove disclaimer (transparent text to fix textbox position)
-duckduckgo.com##.TtApESNnpBUUYUTugtHv.wZ4JdaHxSAhGy1HoNVja._dJ357tkKXSh_Sup5xdW:style(color: transparent !important;)
+! Hide disclaimer
+duck.ai##p:has-text(All chats are):style(visibility: hidden !important;)
 
-! https://chat.qwen.ai
-chat.qwen.ai##.dark\:text-\[\#797B89\].text-\[\#8C8D9B\].text-\[12px\].text-center.w-full.mt-3.mb-\[-5px\].z-\[999\]
-chat.qwen.ai##.bg-black\/60.overflow-hidden.justify-center.items-center.w-full.h-full.flex.z-\[999\].inset-0.fixed.modal
-chat.qwen.ai##.md\:translate-y-2.md\:mr-2.gap-\[10px\].flex.mr-1.relative
-chat.qwen.ai##.chat-container-statement
-chat.qwen.ai##.text-\[12px\].dark\:text-\[\#797B89\].text-\[\#8C8D9B\].z-\[999\].mb-\[23px\].text-center.w-full.bottom-0.absolute
+! Sidebar bottom links
+duck.ai##div:has(> a[href="https://duck.ai/browser"])
+
+! https://www.perplexity.ai
+
+! Sign in prompt above textbox
+www.perplexity.ai##[data-upsell-slot="ask.input"]
 
 ! https://chat.deepseek.com
-chat.deepseek.com##.a1e75851
 
 !=================================== Banking ===================================!
 
