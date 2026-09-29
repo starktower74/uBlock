@@ -649,6 +649,9 @@ www.thedailybeast.com##.wrapperRight:style(visibility: hidden !important;)
 ! https://thelooker.thedailybeast.com
 thelooker.thedailybeast.com##[aria-label="Subscription offer" i]
 thelooker.thedailybeast.com##[data-element="Nav Login" i]
+thelooker.thedailybeast.com##section:has(> astro-island[component-export="NewsletterSignup" i])
+thelooker.thedailybeast.com##div:has(> aside[data-name="ads" i])
+
 thelooker.thedailybeast.com###header-ad__wrapper
 
 ! https://www.aljazeera.com
