@@ -452,6 +452,27 @@ ground.news##.mb-\[1\.3rem\].-mt-\[0\.9rem\].gap-\[1\.3rem\].flex-col.flex
 ground.news##.-mt-\[1\.1rem\].overflow-hidden.rounded-lg-s.text-light-primary.cursor-pointer.dark\:bg-altmedia-dark.bg-dark-primary.w-full.block
 ground.news##.mb-\[0\.6rem\].text-22.font-bold
 
+!================================ News Feed Other =================================!
+
+! https://www.bing.com
+www.bing.com###id_mobile
+www.bing.com###id_rh_w
+www.bing.com###id_l
+www.bing.com##.langdisp.langLabel.b_hide
+www.bing.com##.b_vfly_dh.b_vfly
+www.bing.com##.acf-button-standard__btn
+www.bing.com###b-scopeListItem-conv
+www.bing.com###b-scopeListItem-copilotsearch
+
+! https://www.msn.com
+www.msn.com##.feedback-container
+www.msn.com##action-tray
+www.msn.com##.footer
+www.msn.com###myInterests
+www.msn.com###srchfrm
+www.msn.com###SettingsDialog
+www.msn.com###sign-in-button-profile
+
 !=================================== News ==================================!
 
 ! https://www.reuters.com
@@ -1130,27 +1151,6 @@ skyscanner.*##[class*="CarHireRecommendations_container" i]
 skyscanner.*##[class*="EcoTicketHeader" i]
 skyscanner.*##[id*="adslot" i]
 
-!================================ Other =================================!
-
-! https://www.bing.com
-www.bing.com###id_mobile
-www.bing.com###id_rh_w
-www.bing.com###id_l
-www.bing.com##.langdisp.langLabel.b_hide
-www.bing.com##.b_vfly_dh.b_vfly
-www.bing.com##.acf-button-standard__btn
-www.bing.com###b-scopeListItem-conv
-www.bing.com###b-scopeListItem-copilotsearch
-
-! https://www.msn.com
-www.msn.com##.feedback-container
-www.msn.com##action-tray
-www.msn.com##.footer
-www.msn.com###myInterests
-www.msn.com###srchfrm
-www.msn.com###SettingsDialog
-www.msn.com###sign-in-button-profile
-
 !================================ Sites =================================!
 
 ! https://opensourcealternative.to
@@ -1164,3 +1164,4 @@ gitflic.ru##.js-single-banner.sidebar-single-banner
 timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round.q-btn--flat.no-outline.non-selectable.q-btn-item.q-btn
 
 !========================================================================!
+
