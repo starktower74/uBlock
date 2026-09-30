@@ -322,8 +322,8 @@ www.indmoney.com##.items-center.block > .gap-4.items-center.flex
 www.indmoney.com##.text-13px.text-brand-white.bg-brand-black
 
 ! https://www.valueresearchonline.com
-www.valueresearchonline.com##.our-opinion-section
 www.valueresearchonline.com##.sub-btn.nav-link
+www.valueresearchonline.com##.our-opinion-section
 
 www.valueresearchonline.com###bottom-modal
 www.valueresearchonline.com##.zsiq_float
