@@ -743,8 +743,23 @@ www.thehindu.com##.btn-ebooks
 www.thehindu.com###artmeterpv
 
 ! https://www.ndtv.com
-www.ndtv.com##.Ftr_wr
 www.ndtv.com##.vd-dock_wr
+www.ndtv.com###jiosaavn-widget
+www.ndtv.com##.ad-art_rw
+www.ndtv.com##.AskWg1_srch
+
+! Nav bar live tv link
+www.ndtv.com##a[title="Live TV" i]
+! Footer
+www.ndtv.com##.Ftr_wr
+
+! Live TV right sidebar
+! Splitter
+www.ndtv.com##.Sptr-b24.Sptr-t0.SptrBr.Sptr
+! Live TV title
+www.ndtv.com##div:has(> h2 > div > [href*="livetv"])
+! Player
+www.ndtv.com##.PdcstRhs_wr
 
 ! https://indianexpress.com
 indianexpress.com###taboola-loader
