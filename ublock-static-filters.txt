@@ -335,6 +335,9 @@ advisor.valueresearchonline.com##.zsiq_float
 ! Added in ublock filters
 !@@||msmedia.morningstar.com^$script,domain=morningstar.in
 
+! https://asrajavel.github.io
+asrajavel.github.io##button[aria-label="linkedin" i]
+
 ! https://www.advisorkhoj.com
 ||www.advisorkhoj.com/resources/images/formfds.gif.pagespeed.ce.RblxuUj-S6.gif$image
 
