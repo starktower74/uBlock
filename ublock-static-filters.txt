@@ -831,9 +831,7 @@ economictimes.indiatimes.com##[class*="etAIDecade" i]
 economictimes.indiatimes.com##[class*="masterclass" i]
 economictimes.indiatimes.com##[class*="etSpecial" i]
 economictimes.indiatimes.com##[class*="podcast" i]
-
-economictimes.indiatimes.com##div.adSize250.adContainer
-economictimes.indiatimes.com##.topAdContainer
+economictimes.indiatimes.com##[class*="AdContainer" i]
 
 economictimes.indiatimes.com##.whatsappFollow
 economictimes.indiatimes.com##.paywall.clr.artData > .medium.artText > .show.inSideInd
@@ -1159,4 +1157,5 @@ gitflic.ru##.js-single-banner.sidebar-single-banner
 timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round.q-btn--flat.no-outline.non-selectable.q-btn-item.q-btn
 
 !========================================================================!
+
 
