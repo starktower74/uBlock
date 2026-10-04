@@ -833,6 +833,9 @@ economictimes.indiatimes.com##[class*="etSpecial" i]
 economictimes.indiatimes.com##[class*="podcast" i]
 economictimes.indiatimes.com##[class*="AdContainer" i]
 
+economictimes.indiatimes.com##.as_freetrial_widget
+economictimes.indiatimes.com##.newTrialBanner
+economictimes.indiatimes.com##.hdr_spcl_ofr
 economictimes.indiatimes.com##.whatsappFollow
 economictimes.indiatimes.com##.paywall.clr.artData > .medium.artText > .show.inSideInd
 economictimes.indiatimes.com##.animText.navAI
@@ -840,12 +843,15 @@ economictimes.indiatimes.com###etExceBanner
 economictimes.indiatimes.com##.grandmaster_widget
 economictimes.indiatimes.com##.Pbanner
 economictimes.indiatimes.com##.sharePbanner
-economictimes.indiatimes.com##.MarketBand_flex__KgnHh.MarketBand_bandContent__uagJF
 economictimes.indiatimes.com##.dragTvBox
 economictimes.indiatimes.com##.liveTvSticky
 economictimes.indiatimes.com##.emeritus_inarticle
 economictimes.indiatimes.com##.full.stickyBand
 economictimes.indiatimes.com##.short.stickyBand
+
+! MF promo top
+economictimes.indiatimes.com##.MarketBand_flex__KgnHh.MarketBand_bandContent__uagJF
+economictimes.indiatimes.com##[href^="https://www.motilaloswalmf.com/mutual-funds/motilal-oswal-midcap-fund"]
 
 economictimes.indiatimes.com##.budgetCube
 economictimes.indiatimes.com###budget_topband
@@ -1157,5 +1163,4 @@ gitflic.ru##.js-single-banner.sidebar-single-banner
 timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round.q-btn--flat.no-outline.non-selectable.q-btn-item.q-btn
 
 !========================================================================!
-
 
