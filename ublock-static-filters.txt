@@ -825,16 +825,19 @@ www.newslaundry.com##.story-element-jsembed.story-element
 !=============================== News Business India ===============================!
 
 ! https://economictimes.indiatimes.com
-economictimes.indiatimes.com##[class*="LiveStreamPlay" i]
 economictimes.indiatimes.com##[class*="etPrimeBanner" i]
+economictimes.indiatimes.com##[class*="trial" i]
+
+economictimes.indiatimes.com##[class*="LiveStreamPlay" i]
 economictimes.indiatimes.com##[class*="etAIDecade" i]
 economictimes.indiatimes.com##[class*="masterclass" i]
 economictimes.indiatimes.com##[class*="etSpecial" i]
 economictimes.indiatimes.com##[class*="podcast" i]
-economictimes.indiatimes.com##[class*="AdContainer" i]
 
-economictimes.indiatimes.com##.as_freetrial_widget
-economictimes.indiatimes.com##.newTrialBanner
+economictimes.indiatimes.com##[class*="AdContainer" i]
+economictimes.indiatimes.com##[class*="adSelector" i]
+economictimes.indiatimes.com##[class*="stickymrecad" i]
+
 economictimes.indiatimes.com##.hdr_spcl_ofr
 economictimes.indiatimes.com##.whatsappFollow
 economictimes.indiatimes.com##.paywall.clr.artData > .medium.artText > .show.inSideInd
@@ -856,26 +859,12 @@ economictimes.indiatimes.com##[href^="https://www.motilaloswalmf.com/mutual-fund
 economictimes.indiatimes.com##.budgetCube
 economictimes.indiatimes.com###budget_topband
 
-economictimes.indiatimes.com##.dyContent.nyo_sticky_ftr
-economictimes.indiatimes.com##.styles_homeLeftSectionBanner__8_ohA.styles_banner__UWnfW
-economictimes.indiatimes.com##.medium.artText > .show.inSideInd
-economictimes.indiatimes.com##div.stickyContainer:nth-of-type(1)
-economictimes.indiatimes.com##div.stickyContainer:nth-of-type(2)
-economictimes.indiatimes.com##.gaDone.clearfix.article_block > .clearfix.edition > .newRHSSideBar.newSideBar.sideBar.flr > div.stickyContainer > .mktArticleUradar
-economictimes.indiatimes.com##.gaDone.clearfix.article_block > .clearfix.edition > .newRHSSideBar.newSideBar.sideBar.flr > div.stickyContainer:nth-of-type(1) > div:nth-of-type(3)
-
 ! Epaper
 epaper.indiatimes.com##.timer_container
 
 ! Android
 m.economictimes.com###downloadApp
 m.economictimes.com###appDwnldBanner
-m.economictimes.com##._2rMIm
-m.economictimes.com##._1Ic-2
-m.economictimes.com##.ooerz
-m.economictimes.com##._2R2GP
-m.economictimes.com##._2ujO9
-m.economictimes.com##._176IM
 m.economictimes.com###tbl_readmore_127180227 > .Pbannerbottom
 
 ! https://www.business-standard.com
@@ -1163,4 +1152,3 @@ gitflic.ru##.js-single-banner.sidebar-single-banner
 timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round.q-btn--flat.no-outline.non-selectable.q-btn-item.q-btn
 
 !========================================================================!
-
