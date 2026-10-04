@@ -836,11 +836,15 @@ economictimes.indiatimes.com##[class*="podcast" i]
 
 economictimes.indiatimes.com##[class*="adContainer" i]
 economictimes.indiatimes.com##[class*="adSelector" i]
-economictimes.indiatimes.com##div:has(> [class*="adSelector" i])
+economictimes.indiatimes.com##[class*="adsbg" i]
 economictimes.indiatimes.com##[class*="stickymrecad" i]
 
 ! Add top padding to article date-time
 economictimes.indiatimes.com##.bylineBox > .contentwrapper.dt:style(padding-top: 10px !important;)
+
+! MF promo top
+economictimes.indiatimes.com##.MarketBand_flex__KgnHh.MarketBand_bandContent__uagJF
+economictimes.indiatimes.com##[href^="https://www.motilaloswalmf.com/mutual-funds/motilal-oswal-midcap-fund"]
 
 economictimes.indiatimes.com##.hdr_spcl_ofr
 economictimes.indiatimes.com##.whatsappFollow
@@ -856,9 +860,8 @@ economictimes.indiatimes.com##.emeritus_inarticle
 economictimes.indiatimes.com##.full.stickyBand
 economictimes.indiatimes.com##.short.stickyBand
 
-! MF promo top
-economictimes.indiatimes.com##.MarketBand_flex__KgnHh.MarketBand_bandContent__uagJF
-economictimes.indiatimes.com##[href^="https://www.motilaloswalmf.com/mutual-funds/motilal-oswal-midcap-fund"]
+economictimes.indiatimes.com##div.stickyContainer:nth-of-type(1)
+economictimes.indiatimes.com##div.stickyContainer:nth-of-type(2)
 
 economictimes.indiatimes.com##.budgetCube
 economictimes.indiatimes.com###budget_topband
