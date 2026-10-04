@@ -834,9 +834,13 @@ economictimes.indiatimes.com##[class*="masterclass" i]
 economictimes.indiatimes.com##[class*="etSpecial" i]
 economictimes.indiatimes.com##[class*="podcast" i]
 
-economictimes.indiatimes.com##[class*="AdContainer" i]
+economictimes.indiatimes.com##[class*="adContainer" i]
 economictimes.indiatimes.com##[class*="adSelector" i]
+economictimes.indiatimes.com##div:has(> [class*="adSelector" i])
 economictimes.indiatimes.com##[class*="stickymrecad" i]
+
+! Add top padding to article date-time
+economictimes.indiatimes.com##.bylineBox > .contentwrapper.dt:style(padding-top: 10px !important;)
 
 economictimes.indiatimes.com##.hdr_spcl_ofr
 economictimes.indiatimes.com##.whatsappFollow
@@ -1152,3 +1156,4 @@ gitflic.ru##.js-single-banner.sidebar-single-banner
 timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round.q-btn--flat.no-outline.non-selectable.q-btn-item.q-btn
 
 !========================================================================!
+
