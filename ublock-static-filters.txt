@@ -900,11 +900,15 @@ m.economictimes.com###appDwnldBanner
 m.economictimes.com###tbl_readmore_127180227 > .Pbannerbottom
 
 ! https://www.business-standard.com
-www.business-standard.com##.today_topleftel__wvskF > small
-www.business-standard.com##.MainStory_whtsppchannle___HEk3
-www.business-standard.com##.sportcube_cubecontainer__6cwGd
+
+www.business-standard.com##small > [href="https://hindi.business-standard.com/"]
+
 www.business-standard.com##.subscribbtn
-www.business-standard.com##.MetaPost_flwggle__kFKIT
+www.business-standard.com##.prefsourcebtn
+www.business-standard.com##.postcomment
+
+www.business-standard.com##[class*="storynudges_NudgesBox" i]
+www.business-standard.com##.smtinvNewsltr
 
 ! Android
 www.business-standard.com##.stryadstp
