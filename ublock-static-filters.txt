@@ -395,6 +395,8 @@ news.ycombinator.com##.pro-button-bottom.settings-row-pro.settings-row-more
 ! https://digg.com
 digg.com##[data-sidebar-card-id="sponsor"]
 digg.com##[data-top-contributors=""]
+digg.com##[data-slot="newsletter-feed-banner"]
+
 digg.com##[data-sidebar-card-id="footer"]
 digg.com##a[href*="login"]
 digg.com##a[href*="sign-up"]
@@ -1166,3 +1168,4 @@ gitflic.ru##.js-single-banner.sidebar-single-banner
 timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round.q-btn--flat.no-outline.non-selectable.q-btn-item.q-btn
 
 !========================================================================!
+
