@@ -486,20 +486,26 @@ www.msn.com###sign-in-button-profile
 !=================================== News ==================================!
 
 ! https://www.reuters.com
-www.reuters.com##.refinitiv-promo-bar-module__container__lbSKl
-www.reuters.com##.site-header-module__button__ui8Ah.text-button-module__container__i-tuI.button-module__w_auto__Sem-F.button-module__round__QDFgq
-www.reuters.com##.site-header-module__my-news-link__JyoYj.body-module__extra_small_body__Bfz20.body-module__base__o--Cl.text-module__extra_small__8Buss.text-module__medium__2Rl30.text-module__graphite__fZRmg.text-module__text__0GDob
-www.reuters.com##.article-body-module__promo-box__hVl8h
-www.reuters.com##.market-bar-module__arrow__-98fX.market-bar-module__button__nCJBD.text-module__extra_small__8Buss.text-module__medium__2Rl30.text-module__dark-grey__UFC18.text-module__text__0GDob
 
+! Remove top promo bar
+www.reuters.com##[data-testid="RefinitivPromoBar"]
+! Remove promo on market bar
+www.reuters.com##a[href*="/lseg/"]
 ! Fix header position after removing promo bar
-www.reuters.com##div[class^="site-header-module__inner_"][class*="inner-sticky"]:style(top:0px !important)
+www.reuters.com##div[class*="site-header-module__inner"][class*="inner-sticky"]:style(top:0px !important)
 
+! Nav buttons
+www.reuters.com##a[href*="/my-news/feed/"]
+www.reuters.com##a[href^="https://www.reuters.com/account/sign-in/"]
+www.reuters.com##a[href^="https://www.reuters.com/account/subscribe/"]
 ! Fix nav bar position to center
-www.reuters.com##.nav-bar-module__nav-button__mCZoN:style(right:150px !important)
+www.reuters.com##[class*="nav-bar-module__nav-list"]:style(margin-right: 300px !important;)
+
+www.reuters.com##[class*="promo-box"]
+www.reuters.com##[class*="license-content-button"]
 
 ! https://www.nytimes.com
-www.nytimes.com##div.quiz-ad-container
+www.nytimes.com##.quiz-ad-container
 www.nytimes.com##.actionbar-button.css-1eeh360
 www.nytimes.com##.css-1kj7lfb
 www.nytimes.com##.gps-module
