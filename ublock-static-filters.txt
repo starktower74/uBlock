@@ -393,13 +393,20 @@ news.google.com###i5 > .cp7Yvc:style(padding-top: 10px !important;)
 news.ycombinator.com##.pro-button-bottom.settings-row-pro.settings-row-more
 
 ! https://digg.com
-digg.com##[data-sidebar-card-id="sponsor"]
-digg.com##[data-top-contributors=""]
-digg.com##[data-slot="newsletter-feed-banner"]
 
-digg.com##[data-sidebar-card-id="footer"]
+! Sidebar
+digg.com##[data-sidebar-card-id="sponsor"]
+digg.com##[data-top-contributors]
+
+! Feed
+digg.com##[data-slot="newsletter-feed-banner"]
+digg.com##[data-sponsored-post-slot]
+
+! Buttons
 digg.com##a[href*="login"]
 digg.com##a[href*="sign-up"]
+
+digg.com##[data-sidebar-card-id="footer"]
 
 ! https://www.yahoo.com
 www.yahoo.com##.ybar-menu-hover-open
