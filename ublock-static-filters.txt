@@ -408,6 +408,15 @@ digg.com##a[href*="sign-up"]
 
 digg.com##[data-sidebar-card-id="footer"]
 
+! https://upstract.com
+upstract.com###vipbar
+
+! https://particle.news
+particle.news##.store-buttons
+particle.news##.login-button
+particle.news###newsletter-signup
+particle.news##footer
+
 ! https://www.yahoo.com
 www.yahoo.com##.ybar-menu-hover-open
 www.yahoo.com###footer-wrapper
