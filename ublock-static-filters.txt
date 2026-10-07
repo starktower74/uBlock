@@ -501,6 +501,9 @@ www.reuters.com##a[href^="https://www.reuters.com/account/subscribe/"]
 ! Fix nav bar position to center
 www.reuters.com##[class*="nav-bar-module__nav-list"]:style(margin-right: 300px !important;)
 
+! Text button
+www.reuters.com##[data-testid="TextSymbols"]
+
 www.reuters.com##[class*="promo-box"]
 www.reuters.com##[class*="license-content-button"]
 
