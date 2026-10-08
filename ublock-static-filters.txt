@@ -121,10 +121,10 @@ web.whatsapp.com##button:has-text(Ask Meta AI)
 ! https://www.youtube.com
 
 ! Create button top when logged in, sign in button when logged out
-www.youtube.com###buttons > ytd-button-renderer.ytd-masthead.style-scope
+www.youtube.com###buttons > ytd-button-renderer.ytd-masthead
 
 ! Menu button top
-www.youtube.com###button > .ytd-topbar-menu-button-renderer.style-scope
+www.youtube.com###button > .ytd-topbar-menu-button-renderer
 
 ! Sidebar button top
 www.youtube.com###guide-icon
@@ -140,19 +140,19 @@ youtube.com##body:not(:has(#avatar-btn)) #sponsor-button
 www.youtube.com##.ryd-tooltip-bar-container
 
 ! Share button
-www.youtube.com###top-level-buttons-computed > yt-button-view-model.ytd-menu-renderer
+www.youtube.com##yt-button-view-model:has(> button-view-model > button[aria-label="Share"])
 
 ! Download button
-www.youtube.com###flexible-item-buttons > .ytd-menu-renderer.style-scope
 
-! Set captions background opacity to 50%
-youtube.com##.ytp-caption-segment:style(background: rgba(8, 8, 8, 0.5) !important;)
 
 ! Experiencing interruptions popup
-www.youtube.com##.paper-toast-open.yt-notification-action-renderer.style-scope.toast-button
+www.youtube.com##.paper-toast-open.yt-notification-action-renderer.toast-button
 
 ! Information panel
 www.youtube.com###clarify-box
+
+! Set captions background opacity to 50%
+youtube.com##.ytp-caption-segment:style(background: rgba(8, 8, 8, 0.5) !important;)
 
 ! https://open.spotify.com
 
