@@ -531,6 +531,13 @@ theguardian.com##gu-island[name="TopBar"]
 theguardian.com##gu-island[name="SlotBodyEnd"]
 theguardian.com##a[data-link-name="meta-syndication-article"]
 
+! Bottom support us promo
+theguardian.com##gu-island[name="StickyBottomBanner"]
+
+! Live blog support us promo
+www.theguardian.com##[data-testid*="contributions-liveblog"]
+www.theguardian.com##div:has(> [aria-label="Not for Sale"])
+
 ! https://www.axios.com
 www.axios.com##.rounded-xs.px-6.py-2.hover\:bg-nav-hover.bg-transparent.gap-x-2.items-center.flex
 
@@ -1205,4 +1212,3 @@ gitflic.ru##.js-single-banner.sidebar-single-banner
 timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round.q-btn--flat.no-outline.non-selectable.q-btn-item.q-btn
 
 !========================================================================!
-
