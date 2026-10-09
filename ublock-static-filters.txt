@@ -515,7 +515,8 @@ www.reuters.com##[class*="license-content-button"]
 ! https://www.nytimes.com
 www.nytimes.com##.quiz-ad-container
 www.nytimes.com##.actionbar-button.css-1eeh360
-www.nytimes.com##.css-1kj7lfb
+www.nytimes.com##div:has(> [data-testid="StandardAd"])
+www.nytimes.com##a[href^="https://myaccount.nytimes.com/auth/login"]
 www.nytimes.com##.gps-module
 
 ! https://edition.cnn.com
@@ -1215,3 +1216,4 @@ gitflic.ru##.js-single-banner.sidebar-single-banner
 timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round.q-btn--flat.no-outline.non-selectable.q-btn-item.q-btn
 
 !========================================================================!
+
