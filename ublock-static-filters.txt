@@ -515,10 +515,12 @@ www.reuters.com##[class*="promo-box"]
 www.reuters.com##[class*="license-content-button"]
 
 ! https://www.nytimes.com
+www.nytimes.com##[data-testid="subscribe-button"]
+www.nytimes.com##a[href^="https://myaccount.nytimes.com/auth/login"]
+
 www.nytimes.com##.quiz-ad-container
 www.nytimes.com##.actionbar-button.css-1eeh360
 www.nytimes.com##div:has(> [data-testid="StandardAd"])
-www.nytimes.com##a[href^="https://myaccount.nytimes.com/auth/login"]
 www.nytimes.com##.gps-module
 
 ! https://edition.cnn.com
