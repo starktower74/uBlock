@@ -384,15 +384,11 @@ news.google.com##a[aria-label="Sign in"]
 
 ! Help button
 news.google.com##button[aria-label="Help"]
-!news.google.com##div:has(> div > div > div > span > button[aria-label="Help"])
 
 ! Android
 
-! Sign in banner
-news.google.com##.Au3bp.EElTpf.kbeFSb.lMgtcc.R7GTQ.j7vNaf.ALi4tc.YtXOzd
-
 ! Add top padding to top stories
-news.google.com###i5 > .cp7Yvc:style(padding-top: 10px !important;)
+!news.google.com###i5 > .cp7Yvc:style(padding-top: 10px !important;)
 
 ! https://news.ycombinator.com
 news.ycombinator.com##.pro-button-bottom.settings-row-pro.settings-row-more
