@@ -367,6 +367,9 @@ trendlyne.com##.fw500.tl-collapsing-nav-link.point.text-xs-center.ttn-item.nav-i
 
 !================================= Marktet ==================================!
 
+! https://in.tradingview.com
+in.tradingview.com##[class*=desktopUpgrade]
+
 ! https://dhan.co
 dhan.co##.false.top-20.sticky
 dhan.co##.bottom-\[0\%\].z-\[50\].fixed.m-auto.px-4.py-2.border-\[\#f8b80538\].border-b-0.border.bgkendMF.rounded-t-2xl.bg-\[\#F7E5D7\].hidden.lg\:block
@@ -1220,4 +1223,3 @@ gitflic.ru##.js-single-banner.sidebar-single-banner
 timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round.q-btn--flat.no-outline.non-selectable.q-btn-item.q-btn
 
 !========================================================================!
-
