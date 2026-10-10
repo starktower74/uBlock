@@ -387,8 +387,11 @@ news.google.com##button[aria-label="Help"]
 
 ! Android
 
-! Add top padding to top stories
-!news.google.com###i5 > .cp7Yvc:style(padding-top: 10px !important;)
+! Sign in banner on for you tab
+news.google.com##[data-n-sil^="https://accounts.google.com/ServiceLogin"]
+
+! Add top padding to top stories after removing sign in banner
+news.google.com##div:has(> div > h2 > [aria-label="Top stories"]):style(padding-top: 8px !important;)
 
 ! https://news.ycombinator.com
 news.ycombinator.com##.pro-button-bottom.settings-row-pro.settings-row-more
@@ -1212,4 +1215,3 @@ gitflic.ru##.js-single-banner.sidebar-single-banner
 timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round.q-btn--flat.no-outline.non-selectable.q-btn-item.q-btn
 
 !========================================================================!
-
