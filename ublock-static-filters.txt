@@ -385,6 +385,9 @@ news.google.com##a[aria-label="Sign in"]
 ! Help button
 news.google.com##button[aria-label="Help"]
 
+! Sign in banner on home tab
+news.google.com##div:has(> div > div > div > [aria-label="Sign in"])
+
 ! Android
 
 ! Sign in banner on for you tab
@@ -1215,3 +1218,4 @@ gitflic.ru##.js-single-banner.sidebar-single-banner
 timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round.q-btn--flat.no-outline.non-selectable.q-btn-item.q-btn
 
 !========================================================================!
+
