@@ -164,6 +164,11 @@ open.spotify.com##button[data-testid="upgrade-button"]
 open.spotify.com##a:has-text(Install App)
 open.spotify.com##a[href="/download"]
 
+! https://music.youtube.com
+
+! Sidebar upgrade button
+music.youtube.com##ytmusic-guide-entry-renderer:has(yt-formatted-string:has-text(/^Upgrade$/))
+
 ! https://trakt.tv
 trakt.tv###af1a979-be54078-wrapper
 
