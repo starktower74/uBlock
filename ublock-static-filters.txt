@@ -6,7 +6,7 @@
 ! https://www.google.com
 
 ! Sign in button
-google.com##a[aria-label="Sign in"]
+www.google.com##a[aria-label="Sign in"]
 
 ! https://duckduckgo.com
 duckduckgo.com##a[href="https://duckduckgo.com/compare-privacy"]
@@ -372,8 +372,8 @@ trendlyne.com##.fw500.tl-collapsing-nav-link.point.text-xs-center.ttn-item.nav-i
 
 !================================= Marktet ==================================!
 
-! https://in.tradingview.com
-in.tradingview.com##[class*="desktopUpgrade" i]
+! https://tradingview.com
+tradingview.com##[class*="desktopUpgrade" i]
 
 ! https://dhan.co
 dhan.co##.false.top-20.sticky
