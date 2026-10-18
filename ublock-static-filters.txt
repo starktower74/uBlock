@@ -168,7 +168,7 @@ music.youtube.com##.ytmusic-nav-bar.app-bar-button.sign-in-link
 music.youtube.com##ytmusic-guide-signin-promo-renderer
 
 ! Artist picker shelf when logged out
-music.youtube.com###sections:has(ytmusic-guide-signin-promo-renderer) ytmusic-tastebuilder-shelf-renderer
+music.youtube.com##ytmusic-tastebuilder-shelf-renderer
 
 ! https://open.spotify.com
 
