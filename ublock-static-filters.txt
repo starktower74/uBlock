@@ -159,8 +159,11 @@ youtube.com##.ytp-caption-segment:style(background: rgba(8, 8, 8, 0.5) !importan
 ! Sidebar upgrade button
 music.youtube.com##ytmusic-guide-entry-renderer:has(yt-formatted-string:has-text(/^Upgrade$/))
 
-! Sign in button when logged out
+! Sign in button top when logged out
 music.youtube.com##.ytmusic-nav-bar.app-bar-button.sign-in-link
+
+! Sign in promo sidebar when logged out
+music.youtube.com##ytmusic-guide-signin-promo-renderer
 
 ! https://open.spotify.com
 
@@ -1225,4 +1228,5 @@ gitflic.ru##.js-single-banner.sidebar-single-banner
 timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round.q-btn--flat.no-outline.non-selectable.q-btn-item.q-btn
 
 !========================================================================!
+
 
