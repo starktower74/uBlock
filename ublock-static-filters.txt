@@ -245,7 +245,7 @@ gemini.google.com##.signed-out-buttons
 gemini.google.com##.mavatar-signed-out-buttons
 
 ! Sign in prompt above textbox
-gemini.google.com##.gem-banner-container
+gemini.google.com##[sign-in-nudge]
 
 ! Remove disclaimer
 gemini.google.com##.capabilities-disclaimer
