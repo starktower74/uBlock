@@ -121,10 +121,12 @@ web.whatsapp.com##button:has-text(Ask Meta AI)
 ! https://www.youtube.com
 
 ! Create button top when logged in, sign in button when logged out
-www.youtube.com###buttons > ytd-button-renderer.ytd-masthead
+www.youtube.com###buttons > ytd-button-renderer
+!www.youtube.com###buttons > ytd-button-renderer:has([aria-label="Create"])
+!www.youtube.com###buttons > ytd-button-renderer:has([aria-label="Sign in"])
 
 ! Menu button top
-www.youtube.com###button > .ytd-topbar-menu-button-renderer
+www.youtube.com###buttons > ytd-topbar-menu-button-renderer
 
 ! Sidebar button top
 www.youtube.com###guide-icon
@@ -133,8 +135,8 @@ www.youtube.com###guide-icon
 www.youtube.com###voice-search-button
 
 ! Remove subscribe, join button if not logged in (checks for avatar icon)
-youtube.com##body:not(:has(#avatar-btn)) #subscribe-button
-youtube.com##body:not(:has(#avatar-btn)) #sponsor-button
+youtube.com###buttons:not(:has(#avatar-btn)) #subscribe-button
+youtube.com###buttons:not(:has(#avatar-btn)) #sponsor-button
 
 ! RYD bar under like button
 www.youtube.com##.ryd-tooltip-bar-container
@@ -164,6 +166,9 @@ music.youtube.com##.ytmusic-nav-bar.app-bar-button.sign-in-link
 
 ! Sign in promo sidebar when logged out
 music.youtube.com##ytmusic-guide-signin-promo-renderer
+
+! Artist picker shelf when logged out
+music.youtube.com###sections:has(ytmusic-guide-signin-promo-renderer) ytmusic-tastebuilder-shelf-renderer
 
 ! https://open.spotify.com
 
@@ -1228,5 +1233,4 @@ gitflic.ru##.js-single-banner.sidebar-single-banner
 timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round.q-btn--flat.no-outline.non-selectable.q-btn-item.q-btn
 
 !========================================================================!
-
 
