@@ -126,7 +126,7 @@ www.youtube.com###buttons > ytd-button-renderer
 !www.youtube.com###buttons > ytd-button-renderer:has([aria-label="Sign in"])
 
 ! Menu button top
-www.youtube.com###buttons > ytd-topbar-menu-button-renderer
+www.youtube.com###buttons > ytd-topbar-menu-button-renderer > #button
 
 ! Sidebar button top
 www.youtube.com###guide-icon
