@@ -212,6 +212,12 @@ chatgpt.com##[data-header-auth-actions]
 ! Sidebar login prompt
 chatgpt.com##[data-sidebar-login-panel]
 
+! Sidebar pricing link
+chatgpt.com##a[href="https://openai.com/chatgpt/pricing/"]
+
+! Sidebar help link
+chatgpt.com##a[href="https://help.openai.com"]
+
 ! Disclaimer bottom
 chatgpt.com##[data-privacy-positioner]
 
