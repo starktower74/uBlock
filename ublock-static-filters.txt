@@ -241,6 +241,9 @@ chatgpt.com##+js(set-session-storage-item, oai/apps/noAuthHasDismissedSoftRateLi
 ! Sign in button top
 gemini.google.com##.signed-out-buttons
 
+! Sign in button sidebar bottom
+gemini.google.com##.mavatar-signed-out-buttons
+
 ! Sign in prompt above textbox
 gemini.google.com##.gem-banner-container
 
