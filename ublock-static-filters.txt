@@ -135,8 +135,8 @@ www.youtube.com###guide-icon
 www.youtube.com###voice-search-button
 
 ! Remove subscribe, join button if not logged in (checks for avatar icon)
-youtube.com###buttons:not(:has(#avatar-btn)) #subscribe-button
-youtube.com###buttons:not(:has(#avatar-btn)) #sponsor-button
+www.youtube.com##body:not(:has(#avatar-btn)) #subscribe-button
+www.youtube.com##body:not(:has(#avatar-btn)) #sponsor-button
 
 ! RYD bar under like button
 www.youtube.com##.ryd-tooltip-bar-container
@@ -1233,4 +1233,5 @@ gitflic.ru##.js-single-banner.sidebar-single-banner
 timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round.q-btn--flat.no-outline.non-selectable.q-btn-item.q-btn
 
 !========================================================================!
+
 
