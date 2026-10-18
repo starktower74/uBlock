@@ -215,6 +215,9 @@ chatgpt.com##[data-sidebar-login-panel]
 ! Disclaimer bottom
 chatgpt.com##[data-privacy-positioner]
 
+! Increase textbox bottom padding 
+chatgpt.com##[data-composer-dock]:style(padding-bottom: 10px !important;)
+
 ! JS
 
 ! Disable login prompt
