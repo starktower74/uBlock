@@ -26,7 +26,8 @@ duckduckgo.com##[data-testid="floating-feedback-prompt"]
 mail.google.com##[data-pep-id="global-pep-gmail"]
 
 ! Gemini button
-mail.google.com##div:has(> [data-rp-placement-id="gemkick-pep-icon-callout-id"])
+mail.google.com##div:has(> div > span > [aria-label="Try Gemini"])
+!mail.google.com##div:has(> [data-rp-placement-id="gemkick-pep-icon-callout-id"])
 
 ! Support button
 ! Initial load only has this anchor with support icon outline
@@ -1233,5 +1234,4 @@ gitflic.ru##.js-single-banner.sidebar-single-banner
 timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round.q-btn--flat.no-outline.non-selectable.q-btn-item.q-btn
 
 !========================================================================!
-
 
