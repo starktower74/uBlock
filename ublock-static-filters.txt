@@ -1210,6 +1210,7 @@ cleartax.in##.sm\:hidden.cursor-pointer.top-16.sticky
 batcave.biz##.reader-patron-promo
 batcave.biz##.reader-support
 batcave.biz###reader-comments
+batcave.biz##.footer
 
 !================================= Work ================================!
 
