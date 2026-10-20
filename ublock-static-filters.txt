@@ -389,6 +389,19 @@ dhan.co##.items-center.xl\:gap-3.gap-3.justify-end.lg\:flex.hidden
 ! https://scanx.trade
 scanx.trade##.ng-star-inserted > .side-container
 
+!================================= Bible ================================!
+
+! https://www.bible.com
+www.bible.com##.no-underline.whitespace-nowrap.hover\:dark\:bg-canvas-dark.hover\:bg-gray-10.plb-1\.5.pli-2.rounded-4.font-bold.dark\:text-text-dark.text-text-light.md\:block.hidden
+
+! https://www.biblestudytools.com
+www.biblestudytools.com##.alert-severity-normal.alert
+
+! https://www.biblegateway.com
+www.biblegateway.com##.top-wrapper > .sys-announce > .wrapper > .sys-announce-content
+! Upgrade box
+www.biblegateway.com##div:has(> div.upgrade-box)
+
 !================================ News Feed ==================================!
 
 ! https://news.google.com
@@ -1191,18 +1204,12 @@ www.wealthy.in##.hkyMGo.StickySubscribeCta__Container-sc-9vga72-4
 ! https://cleartax.in
 cleartax.in##.sm\:hidden.cursor-pointer.top-16.sticky
 
-!================================= Bible ================================!
+!================================= Read Comics ================================!
 
-! https://www.bible.com
-www.bible.com##.no-underline.whitespace-nowrap.hover\:dark\:bg-canvas-dark.hover\:bg-gray-10.plb-1\.5.pli-2.rounded-4.font-bold.dark\:text-text-dark.text-text-light.md\:block.hidden
-
-! https://www.biblestudytools.com
-www.biblestudytools.com##.alert-severity-normal.alert
-
-! https://www.biblegateway.com
-www.biblegateway.com##.top-wrapper > .sys-announce > .wrapper > .sys-announce-content
-! Upgrade box
-www.biblegateway.com##div:has(> div.upgrade-box)
+! https://batcave.biz
+batcave.biz##.reader-patron-promo
+batcave.biz##.reader-support
+batcave.biz###reader-comments
 
 !================================= Work ================================!
 
