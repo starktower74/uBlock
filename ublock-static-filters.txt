@@ -1204,7 +1204,7 @@ www.wealthy.in##.hkyMGo.StickySubscribeCta__Container-sc-9vga72-4
 ! https://cleartax.in
 cleartax.in##.sm\:hidden.cursor-pointer.top-16.sticky
 
-!================================= Read Comics ================================!
+!============================= Read Comics =============================!
 
 ! https://batcave.biz
 batcave.biz##.reader-patron-promo
