@@ -1211,6 +1211,8 @@ batcave.biz##.reader-patron-promo
 batcave.biz##.reader-support
 batcave.biz###reader-comments
 batcave.biz##.footer
+batcave.biz##.speedbar
+batcave.biz##.nav
 
 !================================= Work ================================!
 
