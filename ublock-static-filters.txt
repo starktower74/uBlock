@@ -150,6 +150,7 @@ www.youtube.com##yt-button-view-model:has(> button-view-model > button[aria-labe
 
 ! Experiencing interruptions popup
 www.youtube.com##.paper-toast-open.yt-notification-action-renderer.toast-button
+www.youtube.com##snackbar-container
 
 ! Information panel
 www.youtube.com###clarify-box
