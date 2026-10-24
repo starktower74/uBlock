@@ -339,6 +339,7 @@ www.indmoney.com##.items-center.block > .gap-4.items-center.flex
 www.indmoney.com##.text-13px.text-brand-white.bg-brand-black
 
 ! https://www.valueresearchonline.com
+www.valueresearchonline.com###vr-top-header-banner
 www.valueresearchonline.com##.sub-btn.nav-link
 www.valueresearchonline.com##.our-opinion-section
 
@@ -1245,4 +1246,3 @@ gitflic.ru##.js-single-banner.sidebar-single-banner
 timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round.q-btn--flat.no-outline.non-selectable.q-btn-item.q-btn
 
 !========================================================================!
-
