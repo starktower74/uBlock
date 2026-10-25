@@ -182,6 +182,8 @@ open.spotify.com##button[data-testid="upgrade-button"]
 open.spotify.com##a:has-text(Install App)
 open.spotify.com##a[href="/download"]
 
+open.spotify.com##.footer
+
 ! https://trakt.tv
 trakt.tv###af1a979-be54078-wrapper
 
@@ -1252,4 +1254,3 @@ gitflic.ru##.js-single-banner.sidebar-single-banner
 timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round.q-btn--flat.no-outline.non-selectable.q-btn-item.q-btn
 
 !========================================================================!
-
