@@ -182,7 +182,7 @@ open.spotify.com##button[data-testid="upgrade-button"]
 open.spotify.com##a:has-text(Install App)
 open.spotify.com##a[href="/download"]
 
-open.spotify.com##.footer
+open.spotify.com##.main-view-container__mh-footer-container
 
 ! https://trakt.tv
 trakt.tv###af1a979-be54078-wrapper
