@@ -937,8 +937,7 @@ economictimes.indiatimes.com##[class*="stickymrecad" i]
 economictimes.indiatimes.com##.bylineBox > .contentwrapper.dt:style(padding-top: 10px !important;)
 
 ! MF promo top
-economictimes.indiatimes.com##.MarketBand_flex__KgnHh.MarketBand_bandContent__uagJF
-economictimes.indiatimes.com##[href^="https://www.motilaloswalmf.com/mutual-funds/motilal-oswal-midcap-fund"]
+economictimes.indiatimes.com##div:has(> [rel="nofollow sponsored"])
 
 ! Remove advertorial articles
 economictimes.indiatimes.com##div[data-artitype="Advertorial" i]
