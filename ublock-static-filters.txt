@@ -225,7 +225,7 @@ torbox.app##.py-2.gap-2.flex-col.flex
 chatgpt.com##[data-header-auth-actions]
 
 ! Sidebar login prompt
-chatgpt.com##[data-sidebar-login-panel]
+chatgpt.com##[data-slot="sidebar-actions"]
 
 ! Sidebar pricing link
 chatgpt.com##a[href="https://openai.com/chatgpt/pricing/"]
