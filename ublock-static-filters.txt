@@ -334,7 +334,7 @@ kuvera.in##.b-portfolio-fund-info__manage-fund-btn--scrolled-to-end.b-portfolio-
 kuvera.in##.b-portfolio-header__add-asset-container.v-popover
 
 ! https://groww.in
-groww.in##.footer_footerWrapper__49W38.backgroundTertiary.row
+groww.in##[class*="footer_footerWrapper" i]
 
 ! https://www.indmoney.com
 www.indmoney.com##.items-center.block > .gap-4.items-center.flex
