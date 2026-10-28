@@ -991,7 +991,7 @@ www.livemint.com##[class*="ad-" i], [id*="ad-" i]
 www.livemint.com##[class*="newsletter" i]
 
 www.livemint.com##[class*="blockAd" i]
-www.livemint.com##[class*="storyPage_storyAd" i]
+www.livemint.com##[class*="storyAd" i]
 www.livemint.com##[class*="carouselAdWrapper" i]
 www.livemint.com##[class*="RhsPersonalFinanceCss_container" i]
 www.livemint.com##[class*="PLOffersFormBanner" i]
