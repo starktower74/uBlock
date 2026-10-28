@@ -986,6 +986,35 @@ www.business-standard.com##.stryadstp
 www.business-standard.com##.MainStory_readapp__QvG2w
 www.business-standard.com##.show-on-mobile
 
+! https://www.livemint.com
+www.livemint.com##[class*="ad-" i], [id*="ad-" i]
+www.livemint.com##[class*="newsletter" i]
+
+www.livemint.com##[class*="storyPage_storyAd" i]
+www.livemint.com##[class*="carouselAdWrapper" i]
+www.livemint.com##[class*="RhsPersonalFinanceCss_container" i]
+www.livemint.com##[class*="PLOffersFormBanner" i]
+www.livemint.com##[class*="shareBarRhs" i]
+
+! Show article date with exception for social widgets easylist rule
+www.livemint.com#@#.authorSocial
+
+! Sign in, Subscribe, Epaper buttons
+www.livemint.com##.linkRight
+
+www.livemint.com##.ad
+www.livemint.com##.rightblockAd2
+www.livemint.com###subscriptionNewBanner
+www.livemint.com##.btmStrip
+www.livemint.com##.imagediv
+
+! Android
+www.livemint.com##.btmMenu
+www.livemint.com##.menuBtm
+www.livemint.com###parentSidestickyopenapp
+www.livemint.com##.eventFired.openinApp
+www.livemint.com##.subscribeNow
+
 ! https://www.moneycontrol.com
 www.moneycontrol.com##[class*="newsletter" i]
 www.moneycontrol.com##[class*="advSlot" i]
@@ -1017,34 +1046,6 @@ www.moneycontrol.com##.js-li-win-to-spin-game-start.css-li-win-to-spin-game-star
 www.moneycontrol.com##.js-li-loan
 www.moneycontrol.com##.btm_img2
 www.moneycontrol.com##.snapShotAiSummery
-
-! https://www.livemint.com
-www.livemint.com##[class*="ad-" i], [id*="ad-" i]
-www.livemint.com##[class*="newsletter" i]
-
-! Show article date with exception for social widgets easylist rule
-www.livemint.com#@#.authorSocial
-
-www.livemint.com##.ad
-www.livemint.com##.rightblockAd2
-www.livemint.com###subscriptionNewBanner
-www.livemint.com##.btmStrip
-www.livemint.com##.imagediv
-||www.livemint.com/lm-img/cdp/Storefront_Images/1746168736674.png$image
-www.livemint.com##.mainFrame.PLOffersFormBannerCss_mainFrame__zc2fF
-www.livemint.com##.RhsPersonalFinanceCss_container__Ccu5h
-www.livemint.com###shareBar_11744778808824 > .echoSdk_shareBarRhs
-www.livemint.com##div.linkRight:nth-of-type(4)
-www.livemint.com##.echoSdk_shareBarRhs
-www.livemint.com##.storyPage_storyAd__soBOT
-www.livemint.com##.belowStoryVisible > .carouselAdWrapper
-
-! Android
-www.livemint.com##.btmMenu
-www.livemint.com##.menuBtm
-www.livemint.com###parentSidestickyopenapp
-www.livemint.com##.eventFired.openinApp
-www.livemint.com##.subscribeNow
 
 ! https://www.businesstoday.in
 www.businesstoday.in##.tapBoxCls
