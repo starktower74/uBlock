@@ -862,7 +862,7 @@ indianexpress.com##.yellow-theme.myNotification-wrapper
 ! https://www.hindustantimes.com
 www.hindustantimes.com##[class*="PageAd" i]
 
-! Subcribe, Epaper buttons top
+! Subscribe, Epaper buttons top
 www.hindustantimes.com##.rgtLinks
 
 ! Economist subscribe promo
