@@ -992,10 +992,10 @@ www.livemint.com##[class*="newsletter" i]
 
 www.livemint.com##[class*="blockAd" i]
 www.livemint.com##[class*="storyAd" i]
-www.livemint.com##[class*="carouselAdWrapper" i]
-www.livemint.com##[class*="RhsPersonalFinanceCss_container" i]
-www.livemint.com##[class*="PLOffersFormBanner" i]
-www.livemint.com##[class*="shareBarRhs" i]
+www.livemint.com##[class*="carouselAd" i]
+www.livemint.com##[class*="RhsPersonalFinance" i]
+www.livemint.com##[class*="PLOffers" i]
+www.livemint.com##[class*="shareBar" i]
 
 ! Show article date with exception for social widgets easylist rule
 www.livemint.com#@#.authorSocial
