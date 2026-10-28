@@ -1000,6 +1000,7 @@ www.livemint.com##[class*="newsletter" i]
 
 www.livemint.com##[class*="blockAd" i]
 www.livemint.com##[class*="storyAd" i]
+www.livemint.com##[class*="AdWrap" i]
 www.livemint.com##[class*="carouselAd" i]
 www.livemint.com##[class*="RhsPersonalFinance" i]
 www.livemint.com##[class*="PLOffers" i]
@@ -1268,4 +1269,3 @@ gitflic.ru##.js-single-banner.sidebar-single-banner
 timee.io###mainToolbar > .q-hoverable.q-focusable.q-btn--actionable.q-btn--round.q-btn--flat.no-outline.non-selectable.q-btn-item.q-btn
 
 !========================================================================!
-
