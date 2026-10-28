@@ -860,13 +860,21 @@ indianexpress.com###taboola-loader
 indianexpress.com##.yellow-theme.myNotification-wrapper
 
 ! https://www.hindustantimes.com
+www.hindustantimes.com##[class*="PageAd" i]
+
+! Subcribe, Epaper buttons top
+www.hindustantimes.com##.rgtLinks
+
+! Economist subscribe promo
+www.hindustantimes.com##div:has(> [onclick*="ht_eco_banner"])
+
+! Google news promo
 www.hindustantimes.com###htEchoArticlePromo
-www.hindustantimes.com##.mb10.promotedWidget.darkBg.middleTaboola
-www.hindustantimes.com##.rgtTopAd
-www.hindustantimes.com##body > .mHide
-www.hindustantimes.com##li.nonAmp:nth-of-type(7)
-www.hindustantimes.com##li:nth-of-type(7)
-www.hindustantimes.com###divBestDealsRight > .rgtWidget
+
+! Side widgets
+www.hindustantimes.com##.shopnow-widget
+www.hindustantimes.com##.games-widget
+www.hindustantimes.com##[data-var-widgetname*="deals" i]
 
 ! https://www.indiatoday.in
 www.indiatoday.in##.ssologin
