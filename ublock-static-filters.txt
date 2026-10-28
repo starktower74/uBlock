@@ -728,8 +728,8 @@ thelooker.thedailybeast.com##div:has(> aside[data-name="ads" i])
 thelooker.thedailybeast.com###header-ad__wrapper
 
 ! https://www.aljazeera.com
-www.aljazeera.com##.sidebar-style.sib-newsletter-form
-www.aljazeera.com##.site-header__account > .auth-btn
+www.aljazeera.com##[class*="newsletter" i]
+www.aljazeera.com##.auth-btn
 
 ! https://www.the-independent.com
 www.the-independent.com##.video-sticky-video
