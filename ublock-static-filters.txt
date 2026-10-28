@@ -990,6 +990,7 @@ www.business-standard.com##.show-on-mobile
 www.livemint.com##[class*="ad-" i], [id*="ad-" i]
 www.livemint.com##[class*="newsletter" i]
 
+www.livemint.com##[class*="blockAd" i]
 www.livemint.com##[class*="storyPage_storyAd" i]
 www.livemint.com##[class*="carouselAdWrapper" i]
 www.livemint.com##[class*="RhsPersonalFinanceCss_container" i]
@@ -1003,7 +1004,6 @@ www.livemint.com#@#.authorSocial
 www.livemint.com##.linkRight
 
 www.livemint.com##.ad
-www.livemint.com##.rightblockAd2
 www.livemint.com###subscriptionNewBanner
 www.livemint.com##.btmStrip
 www.livemint.com##.imagediv
