@@ -1022,6 +1022,9 @@ www.moneycontrol.com##.snapShotAiSummery
 www.livemint.com##[class*="ad-" i], [id*="ad-" i]
 www.livemint.com##[class*="newsletter" i]
 
+! Show article date with exception for social widgets easylist rule
+www.livemint.com#@#.authorSocial
+
 www.livemint.com##.ad
 www.livemint.com##.rightblockAd2
 www.livemint.com###subscriptionNewBanner
