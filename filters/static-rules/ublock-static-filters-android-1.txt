@@ -1,1 +1,21 @@
+! Title: uBlock Static Filters Android 1
+! Expires: 6 hours
 
+!================================== Search ===================================!
+
+! https://www.google.com
+
+! Sign in button
+www.google.com##a[aria-label="Sign in"]
+
+! Sign in with Google prompt on sites
+||accounts.google.com/gsi/iframe/select?client_id=*.apps.googleusercontent.com
+
+! AI Mode add files button
+www.google.com##button[aria-label*="Add files"]
+
+! AI Mode google lens button
+www.google.com##button[aria-label*="Upload image"]
+
+! Add left padding to textbox after removing add files button
+www.google.com##textarea[aria-label*="Ask"]:style(padding-left: 5px !important;)
