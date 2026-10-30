@@ -1014,6 +1014,7 @@ www.livemint.com##.linkRight
 
 www.livemint.com##.ad
 www.livemint.com###subscriptionNewBanner
+www.livemint.com##.market-strip-container
 www.livemint.com##.btmStrip
 www.livemint.com##.imagediv
 
