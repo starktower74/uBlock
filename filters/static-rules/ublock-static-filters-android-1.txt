@@ -1,15 +1,17 @@
 ! Title: uBlock Static Filters Android 1
 ! Expires: 6 hours
 
+!================================== Email =====================================!
+
+! Sign in with Google prompt on sites
+||accounts.google.com/gsi/iframe/select?client_id=*.apps.googleusercontent.com
+
 !================================== Search ===================================!
 
 ! https://www.google.com
 
 ! Sign in button
 www.google.com##a[aria-label="Sign in"]
-
-! Sign in with Google prompt on sites
-||accounts.google.com/gsi/iframe/select?client_id=*.apps.googleusercontent.com
 
 ! AI Mode add files button
 www.google.com##button[aria-label*="Add files"]
