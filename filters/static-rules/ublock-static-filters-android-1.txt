@@ -17,5 +17,6 @@ www.google.com##button[aria-label*="Add files"]
 ! AI Mode google lens button
 www.google.com##button[aria-label*="Upload image"]
 
-! Add left padding to textbox after removing add files button
-www.google.com##textarea[aria-label*="Ask"]:style(padding-left: 5px !important;)
+! Add left padding to placeholder text after removing add files button
+www.google.com##textarea[aria-label*="Ask"]::placeholder:style(padding-left: 10px !important;)
+
