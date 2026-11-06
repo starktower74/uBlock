@@ -645,7 +645,6 @@ www.wsj.com##[class*="CustomerNavWrapper" i]
 ! Other sites banner top
 www.wsj.com##nav-hat
 
-
 ! https://www.cnbc.com
 www.cnbc.com##.SignUpMenu-signUpMenu
 www.cnbc.com##.SignInMenu-signInMenu
