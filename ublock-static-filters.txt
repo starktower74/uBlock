@@ -264,6 +264,7 @@ gemini.google.com##.signed-out-buttons
 
 ! Sign in button sidebar bottom
 gemini.google.com##.mavatar-signed-out-buttons
+gemini.google.com##sidenav-mavatar-footer
 
 ! Sign in prompt above textbox
 gemini.google.com##sign-in-nudge
@@ -1270,4 +1271,4 @@ gitflic.ru##.js-single-banner.sidebar-single-banner
 timee.io##button:has-text("Sign in")
 timee.io##footer
 
-!========================================================================!
+!========================================================================!gemini
