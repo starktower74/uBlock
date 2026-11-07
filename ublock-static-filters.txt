@@ -1271,4 +1271,4 @@ gitflic.ru##.js-single-banner.sidebar-single-banner
 timee.io##button:has-text("Sign in")
 timee.io##footer
 
-!========================================================================!gemini
+!========================================================================!
