@@ -731,6 +731,7 @@ thelooker.thedailybeast.com###header-ad__wrapper
 ! https://www.aljazeera.com
 www.aljazeera.com##[class*="newsletter" i]
 www.aljazeera.com##.auth-btn
+www.aljazeera.com##.site-header__live-cta
 
 ! https://www.the-independent.com
 www.the-independent.com##.video-sticky-video
