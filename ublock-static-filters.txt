@@ -184,8 +184,8 @@ open.spotify.com##a[href="/download"]
 
 open.spotify.com##.main-view-container__mh-footer-container
 
-! https://trakt.tv
-trakt.tv###af1a979-be54078-wrapper
+! https://app.trakt.tv
+app.trakt.tv##trakt-get-vip-link
 
 ! https://www.twitch.tv
 www.twitch.tv###twilight-sticky-footer-root
@@ -1273,3 +1273,4 @@ timee.io##button:has-text("Sign in")
 timee.io##footer
 
 !========================================================================!
+
