@@ -1188,7 +1188,10 @@ www.twentyfournews.com##div.mbtm30.etext.center.WidgetA:nth-of-type(8)
 !================================ Read ================================!
 
 ! https://app.raindrop.io
-app.raindrop.io##.upgrade-R9fx
+app.raindrop.io##[class*="upgrade" i]
+
+! https://substack.com
+substack.com##[data-testid="noncontributor-cta-button"]
 
 !============================= Read Business =============================!
 
