@@ -642,6 +642,7 @@ www.bloomberg.com##[class*="floating-copy-link" i]
 
 ! Subscribe, sign in buttons top
 www.wsj.com##[class*="CustomerNavWrapper" i]
+www.wsj.com##[class*="LoginWrapper" i]
 
 ! Other sites banner top
 www.wsj.com##nav-hat
