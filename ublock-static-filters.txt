@@ -139,6 +139,10 @@ www.youtube.com###voice-search-button
 www.youtube.com##body:not(:has(#avatar-btn)) #subscribe-button
 www.youtube.com##body:not(:has(#avatar-btn)) #sponsor-button
 
+! Shorts subscribe, join button
+www.youtube.com##.ytReelChannelBarViewModelReelSubscribeButton
+www.youtube.com##.ytReelChannelBarViewModelReelSponsorButton
+
 ! RYD bar under like button
 www.youtube.com##.ryd-tooltip-bar-container
 
@@ -1277,4 +1281,3 @@ timee.io##button:has-text("Sign in")
 timee.io##footer
 
 !========================================================================!
-
