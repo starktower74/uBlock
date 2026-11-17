@@ -589,10 +589,13 @@ www.theguardian.com##div:has(> [aria-label="Not for Sale"])
 www.axios.com##.rounded-xs.px-6.py-2.hover\:bg-nav-hover.bg-transparent.gap-x-2.items-center.flex
 
 ! https://www.newsweek.com
-www.newsweek.com##.signin-button.auth-hidden.Button_nwTheme__o5q9t
-www.newsweek.com##.Button_--size-small__TmFrc.Button_--variant-solid__ToR3G.Button_--color-neutral__6ivUt.Button_small__NyCDp.Button_primary__WTwSy.Button_override__74XMu.Button_button__OFOdO.ArticleHeader_subscribeButton__D8c7j.Button_root__ZT_Ql.Actionable_root__LiyqW
-www.newsweek.com##div.Homepage_section__sZEh4:nth-of-type(7)
-www.newsweek.com##div.Button-module-scss-module__gW1A4G__nwTheme:nth-of-type(1)
+
+! Hide subscribe, sign in buttons to keep the nav bottom border padding
+www.newsweek.com##[href="https://www.newsweek.com/subscribe"]:style(visibility: hidden !important;)
+www.newsweek.com##[class*="signin-button" i]:style(visibility: hidden !important;)
+
+! Google news promo
+www.newsweek.com##div:has(> button[aria-label*="Prefer Newsweek on Google" i])
 
 ! https://www.politico.com
 www.politico.com##.sign-up-21--initialized.sign-up-21
